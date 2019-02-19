@@ -1,0 +1,7 @@
+
+JustTheName
+Two	tabs	1
+NegativeScore	-1
+OverScore	11
+InvalidStringScore	a
+InvalidStringCaseScore	f
