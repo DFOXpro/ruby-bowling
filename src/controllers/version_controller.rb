@@ -1,5 +1,5 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require_relative '../views/version_view'
+require File.join File.dirname(__FILE__), '../views/version_view'
 
 # This class will print the version info
 class VersionController

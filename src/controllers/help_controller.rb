@@ -1,5 +1,5 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require_relative '../views/help_view'
+require File.join File.dirname(__FILE__), '../views/help_view'
 
 # This class will print the help info
 class HelpController

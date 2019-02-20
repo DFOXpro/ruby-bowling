@@ -1,8 +1,8 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require_relative './input_file_controller.rb'
-require_relative './output_controller.rb'
-require_relative '../models/player_score.rb'
-require_relative '../views/bowling_view.rb'
+require File.join File.dirname(__FILE__), './input_file_controller.rb'
+require File.join File.dirname(__FILE__), './output_controller.rb'
+require File.join File.dirname(__FILE__), '../models/player_score.rb'
+require File.join File.dirname(__FILE__), '../views/bowling_view.rb'
 
 # This class process the input data and present the bowling score card
 class BowlingController

@@ -1,6 +1,6 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require_relative './_alias.rb'
-Dir["./controllers/*_controller.rb"].each do |controller_file|
+require File.join File.dirname(__FILE__), './_alias.rb'
+Dir[File.join(File.dirname(__FILE__), "./controllers/*_controller.rb")].each do |controller_file|
 	require_relative controller_file
 end
 

@@ -1,6 +1,6 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require_relative '../_alias.rb'
-require_relative '../variables.rb'
+require File.join File.dirname(__FILE__), '../_alias.rb'
+require File.join File.dirname(__FILE__), '../variables.rb'
 
 # This class handle the input file and give an tokenized array of the lines in the file
 class InputFileController

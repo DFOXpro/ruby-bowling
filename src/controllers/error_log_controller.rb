@@ -1,6 +1,6 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require_relative '../views/error_log_view'
-require_relative '../_alias'
+require File.join File.dirname(__FILE__), '../views/error_log_view'
+require File.join File.dirname(__FILE__), '../_alias'
 
 # This class will show errors catch/pop in this program
 class ErrorLogController

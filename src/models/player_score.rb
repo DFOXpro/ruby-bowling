@@ -1,5 +1,5 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require './_alias.rb'
+require File.join File.dirname(__FILE__), '../_alias.rb'
 
 # This class digest the data to a player list with the bowling shots and scores
 #

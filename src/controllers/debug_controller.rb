@@ -1,5 +1,5 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require_relative './error_log_controller'
+require File.join File.dirname(__FILE__), './error_log_controller'
 
 # This class if enable will print debug info, intended for testing
 class DebugController
