@@ -45,10 +45,12 @@ class GenerateController
 	# @return [Array] or [Nil] player, shotscore
 	def self.generate_data
 		return nil if not @@should_generate_data
+		Debug.start_benchmark :generate_data, "Generating data"
 		generated_data = []
 		player_names = generate_random_names
 		player_shots = {}
 		player_names.each {|player| player_shots[player] = generate_shots}
+		Debug.stop_benchmark :generate_data
 
 		# this part is suboptimal for code but 1·1 to example input file
 		# and it's not slow in the end
@@ -59,14 +61,51 @@ class GenerateController
 				end
 			end
 		end
+		print_generated_data generated_data
 		return @@should_generated_data_be_process ? generated_data : []
 	end
 
 	private
 
+	def self.format_generated_data_group(generated_data_group)
+		group_string_to_print = ''
+		generated_data_group.each do |line|
+			group_string_to_print += "#{line.join '	'}\n"
+		end
+		return group_string_to_print
+	end
+	def self.print_generated_data(generated_data)
+		return if not @@generate_file_route != :NO_FILE_OUTPUT
+		string_to_print = nil
+
+		Debug.start_benchmark :format_generated_data, "Formating of generated data"
+		# this format is really slow
+		if(generated_data.size>500)
+			Debug.print 'threads pop'
+			require 'parallel'
+			core_to_use = 3
+			slice_size = (generated_data.size/core_to_use).ceil
+			groups = generated_data.each_slice(slice_size).to_a
+			result = Parallel.map(groups) do |group|
+				format_generated_data_group group
+			end
+			puts "total threads used #{result.size}"
+			string_to_print = result.join
+		else
+			# Debug.print 'no threads pop'
+			string_to_print = format_generated_data_group generated_data
+		end
+		Debug.stop_benchmark :format_generated_data
+
+		Debug.start_benchmark :format_write_data, "Writing generated data"
+		OutputFileController.write string_to_print, @@generate_file_route
+		Debug.stop_benchmark :format_write_data
+	end
+
 	# Get names from names.yml and if needed, it's goin to generate the missing ones
 	# @return [Array<String>]
 	def self.generate_random_names
+		# Debug.start_benchmark :generate_random_names, "Generating names"
 		player_names = YAML.load_file(
 			File.join File.dirname(__FILE__), "../locales/names.yml"
 		)["names"]
@@ -86,6 +125,7 @@ class GenerateController
 				current_players << posible_name
 			end
 		end
+		# Debug.stop_benchmark :generate_random_names
 		return current_players
 	end
 

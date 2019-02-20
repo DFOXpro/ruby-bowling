@@ -33,7 +33,7 @@ error_invalid_argument_blank: "Warning: catch a blank -  or -- option."
 
 warning_input_not_found: "Warning: (%s) not found, if you set G option with the same route will works fine."
 error_input_not_found: "Error: (%s) input not found."
-warning_generate_found: "Warning: input file is goin to be override with generated data."
+warning_generate_found: "Warning: (%s) is goin to be override with generated data."
 warning_output_file_found: "Warning: ($s) is goin to be override with score card ."
 
 warning_input_line_invalid: "Warning: invalid input line (%s), will be ignored."
