@@ -158,32 +158,35 @@ class PlayerScore
 	end
 
 	# @return [Boolean] it was a strike in the given frame
-	def strike?(frame_i)
+	def self.strike?(frame_shots)
 		return (
-			(not @frames[frame_i].nil?) and
-			@frames[frame_i][0] == TOTAL_PINES
+			(not frame_shots.nil?) and
+			frame_shots[0] == TOTAL_PINES
 		)
+	end
+	# @return [Boolean] it was a strike in the given frame
+	def strike?(frame_i)
+		return PlayerScore.strike? @frames[frame_i]
 	end
 
 	# @return [Boolean] it was a spare in the given frame
-	def spare?(frame_i)
+	def self.spare?(frame_shots)
 		return (
-			(not @frames[frame_i].nil?) and
-			frame_pins(frame_i, NORMAL_FRAME_SHOTS) == TOTAL_PINES
+			(not frame_shots.nil?) and
+			PlayerScore.frame_pins(frame_shots, NORMAL_FRAME_SHOTS) == TOTAL_PINES
 		)
 	end
-
-	private
+	# @return [Boolean] it was a spare in the given frame
+	def spare?(frame_i)
+		return PlayerScore.spare? @frames[frame_i]
+	end
 
 	# sum the pins down of the given shots in the given frame
 	def frame_pins(frame_i, valid_shots = FINAL_FRAME_SHOTS)
-		r = 0
-		return r if @frames[frame_i].nil?
-		@frames[frame_i].each_index do |shot_i|
-			r += parce_score(@frames[frame_i][shot_i]) if shot_i < valid_shots
-		end
-		return r
+		return PlayerScore.frame_pins @frames[frame_i], valid_shots
 	end
+
+	private
 
 	# after verification will add the shot score to the current frame of the player
 	def add_valid_score_to_frame(new_shot_score)
@@ -201,10 +204,23 @@ class PlayerScore
 		@frames[@current_frame] = []
 	end
 
+	# sum the pins down of the given shots in the given frame
+	def self.frame_pins(frame_shots, valid_shots = FINAL_FRAME_SHOTS)
+		r = 0
+		return r if frame_shots.nil?
+		frame_shots.each_index do |shot_i|
+			r += PlayerScore.parce_score(frame_shots[shot_i]) if shot_i < valid_shots
+		end
+		return r
+	end
+
 	# A score can be a Foul and will be processed like Zero, this method prevent
 	# String > Integer error
+	def self.parce_score(shot_score)
+		return (shot_score === 'F' ? 0 : shot_score)
+	end
 	def parce_score(shot_score)
-		shot_score === 'F' ? 0 : shot_score
+		return PlayerScore.parce_score shot_score
 	end
 
 	# Will check shenanigans like extra pins or any(??) non valid input

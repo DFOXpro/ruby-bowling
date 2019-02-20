@@ -12,8 +12,12 @@ class BowlingController
 	#
 	# Can print players with no shots or incomplete shots
 	def self.process
-		raw_data = InputFileController.get_raw_data
-		raw_data.each {|input_line| PlayerScore.digest_input_line input_line}
+		raw_data = GenerateController.generate_data
+		raw_data = InputFileController.get_raw_data if raw_data.nil?
+
+		# next line is RAM friendly
+		PlayerScore.digest_input_line raw_data.shift while(raw_data.size > 0)
+		
 		if PlayerScore.player_list.keys.size > 0
 			OutputFileController.print BowlingView.print_scores PlayerScore.player_list
 		end
