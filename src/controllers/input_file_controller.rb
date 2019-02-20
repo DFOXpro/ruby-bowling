@@ -1,5 +1,5 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require File.join File.dirname(__FILE__), '../_alias.rb'
+require File.join(File.dirname(__FILE__), '../_alias.rb')
 require File.join File.dirname(__FILE__), '../variables.rb'
 
 # This class handle the input file and give an tokenized array of the lines in the file
@@ -13,8 +13,8 @@ class InputFileController
 	# @param file_route [Strign, #read] the file route of the input file
 	def self.set_input_file(file_route = DEFAULT_INPUT_FILE)
 		Debug.print "inputFileController.set_input_file: #{file_route}"
-		@@input_file_route = file_route
-		if File.file?(@@input_file_route)
+		@@input_file_route = File.absolute_path file_route
+		if File.file? @@input_file_route
 			Debug.print "#{@@input_file_route} input file found"
 		else
 			Error.print :warning_input_not_found, @@input_file_route
@@ -28,8 +28,8 @@ class InputFileController
 	def self.get_raw_data
 		raw_data = []
 		total_readed_lines = 0
-		if File.file?(@@input_file_route)
-			Debug.print("Reading input file: #{@@input_file_route}")
+		if File.file? @@input_file_route
+			Debug.print "Reading input file: #{@@input_file_route}"
 			File.foreach(@@input_file_route) do |line|
 				total_readed_lines += 1
 				tokenized = line.split("	")
@@ -46,7 +46,7 @@ class InputFileController
 		else
 			Error.print :error_input_not_found, @@input_file_route
 		end
-		Debug.print("Total readed lines: #{total_readed_lines}")
+		Debug.print "Total readed lines: #{total_readed_lines}"
 		return raw_data
 	end
 end
