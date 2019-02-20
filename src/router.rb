@@ -41,6 +41,12 @@ class Router
 				digester_method: 'set_input_file',
 				digester_args: true
 			},
+			j: {
+				long_param: 'generate-no-process',
+				digester_controller: GenerateController,
+				digester_method: 'set_input_file_no_process',
+				digester_args: true
+			},
 			p: {
 				long_param: 'generate-total-players',
 				digester_controller: GenerateController,

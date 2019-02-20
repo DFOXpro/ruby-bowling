@@ -1,6 +1,7 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
 require File.join File.dirname(__FILE__), '../_alias.rb'
 require File.join File.dirname(__FILE__), '../models/player_score.rb'
+require File.join File.dirname(__FILE__), './output_controller.rb'
 
 # This class create random data to process
 class GenerateController
@@ -9,6 +10,7 @@ class GenerateController
 	@@generate_file_route = :NO_FILE_OUTPUT
 	@@generate_total_players = DEFAULT_TOTAL_PLAYERS
 	@@should_generate_data = false
+	@@should_generated_data_be_process = true
 
 	# Set the file route of the generated input
 	# will check and alert if the file is not found
@@ -27,6 +29,11 @@ class GenerateController
 		end
 	end
 
+	def self.set_input_file_no_process(file_route = :NO_FILE_OUTPUT)
+		set_input_file(file_route)
+		@@should_generated_data_be_process = false
+	end
+
 	# Set the total player that will be generated
 	# @param total_players [Integer, #read]
 	def self.set_players(total_players = DEFAULT_TOTAL_PLAYERS)
@@ -38,20 +45,21 @@ class GenerateController
 	# @return [Array] or [Nil] player, shotscore
 	def self.generate_data
 		return nil if not @@should_generate_data
-		data_generated = []
+		generated_data = []
 		player_names = generate_random_names
 		player_shots = {}
 		player_names.each {|player| player_shots[player] = generate_shots}
 
 		# this part is suboptimal for code but 1·1 to example input file
+		# and it's not slow in the end
 		PlayerScore::TOTAL_FRAMES.times do # |frame_i|
 			player_names.each do |player|
 				(player_shots[player].shift).each do |shot|
-					data_generated << [player, shot]
+					generated_data << [player, shot]
 				end
 			end
 		end
-		return data_generated
+		return @@should_generated_data_be_process ? generated_data : []
 	end
 
 	private
