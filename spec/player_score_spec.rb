@@ -1,6 +1,6 @@
-require_relative './before_specs.rb'
-require_relative '../src/controllers/input_file_controller.rb'
-require_relative '../src/models/player_score.rb'
+require File.expand_path './before_specs.rb', __dir__
+require File.expand_path '../src/controllers/input_file_controller.rb', __dir__
+require File.expand_path '../src/models/player_score.rb', __dir__
 
 RSpec.describe PlayerScore, '#initialize' do
 	context 'Within the input process players are build' do
@@ -19,10 +19,11 @@ RSpec.describe PlayerScore, '.digest_input_line' do
 	before(:context) do
 		PlayerScore.reset_scores
 		Debug.clean_log()
-		InputFileController.set_input_file '../fixtures/data_4_digest_input_line.txt'
+		InputFileController.set_input_file File.expand_path '../fixtures/data_4_digest_input_line.txt', __dir__
 		raw_data = InputFileController.get_raw_data
 		raw_data.each {|input_line| PlayerScore.digest_input_line input_line}
 		log = Debug.log
+		puts log
   end
 	context 'With a "valid" input' do
 		it 'Players should be created just one time' do
@@ -63,7 +64,7 @@ RSpec.describe PlayerScore, '#get_score' do
 	before(:context) do
 		PlayerScore.reset_scores
 		Debug.clean_log()
-		InputFileController.set_input_file '../fixtures/data_4_get_score.txt'
+		InputFileController.set_input_file File.expand_path '../fixtures/data_4_get_score.txt', __dir__
 		raw_data = InputFileController.get_raw_data
 		raw_data.each {|input_line| PlayerScore.digest_input_line input_line}
   end
