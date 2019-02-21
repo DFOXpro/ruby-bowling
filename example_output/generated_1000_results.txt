@@ -1,0 +1,3001 @@
+Frame		1		2		3		4		5		6		7		8		9		10
+Andrew
+Pinfalls	F	2	6	/	1	/	6	/	6	F		X	8	1	5	2	4	1	4	2
+Score		2		13		29		45		51		70		79		86		91		97
+Peter
+Pinfalls	0	2	3	6		X	2	5	F	/	6	/	8	0	8	1	8	F	9	F
+Score		2		11		28		35		51		69		77		86		94		103
+James
+Pinfalls	F	F	F	7	9	/	F	0	1	0		X	4	1	F	0	3	0	9	F
+Score		0		7		17		17		18		33		38		38		41		50
+John
+Pinfalls	9	/	8	/		X	2	3	0	/	0	1	3	1	9	0		X	4	4
+Score		18		38		53		58		68		69		73		82		100		108
+Matthew
+Pinfalls	8	/	3	2	7	1	9	/	5	F	3	F	8	/	4	0	0	/	4	5
+Score		13		18		26		41		46		49		63		67		81		90
+Thomas
+Pinfalls	3	3	6	0	3	4	4	4	9	F	6	3	F	/	7	0	8	F	5	1
+Score		6		12		19		27		36		45		62		69		77		83
+Simon
+Pinfalls	1	5	8	0	F	/	5	3	9	0	7	0	F	0	F	F	1	5	8	0
+Score		6		14		29		37		46		53		53		53		59		67
+Jude
+Pinfalls	3	0	0	9	F	0	5	0	9	0	1	5	0	3	7	/	9	0	9	F
+Score		3		12		12		17		26		32		35		54		63		72
+Matthias
+Pinfalls	3	5	5	2		X	7	F	3	5	9	/	7	1	4	2		X	1	3
+Score		8		15		32		39		47		64		72		78		92		96
+Paul
+Pinfalls	7	F		X	9	/	9	F	1	7	7	0	F	F	6	/		X	8	1
+Score		7		27		46		55		63		70		70		90		109		118
+Daniel Zorro
+Pinfalls	9	0		X	1	2	F	F	9	F	8	F	7	1	3	1	9	/	8	F
+Score		9		22		25		25		34		42		50		54		72		80
+Toby
+Pinfalls	9	0	0	0	F	3	8	F	7	/	7	/	3	6	3	1	9	0	F	5
+Score		9		9		12		20		37		50		59		63		72		77
+Doky
+Pinfalls	0	7	2	/	4	0	7	2	1	5	8	1		X	3	F	2	4	9	F
+Score		7		21		25		34		40		49		62		65		71		80
+Nacha Maria
+Pinfalls	3	5	9	0	5	2	9	0	6	F	5	F	7	/	2	0	8	F	3	7	2
+Score		8		17		24		33		39		44		56		58		66		78
+Pancho
+Pinfalls	7	0		X	F	8	4	5	6	2	6	2	9	/	5	2	0	5	3	0
+Score		7		25		33		42		50		58		73		80		85		88
+西宮 硝子
+Pinfalls		X	5	/	1	5	3	2	0	8	1	1	4	2	5	F	7	F	3	3
+Score		20		31		37		42		50		52		58		63		70		76
+緑川 花
+Pinfalls	2	3	5	F	7	2	F	1	5	1		X	3	0	9	F	4	2	0	1
+Score		5		10		19		20		26		39		42		51		57		58
+渚 カヲル
+Pinfalls	9	/	9	/	2	1		X	6	0	1	2	1	7	9	0	1	2	1	9	F
+Score		19		31		34		50		56		59		67		76		79		89
+宮園 かをり
+Pinfalls	8	0	2	4	F	0	3	6	1	7	4	F	2	3	F	8	0	4	5	2
+Score		8		14		14		23		31		35		40		48		52		59
+間宮 小樽
+Pinfalls	2	0	8	0	3	1	8	0	F	7	9	/		X	F	7		X	5	F
+Score		2		10		14		22		29		49		66		73		88		93
+Lime
+Pinfalls	7	1	2	1	5	F	3	0	9	F	6	3	7	2	F	4	F	2	9	0
+Score		8		11		16		19		28		37		46		50		52		61
+Cherry
+Pinfalls	2	0	6	F	0	6	6	0	4	3	5	2	2	/	6	2	8	F	8	1
+Score		2		8		14		20		27		34		50		58		66		75
+Bloodberry
+Pinfalls	4	/	4	5	4	1	9	/	7	F		X	0	0	6	3	3	F	5	F
+Score		14		23		28		45		52		62		62		71		74		79
+Gerhard Von Faust
+Pinfalls	2	/	0	8	4	0	7	0	9	F	6	1	3	3	1	2	6	F	1	2
+Score		10		18		22		29		38		45		51		54		60		63
+Panther
+Pinfalls	1	0	5	0	0	1	F	7	4	4	8	F	7	0	8	1	3	2	6	F
+Score		1		6		7		14		22		30		37		46		51		57
+Tiger
+Pinfalls	4	1	7	1	1	2		X	2	3	F	4	7	2	7	2	7	2	3	0
+Score		5		13		16		31		36		40		49		58		67		70
+Luchs
+Pinfalls	3	/		X	8	0	6	2	9	F	8	/	1	F	F	5		X	9	0
+Score		20		38		46		54		63		74		75		80		99		108
+Lorelei
+Pinfalls	9	F	9	0		X	6	3	1	7		X		X	4	/	0	/	1	8
+Score		9		18		37		46		54		84		104		114		125		134
+Baikou
+Pinfalls	F	6	8	F	7	1	7	F	2	5		X	7	/		X	3	3	4	1
+Score		6		14		22		29		36		56		76		92		98		103
+Tamasaburou
+Pinfalls	5	F	4	3	2	0	5	1	1	0	0	6	4	1	1	2	0	/	X	2	7
+Score		5		12		14		20		21		27		32		35		55		74
+Beatriz
+Pinfalls	1	8	0	/	9	F	7	/	3	1	1	6	9	0	7	/	6	3	9	1	4
+Score		9		28		37		50		54		61		70		86		95		109
+Armando
+Pinfalls	6	0	9	F	1	7	5	/	3	2	9	0	7	2		X	3	F	6	2
+Score		6		15		23		36		41		50		59		72		75		83
+Marcela
+Pinfalls	4	0	F	6	5	1	1	2		X	F	5	2	F	2	4	1	4	F	7
+Score		4		10		16		19		34		39		41		47		52		59
+Patricia
+Pinfalls	F	9	0	1	0	4	5	0	9	F	F	1	2	F		X	0	7	0	4
+Score		9		10		14		19		28		29		31		48		55		59
+Nicolás
+Pinfalls	7	F	F	4	1	F	2	1	0	7	2	6	6	3	2	0	6	3	3	4
+Score		7		11		12		15		22		30		39		41		50		57
+Hugo
+Pinfalls		X	3	6	5	3	0	7	4	/	F	F	0	9	9	0	6	1	1	9	1
+Score		19		28		36		43		53		53		62		71		78		89
+Daniel
+Pinfalls	F	/		X	2	6		X	8	1	8	0	1	4		X	1	7	8	0
+Score		20		38		46		65		74		82		87		105		113		121
+Mario
+Pinfalls	0	2	0	/	2	7	5	3	5	0	1	3	0	F	F	1	2	7	9	1	0
+Score		2		14		23		31		36		40		40		41		50		60
+Inesita
+Pinfalls	0	6	8	/	1	3	0	6	8	/	F	4	2	/	8	1		X	9	0
+Score		6		17		21		27		37		41		59		68		87		96
+Bertha
+Pinfalls	8	F	0	2	4	2	2	3	3	4	0	F	7	0	7	0		X	8	0
+Score		8		10		16		21		28		28		35		42		60		68
+Sandra
+Pinfalls	8	F	0	9	2	2	0	7	7	F	4	F	5	1	6	/	4	2	5	F
+Score		8		17		21		28		35		39		45		59		65		70
+Aura
+Pinfalls	2	5	9	/	4	F	5	F	1	6	8	/	5	3	4	3	6	1	0	7
+Score		7		21		25		30		37		52		60		67		74		81
+Paula
+Pinfalls	3	3	6	/	9	F	8	/	3	/	0	3	6	0	4	F		X	5	4
+Score		6		25		34		47		57		60		66		70		89		98
+Mariana
+Pinfalls	3	2	0	5	1	/	1	3	F	5	5	4	9	0	7	1	7	0	5	0
+Score		5		10		21		25		30		39		48		56		63		68
+Freddy
+Pinfalls	9	F	2	0	1	5	0	3	2	0	4	2	6	0		X	2	5	4	1
+Score		9		11		17		20		22		28		34		51		58		63
+Adriana
+Pinfalls	2	3	9	/	0	7		X	8	/	0	9	7	F	6	/	9	F	9	1	0
+Score		5		15		22		42		52		61		68		87		96		106
+Jorge
+Pinfalls	5	0		X	7	0		X	3	/	F	F	7	/	7	/	6	F	6	4	3
+Score		5		22		29		49		59		59		76		92		98		111
+Ygyx8QcDaOEenq0Z
+Pinfalls	F	8	7	2	5	F	6	2		X	3	0	1	F		X	9	/	7	0
+Score		8		17		22		30		43		46		47		67		84		91
+d4ABDtZfhGSa7E8i
+Pinfalls		X	1	7	2	7		X	8	/	9	F	5	4	0	1		X	9	F
+Score		18		26		35		55		74		83		92		93		112		121
+SPqnsbpG1JYLAiRI
+Pinfalls	3	F	0	3	7	2	0	3	9	/	9	0	3	F	1	8	7	1	X	2	5
+Score		3		6		15		18		37		46		49		58		66		83
+wNzcYD7R7z6uRZ3C
+Pinfalls	4	/	9	/	9	0	0	6	8	1	4	3	8	0	7	2	6	F	0	9
+Score		19		38		47		53		62		69		77		86		92		101
+TjPqaWMGR9QbugT9
+Pinfalls	6	F	4	0	9	0	8	F		X	3	2	F	8	2	F	2	F	X	0	2
+Score		6		10		19		27		42		47		55		57		59		71
+MJFWiuE2mtd1lnaJ
+Pinfalls	1	F	6	2	8	1	5	3	6	0	F	3	4	3	1	6	5	4	X	8	F
+Score		1		9		18		26		32		35		42		49		58		76
+2qofPribgfA6wg9M
+Pinfalls	0	7	6	0	4	0	7	F		X	7	2	6	3	8	/	9	/	F	X	6
+Score		7		13		17		24		43		52		61		80		90		106
+csL74OJcYRjrpHo6
+Pinfalls	9	F	2	4	3	F	0	2	3	4	4	5	8	1	F	8	3	5	X	0	0
+Score		9		15		18		20		27		36		45		53		61		71
+gzU0YPqv6F05vcvz
+Pinfalls	1	F	6	3	4	/	F	0	6	F	9	/	1	F	6	F	9	/	4	0
+Score		1		10		20		20		26		37		38		44		58		62
+5DIDrCeKrBz60Mwc
+Pinfalls	8	0	9	/	8	/	2	2	7	F	1	6	2	/	3	3		X	1	0
+Score		8		26		38		42		49		56		69		75		86		87
+TqluW4rUzC6dtNxI
+Pinfalls	0	/	7	/	3	4	2	0	F	4	1	7	9	/	9	/	F	0	F	F
+Score		17		30		37		39		43		51		70		80		80		80
+bkNZRWekp7VtONOE
+Pinfalls	2	5		X	9	F	1	2	F	4	2	7	9	F	F	3	4	4	4	1
+Score		7		26		35		38		42		51		60		63		71		76
+DGaVZIAgnI8luqWi
+Pinfalls	8	F	3	1		X	8	1	0	3	8	F	7	/		X	2	6	9	F
+Score		8		12		31		40		43		51		71		89		97		106
+N5Co96iKIdyJmaxN
+Pinfalls		X	7	F	4	F	7	/	F	0	0	7	5	2	6	/	4	2	4	6	F
+Score		17		24		28		38		38		45		52		66		72		82
+zMytWAtBlM4uWmDj
+Pinfalls	5	2		X	2	5		X	6	1	6	F	8	F	0	1	8	1	4	5
+Score		7		24		31		48		55		61		69		70		79		88
+by8haTMxZjMH2Fu6
+Pinfalls	3	3	8	1	0	9	3	/	5	1	9	F	2	0	5	/	2	7	F	0
+Score		6		15		24		39		45		54		56		68		77		77
+ItedtmzsYWA6eeMH
+Pinfalls	1	6	0	3	1	F		X		X	F	8	1	8		X	7	/	2	4
+Score		7		10		11		39		57		65		74		94		106		112
+KB7KIwEJsl63kpjK
+Pinfalls	8	0		X	6	0	2	6	0	3	3	/		X	7	F	8	F	F	9
+Score		8		24		30		38		41		61		78		85		93		102
+pJ8o0zftf4L2p9dX
+Pinfalls	7	0	6	2	9	/	9	F	8	1	8	1	1	2	7	1	9	F	7	2
+Score		7		15		34		43		52		61		64		72		81		90
+FxBzFSRmDkov4gzZ
+Pinfalls	7	/	4	1	1	7	4	3	1	5	1	2	0	F	4	5	6	2	6	2
+Score		14		19		27		34		40		43		43		52		60		68
+V83qLQ1vGPLVkK7c
+Pinfalls	9	/		X	1	6	3	0	2	5	8	1	6	2	8	/	2	3	6	3
+Score		20		37		44		47		54		63		71		83		88		97
+VzdCY1ukqL3bUtyy
+Pinfalls	6	/	7	0	8	1	7	F		X	4	F	5	1	F	1	3	0	9	1	F
+Score		17		24		33		40		54		58		64		65		68		78
+ulMpk9Ffe20HsXLh
+Pinfalls	5	F	2	6	8	0	6	1	0	5	7	0	4	F	9	0	0	7	8	0
+Score		5		13		21		28		33		40		44		53		60		68
+fGvgaI55YkSfFTBl
+Pinfalls	8	0		X	0	2	7	2	7	2	F	5	F	0	5	0	0	9	8	1
+Score		8		20		22		31		40		45		45		50		59		68
+yIe4oM3PZCFj5A43
+Pinfalls		X	0	F	F	9	5	1	3	5	9	/	2	4	F	6	5	1	8	0
+Score		10		10		19		25		33		45		51		57		63		71
+vjIBkMRbpbp63fE9
+Pinfalls	5	/	1	8	5	0	8	/		X	2	2	0	9	0	8	7	0	F	8
+Score		11		20		25		45		59		63		72		80		87		95
+J3iOJ5P6iDWY5WJp
+Pinfalls	0	/		X	3	2	7	2	5	3	5	F	7	1	7	2	F	6	4	5
+Score		20		35		40		49		57		62		70		79		85		94
+G8zSQD4r3fndU4pA
+Pinfalls	2	5		X	8	/	3	F	3	2	8	F	2	7	8	F		X	2	6
+Score		7		27		40		43		48		56		65		73		91		99
+dpdRUVfK5HVZd2CZ
+Pinfalls	1	F	1	F	6	1	1	1	0	/		X	5	F		X	1	1	1	7
+Score		1		2		9		11		31		46		51		63		65		73
+7YdBXSymbDO8OFQy
+Pinfalls	0	F	4	3	1	5	2	6	F	/	1	7	1	1	9	0	8	0	F	5
+Score		0		7		13		21		32		40		42		51		59		64
+SotyfoDQYdYGRDOX
+Pinfalls	4	4	6	1	4	F	1	4	F	0	6	1	6	/	5	1	4	F	0	2
+Score		8		15		19		24		24		31		46		52		56		58
+Hfmkfu1JDAf02mWP
+Pinfalls	7	0	9	0	0	0	2	7	2	/	F	1	4	0	0	/		X	1	0
+Score		7		16		16		25		35		36		40		60		71		72
+oku75l2m1Nanaa1I
+Pinfalls	2	2	3	5	4	5	1	4	5	2	8	/	7	F	2	7	4	F	1	5
+Score		4		12		21		26		33		50		57		66		70		76
+4hHQ4hl8jnK2p4VH
+Pinfalls	9	F	8	0	7	1	6	/	6	2	3	/	F	6	1	1	4	3	0	2
+Score		9		17		25		41		49		59		65		67		74		76
+sLVuwv6PWK7KhzmO
+Pinfalls	2	F	4	/	2	4	9	F	2	6	F	4	1	1	2	1	8	/	3	5
+Score		2		14		20		29		37		41		43		46		59		67
+oXIX1DuEdaIlU0mR
+Pinfalls	4	4	F	7	9	0	2	6	6	3	5	4	9	0	6	3	9	/	9	1	0
+Score		8		15		24		32		41		50		59		68		87		97
+rGAGvU597iQaOLUw
+Pinfalls	7	1	3	2	1	8	0	0	4	2	6	2	F	3	5	4	0	2	4	2
+Score		8		13		22		22		28		36		39		48		50		56
+2GGTlQwZxFobMmou
+Pinfalls	F	3	1	4	8	1	4	/	7	0	F	/	3	F	F	F	8	0	4	F
+Score		3		8		17		34		41		54		57		57		65		69
+k1AV5MYKLAHzu94U
+Pinfalls	6	2	0	3		X	9	/	3	/	6	3	4	5	4	/	7	2	0	X	7
+Score		8		11		31		44		60		69		78		95		104		121
+zeLppgDBQ3wQgF38
+Pinfalls		X		X	1	1	9	0	0	4	4	/		X	4	5	7	2	F	X	3
+Score		22		34		36		45		49		69		88		97		106		119
+muAcXLMjGCwPC9nm
+Pinfalls	3	/	9	F	5	F	3	6	1	5	2	5	3	6	5	/	4	3	2	0
+Score		19		28		33		42		48		55		64		78		85		87
+pROabKMBsvrg88qk
+Pinfalls	5	2	1	F	2	0	9	F	4	4	1	7	F	4	5	4	3	/	X	X	3
+Score		7		8		10		19		27		35		39		48		68		91
+gm7w2XesnmHFZWE3
+Pinfalls	6	2	6	0	1	0		X	6	0	1	8	8	F	9	/	5	F	5	0
+Score		8		14		15		31		37		46		54		69		74		79
+kojpoTd3pgEPOmW0
+Pinfalls	6	2		X	1	5	9	0	8	0	6	2	F	1	4	4	2	3	8	2	4
+Score		8		24		30		39		47		55		56		64		69		83
+nsKOcslqgPqxKBHi
+Pinfalls	F	6	F	1	7	1		X	F	/	9	0	7	2	0	8	9	/	F	0
+Score		6		7		15		35		54		63		72		80		90		90
+tUconyGLD1EoaNwl
+Pinfalls	F	7		X	F	9	4	2	7	2	1	4	4	3		X	0	7	F	5
+Score		7		26		35		41		50		55		62		79		86		91
+y3FYtEwzzANtvkTS
+Pinfalls	0	8	3	4	9	F	F	8	3	4	3	6	4	3	0	5	2	1	7	0
+Score		8		15		24		32		39		48		55		60		63		70
+gLW8Ccx9sO5z7Kku
+Pinfalls	7	1	9	0	8	F	6	F	F	7	9	F	7	1	7	/	F	5	1	2
+Score		8		17		25		31		38		47		55		65		70		73
+XT9PTFtk18xEMqkx
+Pinfalls	9	/	1	8		X	6	/	4	4	3	4	9	F	3	3	F	F	0	1
+Score		11		20		40		54		62		69		78		84		84		85
+VS2zNzJy3SM5txcH
+Pinfalls	3	F	9	/	0	1	6	1	5	4		X	0	0	F	6	7	F	4	0
+Score		3		13		14		21		30		40		40		46		53		57
+U3lsPn3gkBvAop4V
+Pinfalls	4	4	5	3	3	2		X	6	2		X	4	1	6	3	2	5	0	X	0
+Score		8		16		21		39		47		62		67		76		83		93
+vXtEfryhd7ug2qTI
+Pinfalls	4	3	3	4	8	/	3	F	4	5	3	2		X		X		X	6	F
+Score		7		14		27		30		39		44		74		100		116		122
+bDVR4wuyy0tulzl0
+Pinfalls		X	4	2	7	/	F	6	4	5	4	1	4	3	3	F	8	F	X	7	F
+Score		16		22		32		38		47		52		59		62		70		87
+O4Z4jLrcC3Mhx1iV
+Pinfalls	0	2		X	0	8	5	3	1	2	8	/	5	2	8	1	7	F	8	2	1
+Score		2		20		28		36		39		54		61		70		77		88
+P3jilXfULjBTPdvd
+Pinfalls	7	0	7	1	7	0		X	6	3	5	/	3	3	5	/	4	4	0	2
+Score		7		15		22		41		50		63		69		83		91		93
+s01jWXwiTWfQfpaE
+Pinfalls	F	F	7	1	6	1	4	4	3	3	9	0	4	1	6	2	7	0	7	1
+Score		0		8		15		23		29		38		43		51		58		66
+5DEXulwVlJssW9Fc
+Pinfalls	1	2		X	2	5	1	3	7	1	F	1	9	0	0	8	6	2	0	X	8
+Score		3		20		27		31		39		40		49		57		65		83
+3ftruHOC2XrBtbZ5
+Pinfalls	0	9	6	0		X	3	2	7	1	0	7	5	1	9	0	9	F	7	0
+Score		9		15		30		35		43		50		56		65		74		81
+T4NCg0JqCFGnV5eE
+Pinfalls	7	0	6	1	4	F	5	F	7	2	5	2	5	1	4	3	6	F	5	F
+Score		7		14		18		23		32		39		45		52		58		63
+DZQXvWTVjKKT0Ogm
+Pinfalls	8	0	8	F	0	2	6	F		X	6	2	8	0	3	/	6	1	3	1
+Score		8		16		18		24		42		50		58		74		81		85
+hP7G1vKrNqZcZATd
+Pinfalls		X	9	F	8	0	0	/	8	/	2	0		X	8	/	0	7	9	F
+Score		19		28		36		54		66		68		88		98		105		114
+RTcVizD3C6dJdY6b
+Pinfalls	F	8	5	F	0	8	1	0	2	0	4	0	1	3	9	/	4	/	2	F
+Score		8		13		21		22		24		28		32		46		58		60
+zyQTnYbELPC1OlA3
+Pinfalls	8	1	7	F	6	F	6	/	4	4	1	/		X	1	5	7	/	F	2
+Score		9		16		22		36		44		64		80		86		96		98
+KXbWD9bA0VLbokvp
+Pinfalls		X	3	1	3	5	6	2	7	0	5	1	4	2	4	0		X	6	0
+Score		14		18		26		34		41		47		53		57		73		79
+LQ8aoFc8YfdxPRdJ
+Pinfalls	5	F	7	2	2	2	7	2	7	2		X	6	F	6	3	2	7	7	2
+Score		5		14		18		27		36		52		58		67		76		85
+AC8jS5YqpfCbzzKb
+Pinfalls	F	8	0	8	3	0	6	2	1	0		X	8	/	1	0	F	5	3	3
+Score		8		16		19		27		28		48		59		60		65		71
+SsKCyPHSw2rint5F
+Pinfalls	1	5	3	3	F	7	9	0	3	F		X	5	0	4	/	0	4	8	1
+Score		6		12		19		28		31		46		51		61		65		74
+0loGBly7uXEWcg0U
+Pinfalls	F	5	1	1	7	0	4	5		X	7	0	9	0	9	0	1	8	8	1
+Score		5		7		14		23		40		47		56		65		74		83
+2Vp1YX4YZCKe3C5w
+Pinfalls	1	/	7	2		X	9	F	5	4	9	F	F	F	F	1	1	8	5	3
+Score		17		26		45		54		63		72		72		73		82		90
+i89OotAyVCTX4Jfp
+Pinfalls	0	0	1	2	2	3	6	1	4	1	F	9	0	1	8	1	3	0	1	4
+Score		0		3		8		15		20		29		30		39		42		47
+xcK0SqIjA7Fnwrzm
+Pinfalls		X	5	0	5	2	0	/	6	F	3	3	9	0		X	9	F	9	F
+Score		15		20		27		43		49		55		64		83		92		101
+swv0VghQkL6f57I8
+Pinfalls		X	8	/	2	3	F	3	9	/	5	F	8	F	7	2	2	1	6	0
+Score		20		32		37		40		55		60		68		77		80		86
+t44ND7Vry3aMHc6d
+Pinfalls	1	0	7	/	4	2	3	1	7	F	9	0		X	4	1	F	4	X	5	F
+Score		1		15		21		25		32		41		56		61		65		80
+9MBZr1KOkSfOgvyI
+Pinfalls	F	3	3	1	4	5	3	0	9	F	0	3	2	4	5	4	2	0	2	0
+Score		3		7		16		19		28		31		37		46		48		50
+7XdZemu3y94eG2W6
+Pinfalls	3	F	8	1	F	7	7	2	0	3	3	F	F	6	0	F	5	F	X	3	7
+Score		3		12		19		28		31		34		40		40		45		65
+tfAJfQD5NT7GLcBc
+Pinfalls		X	2	3		X	8	/	1	4	F	7	6	2		X	F	1	0	5
+Score		15		20		40		51		56		63		71		82		83		88
+B3uVV2mb2IMRcRkw
+Pinfalls	0	4	3	4		X	1	6	5	0	7	1	3	0	7	0	0	9	9	1	2
+Score		4		11		28		35		40		48		51		58		67		79
+7sGzZFvyXJOdLI1W
+Pinfalls	9	0	7	2	7	2	3	2	7	F	3	F	9	F	3	6	F	F	5	F
+Score		9		18		27		32		39		42		51		60		60		65
+dv1UNl1BE8tF3Lrp
+Pinfalls	4	F	4	2	5	1	4	4	2	/	7	F	8	0	3	2	0	7	3	7	0
+Score		4		10		16		24		41		48		56		61		68		78
+f9M5cV6lyTXXpnMc
+Pinfalls	3	1	5	F	9	/	F	6	3	6		X	7	/	0	4	F	6	1	F
+Score		4		9		19		25		34		54		64		68		74		75
+zH5gJE4F3jWlBOp4
+Pinfalls	7	/	F	9	0	3	5	F	8	1	7	0	9	F	4	5	2	1	7	3	F
+Score		10		19		22		27		36		43		52		61		64		74
+4wSMJPZvH1fsOa6j
+Pinfalls	6	2	4	F	7	2	2	1	8	/	5	0	0	9	7	2	4	F	9	0
+Score		8		12		21		24		39		44		53		62		66		75
+dDHkXNzBJZqxtVKv
+Pinfalls	8	1	5	3	8	/	F	4	1	3	5	0	8	/	5	0	7	2	6	F
+Score		9		17		27		31		35		40		55		60		69		75
+TAmpglxviYprlDmh
+Pinfalls	0	8		X	6	2	8	/	9	F	1	7	7	F	2	/	1	/	0	4
+Score		8		26		34		53		62		70		77		88		98		102
+RYxOlCX3iXZDXZnJ
+Pinfalls	F	7	8	1	5	2	7	F	0	0		X	3	0	2	/	3	5	4	F
+Score		7		16		23		30		30		43		46		59		67		71
+oqPliIhdD9b9aVI0
+Pinfalls	1	3	5	3	9	/	2	3	3	3	1	7	2	2	8	F	6	1	9	F
+Score		4		12		24		29		35		43		47		55		62		71
+1oFeGU7zprUbCvg2
+Pinfalls	8	/	6	F	1	8	9	F	1	6	0	/	7	F	4	F	1	5	F	1
+Score		16		22		31		40		47		64		71		75		81		82
+3hrvfPoWAjDhuAbG
+Pinfalls	0	3	7	/	0	5	8	0	4	1	8	F	1	2		X	8	F	6	F
+Score		3		13		18		26		31		39		42		60		68		74
+tMGK6C3DRzSsEH2F
+Pinfalls	7	0	2	1	F	5	6	1	3	1	4	F	F	2	0	0	9	F	7	1
+Score		7		10		15		22		26		30		32		32		41		49
+CuwfSwxgEVE43yuk
+Pinfalls		X	9	/	3	/	1	1	4	0	1	2	8	F	7	/	1	2	4	1
+Score		20		33		44		46		50		53		61		72		75		80
+Em57ojR2nRbPgEfW
+Pinfalls	8	1	1	6	4	/	6	2	3	1	0	6	8	/	6	0	2	F	8	1
+Score		9		16		32		40		44		50		66		72		74		83
+QlvcQ7XYw0Niob90
+Pinfalls	2	4	5	F	1	3	F	1	1	2	6	0		X	8	/	F	2	5	F
+Score		6		11		15		16		19		25		45		55		57		62
+QZBQRf2s7qF1YDiI
+Pinfalls	4	0	6	/	5	2	3	2		X	7	0		X	4	1	9	/	F	9
+Score		4		19		26		31		48		55		70		75		85		94
+TGAN6FsSX6kQD6o3
+Pinfalls	F	/	9	/	9	F	F	7	F	1	2	5	8	/	4	4	F	F	6	3
+Score		19		38		47		54		55		62		76		84		84		93
+XQqG2NmfTOZuokgc
+Pinfalls	7	/	2	3	7	/	5	/	0	8	9	/	2	7	2	2	5	4	X	7	1
+Score		12		17		32		42		50		62		71		75		84		102
+4QJ53BlzX2tRjZIP
+Pinfalls		X		X	2	/		X	6	2	6	3	5	1	3	0	1	7	3	2
+Score		30		50		70		88		96		105		111		114		122		127
+D9bIwd7UsLIP785B
+Pinfalls	5	4	0	4	4	/		X		X	1	8	0	0		X	5	4	1	7
+Score		9		13		33		62		81		90		90		109		118		126
+vw8fRqUikTl97T0s
+Pinfalls	9	/	3	6	6	2	4	/	3	6	6	0	F	4	6	0	7	2	X	F	X
+Score		13		22		30		43		52		58		62		68		77		97
+B2NcC834PKjmjPZz
+Pinfalls	2	2	0	F	F	8		X	3	6	7	0	5	/	8	F	4	0	6	F
+Score		4		4		12		31		40		47		65		73		77		83
+nmStk7d4SfEcUVir
+Pinfalls	9	F	4	4	4	0	9	F	5	4	8	0	3	6	7	1	3	2	8	2	7
+Score		9		17		21		30		39		47		56		64		69		86
+ya34pjyKDQsM4qwL
+Pinfalls	F	F	5	1	7	F	2	7	6	1	7	2	9	/	5	/	7	0	0	7
+Score		0		6		13		22		29		38		53		70		77		84
+6SVgHDaJSDwtvuke
+Pinfalls	4	/		X	7	2	1	7	4	/	6	2	2	2	2	0	6	0	F	F
+Score		20		39		48		56		72		80		84		86		92		92
+bAigu59jQ1sMorst
+Pinfalls	6	3	2	7	1	/	7	F	7	F	0	6	9	0	2	2	F	6	9	F
+Score		9		18		35		42		49		55		64		68		74		83
+Yc8xt6DXocmMkjjq
+Pinfalls	3	4		X		X	6	3	1	6	2	1		X	F	8		X	2	1
+Score		7		36		55		64		71		74		92		100		113		116
+2PLwbxSO6N2XXcoj
+Pinfalls		X	0	F	2	4	4	4	6	/		X	4	3	0	0	5	3	0	7
+Score		10		10		16		24		44		61		68		68		76		83
+JQT5e7amlu0KlYHT
+Pinfalls	5	3	3	2		X	8	0	F	2	8	F	F	8	6	/	1	3	9	F
+Score		8		13		31		39		41		49		57		68		72		81
+JHyCeCpg9zw2tCkJ
+Pinfalls	8	1	6	F	7	0	8	/	3	0	8	0	5	4	F	3	0	F	2	F
+Score		9		15		22		35		38		46		55		58		58		60
+phQjQcXC9VQ3OQ7B
+Pinfalls	F	/	1	/	6	/	0	4	1	2	3	6	3	0	2	7	4	1	X	5	5
+Score		11		27		37		41		44		53		56		65		70		90
+JE1fsVFtT8geEQr2
+Pinfalls	3	F	7	1	3	/	F	9	8	1	F	0	F	5	9	/	3	5	3	1
+Score		3		11		21		30		39		39		44		57		65		69
+PF7weCg6OXn0fprz
+Pinfalls	5	3	F	F	5	4	7	F	0	/	5	F	3	1	0	9	0	9	2	0
+Score		8		8		17		24		39		44		48		57		66		68
+PYntinqESdvKoen4
+Pinfalls	3	2	0	4	2	3	4	0	F	5	9	F	7	/	3	2	8	1	6	3
+Score		5		9		14		18		23		32		45		50		59		68
+lXEaoPcYNWZs0Rzl
+Pinfalls	8	F	0	3	4	5	5	1	9	/	3	2	2	1	9	F	3	F	4	1
+Score		8		11		20		26		39		44		47		56		59		64
+EYcQX4iNW6KsXxpM
+Pinfalls	6	0	1	5	8	/	9	F		X	5	F	9	0	F	0	8	0	4	F
+Score		6		12		31		40		55		60		69		69		77		81
+e69c3KzEZ00xyOUR
+Pinfalls	F	9	0	6		X	7	F	2	F	9	F	9	F	F	8	3	1	2	3
+Score		9		15		32		39		41		50		59		67		71		76
+UO54Hva0nftw8LNR
+Pinfalls	2	5	F	9	1	5	F	4	6	3	3	F	5	4	4	2	F	5	7	F
+Score		7		16		22		26		35		38		47		53		58		65
+i9SRqa9O629Lopst
+Pinfalls	8	/	5	4	9	/	1	4	8	1	5	F	9	/	5	4	7	2	0	8
+Score		15		24		35		40		49		54		69		78		87		95
+y218Fquqf7aXNUOh
+Pinfalls	4	1	9	/	4	1	1	/	1	/	0	2		X	6	2	7	0	7	1
+Score		5		19		24		35		45		47		65		73		80		88
+TvUgGU9vY88zhwQV
+Pinfalls	2	/	4	F	9	/	1	8	6	/		X		X	6	3	5	3	5	1
+Score		14		18		29		38		58		87		106		115		123		129
+qlpT2oCQNhde03nt
+Pinfalls	1	4	6	F	2	F	6	1	1	F	2	5	1	6	9	0		X	0	9
+Score		5		11		13		20		21		28		35		44		63		72
+4UTcvr6dDEZ7S4hE
+Pinfalls	F	0	8	F	8	/	F	5	1	5	F	7	1	F		X	7	0	5	2
+Score		0		8		18		23		29		36		37		54		61		68
+OjmygACLIcx9082n
+Pinfalls	3	0	8	1	5	3	9	/	8	1	0	7	2	1	1	4	1	5	4	5
+Score		3		12		20		38		47		54		57		62		68		77
+uEMl4gUQEdQxG3tA
+Pinfalls		X	1	3	0	3	F	F	4	/	4	2	4	F	6	1	1	1	4	6	2
+Score		14		18		21		21		35		41		45		52		54		66
+p10KorXvbj840vrQ
+Pinfalls	7	1	0	/	1	/	9	/	F	6	3	4	0	5	2	3	F	5	7	3	2
+Score		8		19		38		48		54		61		66		71		76		88
+xw2kiG1UvWwDdqtz
+Pinfalls	0	F	6	0	2	2	7	1	3	F	6	F	2	7	F	8	8	0	6	2
+Score		0		6		10		18		21		27		36		44		52		60
+zq8wrv89t1TiRPiB
+Pinfalls	6	F	9	F	1	1	8	0	9	/	0	6	0	0	1	F	3	4	7	2
+Score		6		15		17		25		35		41		41		42		49		58
+NRdAtnE3EsjwZeSk
+Pinfalls		X	5	3	3	5		X	2	/	8	1		X	6	3	4	4	1	9	1
+Score		18		26		34		54		72		81		100		109		117		128
+YZErg6510xF0e5Hb
+Pinfalls	7	2	6	3		X		X	4	1	5	0	4	/	1	7	8	/	2	4
+Score		9		18		43		58		63		68		79		87		99		105
+mMHS5j5KeSvNhHkK
+Pinfalls	2	F	3	1	1	4		X	5	F	1	0	5	4	1	2	0	2	7	3	4
+Score		2		6		11		26		31		32		41		44		46		60
+3FIjjym0h9biopVs
+Pinfalls	2	6	5	F	1	7		X	2	6	4	5	8	F	9	F	0	3	F	F
+Score		8		13		21		39		47		56		64		73		76		76
+jIXCuShIKQUXqC5B
+Pinfalls		X		X	0	7	3	1	5	1	8	F	0	1	6	0	5	/	X	1	4
+Score		27		44		51		55		61		69		70		76		96		111
+zHukxBiM595UladI
+Pinfalls	9	0	9	/	9	F		X	8	/	5	3	5	/	9	0	9	0	2	1
+Score		9		28		37		57		72		80		99		108		117		120
+yozWFVXZ8in6Bsaq
+Pinfalls	3	5	6	/		X	8	0	0	F		X	2	6	6	0	1	8	4	3
+Score		8		28		46		54		54		72		80		86		95		102
+WUqK4IQUFE3YaeJg
+Pinfalls	7	1	6	3	6	0	5	1	2	5	6	/		X	1	7	5	2	X	5	2
+Score		8		17		23		29		36		56		74		82		89		106
+l7wUKEubw8MBcPtQ
+Pinfalls		X	0	1	5	4	5	2	5	0	1	F	5	4	1	F	7	0	0	F
+Score		11		12		21		28		33		34		43		44		51		51
+NZXCel0LSi8dyewS
+Pinfalls	1	0		X	8	/	7	/	2	/		X	8	0	2	3	1	/	5	F
+Score		1		21		38		50		70		88		96		101		116		121
+h4U1g1iXxM8U97iP
+Pinfalls	3	0	5	2		X	0	8	6	2	1	6	4	1		X	3	3	9	1	3
+Score		3		10		28		36		44		51		56		72		78		91
+QwkH16bQHmUcVetp
+Pinfalls	0	3	F	9		X	9	/	7	1	0	F		X	7	2	9	/	3	6
+Score		3		12		32		49		57		57		76		85		98		107
+EyoOI84nnoNDYM6j
+Pinfalls	5	F	2	6	0	6	4	2		X	6	F	4	1	9	F	9	/	6	3
+Score		5		13		19		25		41		47		52		61		77		86
+YXDmZFWemyyuSUsO
+Pinfalls	6	/	1	1	8	F	1	6	0	4	7	0	9	/	F	/	9	F	X	0	2
+Score		11		13		21		28		32		39		49		68		77		89
+nXfXiCbEevFdSiHd
+Pinfalls	1	/	2	7		X	2	/	8	F	8	F	8	/	6	3	4	5	6	3
+Score		12		21		41		59		67		75		91		100		109		118
+54O4tupffhHRZAkx
+Pinfalls	8	/	4	0	4	4	6	2	9	0	1	4	0	9	1	8	F	1	1	F
+Score		14		18		26		34		43		48		57		66		67		68
+QR87t81gwgwLFvwH
+Pinfalls	1	8	5	/		X	4	F	7	/	F	3		X	0	7	1	6	4	3
+Score		9		29		43		47		57		60		77		84		91		98
+GC3p02kQ5LzYoYZG
+Pinfalls	1	/	5	2	8	F	3	2	4	F	6	2	3	4	3	4	2	2	X	9	F
+Score		15		22		30		35		39		47		54		61		65		84
+8OR2IOHNe5kFN2Il
+Pinfalls	7	1	7	0	9	/	7	1	8	F	6	F	9	F	8	/	0	6	2	0
+Score		8		15		32		40		48		54		63		73		79		81
+StPxpZbn5qGDpozX
+Pinfalls	3	1	5	3	2	0	4	3	2	1		X	0	6	1	/	8	F	5	3
+Score		4		12		14		21		24		40		46		64		72		80
+2l49uUStHDnI8akt
+Pinfalls	1	5	5	0	5	0	2	7	3	/	1	F	4	2	7	/	4	4	1	3
+Score		6		11		16		25		36		37		43		57		65		69
+ph2nD9H05IXl6tKX
+Pinfalls	3	1	4	4	5	2	7	1	3	F	4	0	7	/	1	5		X	5	3
+Score		4		12		19		27		30		34		45		51		69		77
+lzpFlPJUb75Wl5Cz
+Pinfalls	3	5	6	F	9	F	4	F	1	1	8	/	7	0	4	3	3	3	1	6
+Score		8		14		23		27		29		46		53		60		66		73
+Kqtj97IOWXKhtKHx
+Pinfalls	0	2	7	0	2	/	6	1	3	6		X	F	0	6	2	0	/	F	8
+Score		2		9		25		32		41		51		51		59		69		77
+xr7U1CoxwAfzDEiY
+Pinfalls	8	1	9	F	F	/	8	0	0	5	3	1	6	0	7	0	9	F	8	0
+Score		9		18		36		44		49		53		59		66		75		83
+068pB7YLYJKgI341
+Pinfalls	8	/	F	9	9	F	0	6		X	1	0	5	2	5	4	3	1	4	3
+Score		10		19		28		34		45		46		53		62		66		73
+AYZ6paqdRBDOKIN8
+Pinfalls	3	5	F	8	F	F	8	0	7	F	3	1	8	1	9	0	6	1	7	0
+Score		8		16		16		24		31		35		44		53		60		67
+kq9adoKYwX1cKWaO
+Pinfalls	2	/	6	2	7	/	1	6	2	3	2	6	F	5	1	F		X	9	1	0
+Score		16		24		35		42		47		55		60		61		81		91
+JBtAViXetL97QLEY
+Pinfalls	4	3	4	0	F	7	0	9	0	5	3	4	7	1	F	4	F	5	2	5
+Score		7		11		18		27		32		39		47		51		56		63
+ujbtWtrQjtz7x0m4
+Pinfalls	9	F	1	F	5	0	5	2	1	8	3	5	6	0	7	2	5	F	F	8
+Score		9		10		15		22		31		39		45		54		59		67
+kyPOrj9aqmXTYibD
+Pinfalls	3	6	7	0	6	F	2	3	7	0		X	7	F	0	1	0	1	F	7
+Score		9		16		22		27		34		51		58		59		60		67
+Y0ZpjuNq71IoTnXt
+Pinfalls	F	5		X	3	F	1	/	9	F	9	/	F	5	8	F	7	F	4	1
+Score		5		18		21		40		49		59		64		72		79		84
+zOfmwE7DNc5QNZ3A
+Pinfalls		X	2	7	7	0	6	2	1	6	1	4	1	/	2	5	5	2	1	1
+Score		19		28		35		43		50		55		67		74		81		83
+KDkZXmYzehzKlAQD
+Pinfalls	9	F	9	0	4	5	2	5	3	5	3	0		X	6	0	2	1	8	0
+Score		9		18		27		34		42		45		61		67		70		78
+x3hdwVhS8tL2PQmb
+Pinfalls	5	4	7	2	5	F	8	/	5	1		X	7	/	4	4	4	0	8	2	F
+Score		9		18		23		38		44		64		78		86		90		100
+9WUdK6lUJOJz6M5F
+Pinfalls	0	4	5	1	9	F	0	/	9	0	8	1	2	2	6	/	6	3	F	5
+Score		4		10		19		38		47		56		60		76		85		90
+DNNZKNn1vtJ8ywBC
+Pinfalls	2	2	1	F	2	2		X		X	2	3	7	0	0	9		X	X	0	4
+Score		4		5		9		34		49		54		61		70		90		104
+4l6f4N9RHWjosMUW
+Pinfalls	3	6	0	8	7	F	0	4	6	F		X	4	F	4	2	6	/	1	3
+Score		9		17		24		28		34		48		52		58		69		73
+N7iVQYdCjd4cAG8z
+Pinfalls	3	F	8	/	8	/	6	/	8	1	9	F	3	6	F	8	0	/	F	6
+Score		3		21		37		55		64		73		82		90		100		106
+55XqGkgqU2LrzZxa
+Pinfalls	0	/	7	/	8	F	4	1	5	/	5	3	6	3	5	1	9	F	0	8
+Score		17		35		43		48		63		71		80		86		95		103
+FSOk2OnyrdriiRUO
+Pinfalls	7	/	1	3	4	5	F	8	6	1	9	F	8	F	4	0	F	8	F	8
+Score		11		15		24		32		39		48		56		60		68		76
+PhudQ6WwnR4Rj8Ne
+Pinfalls	7	/	8	1	F	3	5	3	2	6	0	4	6	3	3	/	5	4	F	4
+Score		18		27		30		38		46		50		59		74		83		87
+ETF3aDkDcb07AXvq
+Pinfalls	9	F	7	1	7	0	4	F	3	F		X	7	2	3	5	0	0	X	8	2
+Score		9		17		24		28		31		50		59		67		67		87
+VzxFuV3ZY9TetMf8
+Pinfalls	7	F		X	F	1	3	2		X		X	7	0	7	2	1	2	4	6	F
+Score		7		18		19		24		51		68		75		84		87		97
+9GgUfLqJcyf8cTvs
+Pinfalls	1	8	9	/	4	1	4	0	4	0	9	F	1	0		X	3	F	3	1
+Score		9		23		28		32		36		45		46		59		62		66
+qtdKg0d9Id0N8yLx
+Pinfalls	8	0	F	7	9	0	6	2	6	F	7	2	4	3	6	1	9	0	9	0
+Score		8		15		24		32		38		47		54		61		70		79
+XhdwH1HNPCRzSi1k
+Pinfalls	8	/	7	0	6	1	2	7	8	0	3	/	3	/	7	2	5	3	8	2	6
+Score		17		24		31		40		48		61		78		87		95		111
+2eSQ8ltiCzZjw3fp
+Pinfalls	3	5	0	/	5	4	3	6	6	3	3	1	2	6		X	8	1	1	7
+Score		8		23		32		41		50		54		62		81		90		98
+IbD56tEGKGtLRjTi
+Pinfalls	6	3	1	2		X	7	1	4	4	9	0	7	0	2	2	1	7	2	F
+Score		9		12		30		38		46		55		62		66		74		76
+DVWQb5amxJL52rjt
+Pinfalls	F	2	5	0	6	0	8	0	6	1	1	4	1	1	3	5	3	F	2	5
+Score		2		7		13		21		28		33		35		43		46		53
+HFxY91lSw6svIhkU
+Pinfalls	6	F	1	6	7	F	2	5	8	/		X	1	4	3	0	F	4	5	3
+Score		6		13		20		27		47		62		67		70		74		82
+c8Qv4e6Us3ufgawu
+Pinfalls	0	/	6	1	2	7	0	4	3	4	8	/	6	2	7	/	6	F	X	1	7
+Score		16		23		32		36		43		59		67		83		89		107
+BFsoLZZNo37qNT57
+Pinfalls	0	1		X	2	/	1	6	F	7	6	0	0	2	7	/	5	/	9	F
+Score		1		21		32		39		46		52		54		69		88		97
+NRnV6ATqhFIjUkaG
+Pinfalls	7	F	6	/	7	1	3	/	2	/	4	3	9	F		X		X	3	4
+Score		7		24		32		44		58		65		74		101		118		125
+vWqSzZ8WAc1b8yqM
+Pinfalls	1	5	2	2	3	F	9	F	5	4	0	6	0	F	2	3	5	3	6	3
+Score		6		10		13		22		31		37		37		42		50		59
+7uGvgL8hMoVIHD2k
+Pinfalls	4	0	1	4	2	F	1	4	F	4	F	0	3	3	0	7	4	0	4	4
+Score		4		9		11		16		20		20		26		33		37		45
+yC8cgTbJvVJS4TkM
+Pinfalls	8	/	7	2	7	F	6	/	4	1	9	F	4	5	7	2	5	1	9	0
+Score		17		26		33		47		52		61		70		79		85		94
+KQ7ck8iyMzjRgjhf
+Pinfalls	2	4	4	0		X	5	F	3	3	7	F	F	1		X	6	F	5	1
+Score		6		10		25		30		36		43		44		60		66		72
+B3BESI9Ik2LROkd4
+Pinfalls	3	/	4	5		X	0	/	4	0	2	2	9	0	2	4		X	6	1
+Score		14		23		43		57		61		65		74		80		97		104
+zPkrlsJQpVKzsTrC
+Pinfalls	0	0	7	/	3	1	5	F	1	8	9	F	8	1	0	4		X	0	5
+Score		0		13		17		22		31		40		49		53		68		73
+fIEYsKf5IEU5NGjb
+Pinfalls	9	0	9	/	F	9		X	7	2	6	3	8	0	6	0	1	4	5	3
+Score		9		19		28		47		56		65		73		79		84		92
+5CMrxX3f6zZPSfuL
+Pinfalls	9	0	4	5	6	/	F	8	2	0		X	9	/	0	6	3	3	3	0
+Score		9		18		28		36		38		58		68		74		80		83
+AMrilf4h1zzeIfkT
+Pinfalls	9	0	5	4	3	1	8	0	2	7	2	3	4	0	6	3	F	5	8	1
+Score		9		18		22		30		39		44		48		57		62		71
+AzelhiXwBN8BoqfN
+Pinfalls	4	3	F	F	5	0	9	F	8	1	F	2	F	9	7	0	4	/	9	1	1
+Score		7		7		12		21		30		32		41		48		67		78
+gmTwA6oESOan0dOy
+Pinfalls	1	5	F	1	2	5	8	0	0	3	3	3	6	2	7	/	4	F	2	F
+Score		6		7		14		22		25		31		39		53		57		59
+oSkUxPjXIfiCvJpq
+Pinfalls	3	F	F	0	3	4		X		X	4	1	7	0	2	6		X	6	2
+Score		3		3		10		35		50		55		62		70		88		96
+Fl4qvNfvQFCggY38
+Pinfalls	8	1	4	F	8	1	1	6	9	F	9	/	5	0	8	F	3	/	F	0
+Score		9		13		22		29		38		53		58		66		76		76
+cJTarItuzqHsTzjp
+Pinfalls	8	F	2	2	3	/	7	2		X		X	8	/	6	F	9	0	X	X	1
+Score		8		12		29		38		68		88		104		110		119		140
+zoZaEqrPpnaTNqc8
+Pinfalls	2	/	8	/	6	/	8	F	4	/	3	4	3	/	5	3	4	/	2	7
+Score		18		34		52		60		73		80		95		103		115		124
+MjawkPehIHFmNx21
+Pinfalls	F	/	0	7	2	2		X	2	/	7	2	0	5	5	F	9	/	0	5
+Score		10		17		21		41		58		67		72		77		87		92
+nruxTiUDpCkbCCSp
+Pinfalls	5	/		X	5	1	F	9	F	0	3	5		X	2	6	3	6	8	2	8
+Score		20		36		42		51		51		59		77		85		94		112
+xJooQVK6onZSuWhr
+Pinfalls	0	4		X	4	F	7	/	F	4	7	0	8	F	4	2	2	0	0	9
+Score		4		18		22		32		36		43		51		57		59		68
+YtumJhk2igfvRwtS
+Pinfalls	4	5	0	/	F	3	8	F	3	1	5	4	2	5	9	0	F	6	3	7	0
+Score		9		19		22		30		34		43		50		59		65		75
+tdlGTJDs8jUrUrWn
+Pinfalls	8	/	4	1	1	3	F	9	1	/	2	0	7	0	5	4	0	9	2	8	1
+Score		14		19		23		32		44		46		53		62		71		82
+zx4GWOj4hgmKKQo0
+Pinfalls	9	F	7	F	5	3	7	1		X	8	F	F	4	F	1	5	4	0	F
+Score		9		16		24		32		50		58		62		63		72		72
+CL7gzF80p3HUwPqM
+Pinfalls	6	2	7	1	0	4	0	1	3	3	0	1	8	F	3	6	F	8	9	F
+Score		8		16		20		21		27		28		36		45		53		62
+ggSw2hhGBKmaem9q
+Pinfalls	2	6	0	6	F	7	6	F	6	0	1	F	9	F	4	1	5	2	2	3
+Score		8		14		21		27		33		34		43		48		55		60
+xOrUSjiSDDvsQhHf
+Pinfalls		X	2	6	7	2	2	3	5	2	6	3	9	/	3	F	4	/	5	F
+Score		18		26		35		40		47		56		69		72		87		92
+GtXrvCxBeqDv4SG2
+Pinfalls	1	4	0	6	1	3	4	2	8	/		X	F	0	8	F		X	7	3	2
+Score		5		11		15		21		41		51		51		59		79		91
+jq6ff4SJWXG5SyHv
+Pinfalls	3	6	3	5	6	F	8	0	8	1	3	/	F	/	6	3	9	0	X	4	1
+Score		9		17		23		31		40		50		66		75		84		99
+MBH8HVOSD07WQO69
+Pinfalls	3	5	8	/	5	1	0	F		X	F	7	8	0	1	6	3	0	6	1
+Score		8		23		29		29		46		53		61		68		71		78
+N6JLCbztvT0pgu9a
+Pinfalls	7	F	F	5	6	2	5	2	7	2	8	F	F	1	4	5	1	5	6	0
+Score		7		12		20		27		36		44		45		54		60		66
+F9ZJQFdJ4NxKno16
+Pinfalls	5	1	0	5	4	F	6	/	1	1	2	5	5	0	4	/	2	/	X	8	F
+Score		6		11		15		26		28		35		40		52		72		90
+bzu65pBYulPgJk0T
+Pinfalls	1	0	F	/	1	/	5	2		X	1	1	6	2	5	/	7	0	F	9
+Score		1		12		27		34		46		48		56		73		80		89
+9o4l2aytDFxvEw5p
+Pinfalls	0	/	7	0	7	1	7	2	2	6		X	3	4		X	2	F	6	0
+Score		17		24		32		41		49		66		73		85		87		93
+0KLg6PeXUYJhvEEW
+Pinfalls	6	2	1	0	3	/	9	0	7	/	4	4	6	F	7	/	9	F	1	5
+Score		8		9		28		37		51		59		65		84		93		99
+O822iQAj5dCA0ONn
+Pinfalls	3	2	8	F	1	/	1	F	7	0	4	/	1	2	6	3	2	0	2	6
+Score		5		13		24		25		32		43		46		55		57		65
+n5v9sLgHuA3F3bLa
+Pinfalls	F	8	2	F	4	F	5	4	9	0	0	4	5	3	1	6	9	/	6	3
+Score		8		10		14		23		32		36		44		51		67		76
+MNkVVxt0Uklb7YXu
+Pinfalls	9	/	F	7	9	0	F	5	6	1	F	/	5	1	9	/		X	9	0
+Score		10		17		26		31		38		53		59		79		98		107
+sJOCoZnZDhSkjaby
+Pinfalls	3	2	8	F	4	/	0	/	4	2	6	3	4	5	9	/	7	1	4	3
+Score		5		13		23		37		43		52		61		78		86		93
+WM9PDMtxkxh23dpY
+Pinfalls	5	1	9	F		X	6	1	1	3	0	0	3	0	9	/	F	9	9	F
+Score		6		15		32		39		43		43		46		56		65		74
+AQzzOBIB8GsDbCM0
+Pinfalls	7	0	4	/	8	F		X	6	2		X	2	5	7	F	8	1	X	X	X
+Score		7		25		33		51		59		76		83		90		99		129
+arV7LJEvk7gfYRFk
+Pinfalls	6	/	6	F	9	0	7	1	4	4	9	F	5	1	2	5	5	4	X	F	1
+Score		16		22		31		39		47		56		62		69		78		89
+Madxzg82CBfLM5d3
+Pinfalls	7	2	7	F	7	F	5	/	8	1	4	4	0	F	9	/	F	0	7	0
+Score		9		16		23		41		50		58		58		68		68		75
+Cs9WpVNvuuT4pu4c
+Pinfalls	4	1	2	6	9	/	8	F	5	0	1	1	6	0	6	2	2	3	8	F
+Score		5		13		31		39		44		46		52		60		65		73
+Gtip0aDNZFkDXuaV
+Pinfalls	2	0	7	0	8	/	3	4	4	0	1	6	3	F	0	1	8	F	4	2
+Score		2		9		22		29		33		40		43		44		52		58
+HhewdMgkgwaQ844z
+Pinfalls	6	F	F	6	0	5	2	F		X	3	F	2	0	6	2	1	1	4	6	4
+Score		6		12		17		19		32		35		37		45		47		61
+GAmEC28yWHTLNKXR
+Pinfalls	2	1	6	3	7	0	6	0	6	0	F	5		X	8	/	1	6	F	3
+Score		3		12		19		25		31		36		56		67		74		77
+s5vGx6cclmEAEspU
+Pinfalls	5	1	3	3	9	F	5	3	3	F	7	2	3	4	5	F		X	5	2
+Score		6		12		21		29		32		41		48		53		70		77
+BxigiFsThcb6zmD1
+Pinfalls	F	5	6	3	F	1	0	8	4	/	6	F	1	6	8	F	8	0	7	1
+Score		5		14		15		23		39		45		52		60		68		76
+NBx6swCig4kTgON6
+Pinfalls	1	6	F	6	0	7		X	3	2	5	3	4	2	6	0	5	F	0	4
+Score		7		13		20		35		40		48		54		60		65		69
+b4Y5DCDnkw7eI1WH
+Pinfalls	9	F	5	/	3	4	6	/	5	0	0	7	8	0	9	/	0	1	F	0
+Score		9		22		29		44		49		56		64		74		75		75
+k8u11uaNQnsadbl2
+Pinfalls	0	1	8	0	0	/	2	/	6	3	8	0	4	3	8	0	7	1	F	7
+Score		1		9		21		37		46		54		61		69		77		84
+dBb9H4t9IhzsKujJ
+Pinfalls		X	7	0	8	/	1	2	4	5	6	3		X	0	3	1	6	F	9
+Score		17		24		35		38		47		56		69		72		79		88
+FXHJT9y1HirAUpPa
+Pinfalls	7	2	4	3	F	6	2	6	9	0	9	0	5	/	6	1	4	0	9	0
+Score		9		16		22		30		39		48		64		71		75		84
+IrAzPDKd1IZ6uO93
+Pinfalls	F	7	7	/	F	1		X	1	7	5	2	5	F	5	2	2	F	5	3
+Score		7		17		18		36		44		51		56		63		65		73
+Hoz6tkO6qdjl2OPr
+Pinfalls	3	3	F	8		X	6	2	2	6	4	1		X	7	F	0	5	8	2	8
+Score		6		14		32		40		48		53		70		77		82		100
+K8btsPBN3rQQ4Zvw
+Pinfalls	F	9		X	6	3	8	1	9	/	5	0	4	3	1	6	1	/	3	7	F
+Score		9		28		37		46		61		66		73		80		93		103
+tqmalzNSPW12h88X
+Pinfalls	3	5	5	/	9	/	F	F	9	/	2	1	8	F	9	/	8	F	7	0
+Score		8		27		37		37		49		52		60		78		86		93
+a9FqOr6iDBN9AbVL
+Pinfalls	9	0	6	1	F	3	9	/	F	4	8	0	2	3	7	1	6	0	1	8
+Score		9		16		19		29		33		41		46		54		60		69
+3UtMY3c4G6DKwx7F
+Pinfalls	0	4	2	4	7	F	7	/		X	0	/	2	4	1	8	4	4	7	1
+Score		4		10		17		37		57		69		75		84		92		100
+vjTh10AA20ID4ViC
+Pinfalls	3	6	4	5	2	7	5	/	0	1	9	F	F	2	4	F		X	9	1	9
+Score		9		18		27		37		38		47		49		53		73		92
+84S6u2akGB78QCeZ
+Pinfalls	6	0	3	3	3	2	8	F	8	0	9	/	1	4	2	1	0	5	2	8	0
+Score		6		12		17		25		33		44		49		52		57		67
+jXkxIZApbYQpKl1m
+Pinfalls		X	0	3	8	0	2	3	6	1	9	0	9	F	8	F	5	1	7	F
+Score		13		16		24		29		36		45		54		62		68		75
+mAK3pamEupLQKyVu
+Pinfalls	6	1	3	3	5	F	2	2	8	0	4	4	6	F	0	0	0	3	2	1
+Score		7		13		18		22		30		38		44		44		47		50
+hVPQeMnIW6YjQ5UT
+Pinfalls	8	/	9	F	5	F	3	1	6	2	0	1	F	8	1	7	8	0	4	2
+Score		19		28		33		37		45		46		54		62		70		76
+L8qO3POjpiQewSIr
+Pinfalls	2	1	1	6	6	3		X	4	4	7	2	7	F	7	F	F	2	7	1
+Score		3		10		19		37		45		54		61		68		70		78
+GbsRRoH7yTHuPFmH
+Pinfalls	3	3		X		X	4	3		X	2	4	F	1	7	1	0	1	9	F
+Score		6		33		50		57		73		79		80		88		89		98
+nYIUUd7xfuJLIsuR
+Pinfalls	5	/	4	5	4	4	8	/	8	1	0	4	7	2	5	3	F	5	9	F
+Score		14		23		31		49		58		62		71		79		84		93
+NyFzopKiLMfst4zI
+Pinfalls	8	F		X	2	0	6	1		X	9	/		X	3	5	9	F	4	0
+Score		8		20		22		29		49		69		87		95		104		108
+Qkh3oXfFKToRphpD
+Pinfalls	3	0	3	2	0	6	7	1	7	F	3	3	9	/	1	7	1	0	7	2
+Score		3		8		14		22		29		35		46		54		55		64
+ONsoZrk7nkZWSE2V
+Pinfalls	7	F	6	3	1	5	0	0		X	5	2	F	2	8	F	6	1	7	F
+Score		7		16		22		22		39		46		48		56		63		70
+dbUXq0BqKXJ5ikcn
+Pinfalls	7	0	8	1	9	/		X	4	F	5	3	4	1	8	1	4	2	6	2
+Score		7		16		36		50		54		62		67		76		82		90
+oThXhTuS75R47PcJ
+Pinfalls	0	/		X	0	2	5	F	5	F	3	5	9	0	6	2	3	4	8	2	0
+Score		20		32		34		39		44		52		61		69		76		86
+LexAWRgYXFG7jvdQ
+Pinfalls	8	0	4	0	1	6	6	/	6	1	5	4		X		X		X	0	2
+Score		8		12		19		35		42		51		81		103		115		117
+b1vavhvlM71uHrNF
+Pinfalls	1	5	1	0	3	0	0	2	8	F	2	/	F	4	7	0	9	0	6	F
+Score		6		7		10		12		20		30		34		41		50		56
+rPIj21jhr7MGtbvf
+Pinfalls	5	/	1	1	2	1	4	4	2	6	9	0	7	/	8	1	9	F	6	F
+Score		11		13		16		24		32		41		59		68		77		83
+vhcZT7lrvZ0ayf2d
+Pinfalls	5	3	1	4	4	/	2	0	4	4	8	1	8	/	7	1	0	0	5	2
+Score		8		13		25		27		35		44		61		69		69		76
+gsECSrkDhDTjezhd
+Pinfalls	8	/	2	F	3	6	0	3	9	0	9	/	2	2	5	3	0	5	F	9
+Score		12		14		23		26		35		47		51		59		64		73
+7hJKEPzW4GJixSdA
+Pinfalls	8	/	F	0	6	3		X	5	3	F	6	8	/	F	4	6	2	5	4
+Score		10		10		19		37		45		51		61		65		73		82
+JzjHvd5DcODFm86t
+Pinfalls	0	6	0	2	9	F	1	4	4	/	6	3	4	4	0	2	9	/	5	2
+Score		6		8		17		22		38		47		55		57		72		79
+vcwxfYjEgpt2EFET
+Pinfalls	8	F	F	6	4	2	9	0	F	3	0	6	F	0	0	9	3	2	6	1
+Score		8		14		20		29		32		38		38		47		52		59
+9ukxSKQ2zkAcvVVz
+Pinfalls	F	6	3	0		X	3	3	7	F	5	2	4	2	2	5	9	0	7	1
+Score		6		9		25		31		38		45		51		58		67		75
+qK3fFkTFxZc6QqMk
+Pinfalls	4	5	7	1	F	0	0	1	2	/	7	1	9	0	5	3	0	9	1	9	0
+Score		9		17		17		18		35		43		52		60		69		79
+7HYt3P3TL8oFNtCz
+Pinfalls	3	F	9	/	F	3		X	3	5	2	6	0	/	1	F	F	8	6	3
+Score		3		13		16		34		42		50		61		62		70		79
+mRcsn8dgl9jWkmKN
+Pinfalls	8	/	2	/	7	F	8	F	1	7	2	2	F	6	0	3	4	4	4	4
+Score		12		29		36		44		52		56		62		65		73		81
+Dj7z3oH705yVyICH
+Pinfalls	3	1	1	/	7	F	6	3	4	F	6	1	6	1	2	3	3	0	3	F
+Score		4		21		28		37		41		48		55		60		63		66
+WqsgwfdzTXPj1vOy
+Pinfalls	7	0	3	4	5	3	6	F	3	5	4	5	5	2		X	9	/	F	1
+Score		7		14		22		28		36		45		52		72		82		83
+99ardaI7sZLTbKhh
+Pinfalls	2	F	9	F	5	/		X		X	2	3	5	/	1	4	F	7	5	2
+Score		2		11		31		56		71		76		87		92		99		106
+SWExnnPZV1WKNcjk
+Pinfalls	5	1	7	1	4	1	5	0	1	5		X	0	1	5	/	5	/	7	0
+Score		6		14		19		24		30		41		42		57		74		81
+6nzK9xqciXglhplT
+Pinfalls	3	6	8	F	3	/	9	0	4	3	6	1	9	0	2	4	1	0	4	0
+Score		9		17		36		45		52		59		68		74		75		79
+PLauHkKYMhyI2wV2
+Pinfalls	2	2	8	F	8	0	7	F	1	3	0	9	3	/	9	0	6	F	6	3
+Score		4		12		20		27		31		40		59		68		74		83
+gXqmOZS9hGNHbK0U
+Pinfalls	1	4	0	8	2	1	1	5	8	/	6	/	F	0	1	4	3	1	1	9	1
+Score		5		13		16		22		38		48		48		53		57		68
+qcTw4pm7cuZZk18g
+Pinfalls	0	8	3	4	6	0		X	F	/	1	8	9	/	F	/	8	/	X	7	1
+Score		8		15		21		41		52		61		71		89		109		127
+nmgUFONGrzKjVVtF
+Pinfalls	8	F	1	7		X	8	1	0	F	2	0	2	F	9	F	2	5	8	1
+Score		8		16		35		44		44		46		48		57		64		73
+78P9FOlzCwOuu8iF
+Pinfalls	F	/	F	3	9	/	F	4	6	F	2	0	3	1	4	5	1	1	0	7
+Score		10		13		23		27		33		35		39		48		50		57
+ggJ8gie7ZC1PEoOr
+Pinfalls		X	F	2	8	1	0	F	9	0	1	7	1	0	4	F	0	2	1	3
+Score		12		14		23		23		32		40		41		45		47		51
+QNhEV4twCvhVhc7U
+Pinfalls	1	6	9	F	3	2	9	0	0	7	8	1		X	2	5	9	0	7	F
+Score		7		16		21		30		37		46		63		70		79		86
+mGPIigZMvLzGuBEM
+Pinfalls		X	3	4	5	1	1	0	0	6	8	1	1	6	5	/	5	/	4	2
+Score		17		24		30		31		37		46		53		68		82		88
+evVpDBVEccz2Rknq
+Pinfalls	F	1	8	F	2	/	7	/	9	/	5	4	7	1	4	0	9	0	0	2
+Score		1		9		26		45		60		69		77		81		90		92
+C4l4jMFafI4WHZKv
+Pinfalls	F	3		X	1	/	F	2	1	5	2	0	2	4	F	8	4	4	9	F
+Score		3		23		33		35		41		43		49		57		65		74
+1qDtFJ6UaMsIcTUd
+Pinfalls	6	/	9	0	F	5	4	3	F	4	7	0	6	3	0	/		X	2	5
+Score		19		28		33		40		44		51		60		80		97		104
+xzeIW3Ht77PX8kaB
+Pinfalls	2	3	7	F	0	8	8	0	9	F	0	8	2	1	1	5		X	9	0
+Score		5		12		20		28		37		45		48		54		73		82
+DUHYobkWWH27esN7
+Pinfalls	F	7	5	2	2	2	3	0	8	/	F	1	7	F	3	3	8	F	X	6	3
+Score		7		14		18		21		31		32		39		45		53		72
+DhjZySYYMvGnceKY
+Pinfalls	9	/		X	9	F	4	F	3	3		X	7	1	3	1	4	4	5	F
+Score		20		39		48		52		58		76		84		88		96		101
+iz1LGSjHlZk7snVX
+Pinfalls	8	1	0	/	F	F	2	7	5	4	5	/	2	2	5	3	6	/	6	1
+Score		9		19		19		28		37		49		53		61		77		84
+zzrwMyJjIcIfImAR
+Pinfalls	4	3	0	2	8	F	0	9	7	/	0	3	9	/	6	3	2	4	4	4
+Score		7		9		17		26		36		39		55		64		70		78
+Mc4jOl3V1errCxmU
+Pinfalls	F	5	4	/	2	F	9	0	F	0	1	0	6	3	2	F	2	7	1	1
+Score		5		17		19		28		28		29		38		40		49		51
+JbC17XIi3Y2RehAK
+Pinfalls	7	0	7	1	2	4	3	4	6	0	8	/	2	4	2	5	4	5	1	3
+Score		7		15		21		28		34		46		52		59		68		72
+dXZNeV4lfetmH0tH
+Pinfalls	3	6	7	/	1	0	6	0	2	7	2	/		X	7	F	0	8	3	0
+Score		9		20		21		27		36		56		73		80		88		91
+pb3u8HoIRKSsbmmD
+Pinfalls	4	3	3	2	6	/	3	0	0	4	3	3		X	5	0	5	/	7	1
+Score		7		12		25		28		32		38		53		58		75		83
+EQ1VhV7k7lXfQyAw
+Pinfalls	0	0	6	F	9	/	7	0	9	/	6	1	8	F	1	2	7	0	X	X	F
+Score		0		6		23		30		46		53		61		64		71		91
+dLMjluFuUPra9m78
+Pinfalls	7	1	0	6		X	3	0	6	F	0	5	0	F	7	0		X	F	7
+Score		8		14		27		30		36		41		41		48		65		72
+dOX3ZNTULOgvbha6
+Pinfalls		X	9	0	4	1		X	F	/	5	2	2	1	5	4	8	0	F	0
+Score		19		28		33		53		68		75		78		87		95		95
+gUAyHquJRsnTGrMT
+Pinfalls	4	3	6	/	6	F	F	1	7	1	1	6	1	F	2	0	6	2	0	F
+Score		7		23		29		30		38		45		46		48		56		56
+XWhEiowcfz5J2ogO
+Pinfalls	4	3	9	F	1	/	7	/		X	5	/	2	/	9	F	4	/	2	3
+Score		7		16		33		53		73		85		104		113		125		130
+z09JLLtokuwN495G
+Pinfalls	9	0	4	F	0	8	3	4	7	2		X	5	3	7	/	2	/	6	2
+Score		9		13		21		28		37		55		63		75		91		99
+9GCsi3ZrIXq0rGDe
+Pinfalls	7	2	9	F	0	0	8	0		X	5	F		X	3	4	6	F	6	0
+Score		9		18		18		26		41		46		63		70		76		82
+C62O85tAfCvA58iQ
+Pinfalls	8	/	3	5	8	0	6	F	9	0	0	1	5	0	1	1	8	0	9	1	2
+Score		13		21		29		35		44		45		50		52		60		72
+56kOEWvv9IaCLDgs
+Pinfalls	F	2	4	3	7	0	6	/	6	1	1	4	4	/	7	2	9	0	1	0
+Score		2		9		16		32		39		44		61		70		79		80
+wKgVk7e95fttfdrW
+Pinfalls	5	F	9	F	3	1	7	2	F	6	2	2	3	0	1	5	4	/	0	9
+Score		5		14		18		27		33		37		40		46		56		65
+KzI9sPkEBlWiEnKl
+Pinfalls	4	3	3	0	3	2		X	8	1	3	F	2	3	F	0	1	4	6	1
+Score		7		10		15		34		43		46		51		51		56		63
+Jxrq2YSXVXY0bRmw
+Pinfalls	6	0	1	0	F	0	F	0	4	/	6	F	9	/	2	5		X	2	2
+Score		6		7		7		7		23		29		41		48		62		66
+mn92PHn2cMmiOTjM
+Pinfalls	7	0	3	/	7	2	2	6	4	F	F	3	5	2	0	8		X	1	7
+Score		7		24		33		41		45		48		55		63		81		89
+q5BWaiyOq8B5yEJj
+Pinfalls	9	0	6	3	0	6	1	7	3	4	F	4	6	1	7	2	9	0	7	0
+Score		9		18		24		32		39		43		50		59		68		75
+wiUr0PH1p7PtyYSj
+Pinfalls	1	/	6	1	6	0	1	2	8	0	0	9		X	3	2	0	6	9	1	6
+Score		16		23		29		32		40		49		64		69		75		91
+fEDeMgzWPmA6Wbmh
+Pinfalls	1	6	8	F	F	/	2	6	8	/	4	4	3	3	1	1	3	4	F	F
+Score		7		15		27		35		49		57		63		65		72		72
+9Sa2jHnTPPGvaCLw
+Pinfalls	6	1	5	F	9	F	8	F	0	/		X	F	3	1	4	7	/	5	0
+Score		7		12		21		29		49		62		65		70		85		90
+DQrYI3N2Xl4OpB4t
+Pinfalls	3	4	3	1	F	8		X		X	F	6	F	9		X	F	3	3	4
+Score		7		11		19		45		61		67		76		89		92		99
+jJYTcR8vYGLoUOWH
+Pinfalls	5	4	3	F	3	F	6	2	6	/	3	2	0	5		X		X	4	4
+Score		9		12		15		23		36		41		46		74		92		100
+nEknr5atLGvgprIT
+Pinfalls	8	/	0	8		X		X	0	9	5	F	F	0	4	3	0	/	1	7
+Score		10		18		47		66		75		80		80		87		98		106
+B5ulY64X2G4UyVNc
+Pinfalls	3	2	4	F	2	7	7	/	F	8	6	2	5	0	3	F	8	0	6	0
+Score		5		9		18		28		36		44		49		52		60		66
+sB1o7HxwBggLaT0d
+Pinfalls		X	F	F	9	0	8	0	8	0	2	/		X	0	/	9	F	6	F
+Score		10		10		19		27		35		55		75		94		103		109
+9p2Yc9u5wYhiYRYb
+Pinfalls	1	2		X	7	/	0	4	7	0	8	0		X	0	8	1	6	1	5
+Score		3		23		33		37		44		52		70		78		85		91
+vpN2vTmoxvWQOf0t
+Pinfalls		X	3	3	8	1	5	F	1	3	5	/	9	/	0	F	7	0	3	7	3
+Score		16		22		31		36		40		59		69		69		76		89
+A7FPIJmKOLajKRjN
+Pinfalls	2	F	3	4	9	0	2	1	F	2	3	6	0	9	1	1	6	1	F	F
+Score		2		9		18		21		23		32		41		43		50		50
+8pzMWeuYB0Fuvfci
+Pinfalls	4	1	F	/	3	3	0	0	9	F	F	0	2	1	8	/	7	F	X	8	F
+Score		5		18		24		24		33		33		36		53		60		78
+cyz3l4OnzQ6nkDlW
+Pinfalls		X	7	0	F	0	5	F	6	1	2	0	4	1	1	2	F	4	F	2
+Score		17		24		24		29		36		38		43		46		50		52
+gcd4VHWKPQSwIum2
+Pinfalls		X	4	4	F	3	9	0	2	6	5	1	6	2	F	9	0	F	2	0
+Score		18		26		29		38		46		52		60		69		69		71
+6lPdvpi9oU2u8gCc
+Pinfalls	4	2		X	0	2	6	3	1	F	2	1	9	0	5	4	9	F	2	7
+Score		6		18		20		29		30		33		42		51		60		69
+lgVhakJOHEksVs6b
+Pinfalls	0	3	7	/	9	/	7	2		X	F	/	0	1	3	6	4	4	X	3	3
+Score		3		22		39		48		68		78		79		88		96		112
+hu8SHMBsomhpUr8A
+Pinfalls		X	4	5	5	F	9	F	6	F	0	9	3	2	3	5	4	/	1	0
+Score		19		28		33		42		48		57		62		70		81		82
+wY7zDjzETN5WZGP1
+Pinfalls		X	6	/	2	6	2	3	5	4		X	8	F	4	F	7	/	9	1	7
+Score		20		32		40		45		54		72		80		84		103		120
+2XxdWYWPM0vGnMBl
+Pinfalls	F	3	4	0	6	/	5	2	0	9	2	1	2	F	3	3	3	4	3	0
+Score		3		7		22		29		38		41		43		49		56		59
+Ep3gi7810TfYx2VE
+Pinfalls		X	8	1	3	/	2	7	4	2	1	0	9	0		X	2	6	4	3
+Score		19		28		40		49		55		56		65		83		91		98
+PaEyCjNNgJrqqtO7
+Pinfalls	7	F	8	0	9	/	1	3	2	/	8	F	3	4	7	F	F	1	F	X	6
+Score		7		15		26		30		48		56		63		70		71		87
+tEgqZGr5RnxALIez
+Pinfalls	5	F	6	/	2	0	F	F	1	5	4	0	2	4	7	2	1	4	0	4
+Score		5		17		19		19		25		29		35		44		49		53
+LMBLbtuJ5kEs48fW
+Pinfalls		X	6	/	3	5	4	2		X	0	F		X	7	F	5	4	7	1
+Score		20		33		41		47		57		57		74		81		90		98
+u1mV4Bvt7D1cUWnw
+Pinfalls	4	0	5	0	7	/	F	2	4	4	8	F	5	2	7	2	9	F	9	F
+Score		4		9		19		21		29		37		44		53		62		71
+m6IFnZFqMxm9xjHc
+Pinfalls		X		X	4	/	6	F	4	4	F	4	0	4	9	0	6	0	5	F
+Score		30		50		66		72		80		84		88		97		103		108
+3zeqgrUzzWlkEwHk
+Pinfalls	3	F	3	5		X	9	0	7	2	7	0	2	F	6	F	1	2	F	X	6
+Score		3		11		30		39		48		55		57		63		66		82
+7JUPsClJqTZsfArP
+Pinfalls	4	3	9	0	F	2	4	/	2	2		X	2	5	1	0	7	0	4	0
+Score		7		16		18		30		34		51		58		59		66		70
+NDs9xzhqls9xaFd8
+Pinfalls	5	1	2	/	9	F	5	1	4	3	1	4		X	8	1	6	0	4	0
+Score		6		25		34		40		47		52		71		80		86		90
+irvg4Izo4vlbhNVG
+Pinfalls	5	4	F	8	4	3	5	/	0	4	2	3	8	F	9	0	3	4	6	0
+Score		9		17		24		34		38		43		51		60		67		73
+cqyv4lVaBhoKHYzv
+Pinfalls	5	4	7	F	7	1	1	0	7	F	4	2	F	0	1	8		X	9	F
+Score		9		16		24		25		32		38		38		47		66		75
+s6SnomYlAvc3zps8
+Pinfalls	0	/	7	2	4	/	5	3	0	0	0	2	F	3		X	8	/	0	F
+Score		17		26		41		49		49		51		54		74		84		84
+MvBCzOVYJopiKOxF
+Pinfalls	4	3	3	0	3	3	8	F	9	F	2	0	8	1	F	3	F	0	6	4	4
+Score		7		10		16		24		33		35		44		47		47		61
+ELpZ0QW6Ja33UbqG
+Pinfalls	8	1	6	/	9	F	0	6	F	4	0	5	2	3	1	5	9	0	F	5
+Score		9		28		37		43		47		52		57		63		72		77
+Fn1pjX3SObJ9TkAA
+Pinfalls	5	/	9	/	5	0	9	/		X	9	F	F	/		X	3	4	5	0
+Score		19		34		39		59		78		87		107		124		131		136
+51dFCXelJ3u2lSQw
+Pinfalls	5	1	4	/	F	4	8	/	5	1	3	4	4	5	3	3	F	0	F	5
+Score		6		16		20		35		41		48		57		63		63		68
+jMCQbc3Fz3b5XRgI
+Pinfalls	0	6	5	3	3	6	1	6	F	F	4	1	6	3		X	3	/	1	9	1
+Score		6		14		23		30		30		35		44		64		75		86
+mKCAMisN3D0ihSU1
+Pinfalls	5	4	3	1	4	/	9	0	3	6		X	3	F	8	/	5	3	3	3
+Score		9		13		32		41		50		63		66		81		89		95
+nr1NqbRiP9lNwEUk
+Pinfalls	6	F	4	0	7	F	8	1	5	3	9	F	8	1	9	/	4	2	X	4	5
+Score		6		10		17		26		34		43		52		66		72		91
+HSpjG4G9iamotfsi
+Pinfalls	4	3	7	/	7	1	3	1	F	F	6	2	F	7	5	2		X	4	6	3
+Score		7		24		32		36		36		44		51		58		78		91
+34c6t0Q8HB4IR9kG
+Pinfalls	7	0	9	/		X	0	4	7	F	8	1	2	7	5	4	4	0	7	3	7
+Score		7		27		41		45		52		61		70		79		83		100
+jBSPBTYRoodiPFCr
+Pinfalls	0	1	6	2	9	F	4	/	4	/	9	F	9	0	0	9	3	2	F	0
+Score		1		9		18		32		51		60		69		78		83		83
+oz2Q1ZI89fqI8XMq
+Pinfalls	F	1	3	5	0	6	0	3	7	2	7	F		X	2	F	5	2	9	1	1
+Score		1		9		15		18		27		34		46		48		55		66
+IpgdYBmI9u0cyafa
+Pinfalls	5	4	9	F	5	0	F	2	0	2	3	5		X	7	1	F	6	0	5
+Score		9		18		23		25		27		35		53		61		67		72
+Xo1nrHNMgTutYpXL
+Pinfalls	1	3	6	2	5	F	F	4	3	0		X	6	/	3	4	F	1	8	0
+Score		4		12		17		21		24		44		57		64		65		73
+pBz6rFZ0yDjcQNPF
+Pinfalls	2	F	4	F	7	2	9	0	3	3	5	0	5	0	5	4	3	/	2	0
+Score		2		6		15		24		30		35		40		49		61		63
+ldMQDD8VbESOz2w4
+Pinfalls	2	0	7	2	4	0	5	1	8	1	0	3	6	3	2	0	2	4	4	2
+Score		2		11		15		21		30		33		42		44		50		56
+0Y8KQ3eG4BEjV9lx
+Pinfalls	6	/	9	0	4	3		X	F	7	6	F	9	F	9	F	5	3	5	4
+Score		19		28		35		52		59		65		74		83		91		100
+41hUI0lRCMB6z38U
+Pinfalls	8	1	4	1	0	7	7	0	6	1	5	F	3	1	5	2	9	F	F	3
+Score		9		14		21		28		35		40		44		51		60		63
+mOdVcp35ie1dGwd7
+Pinfalls		X	0	9	0	8	2	1		X	7	0	5	F	1	1	5	/	4	0
+Score		19		28		36		39		56		63		68		70		84		88
+wmbMHpoqzmBmWjmE
+Pinfalls	9	F	5	0		X	3	2	2	5	F	/	2	2	0	0	6	2	7	3	2
+Score		9		14		29		34		41		53		57		57		65		77
+eLu6cqZDpzGVUEXC
+Pinfalls		X	6	2	2	6	6	/	6	0	4	4	2	7	6	0	7	F	5	3
+Score		18		26		34		50		56		64		73		79		86		94
+8173Q9pDfqtQOb1V
+Pinfalls	9	F	7	0	4	1	4	F	7	F	9	0	0	F	1	F	F	7	3	5
+Score		9		16		21		25		32		41		41		42		49		57
+Cfo3hJa5Oo6FDIha
+Pinfalls	F	5	0	5	5	0	9	0	6	F	1	8	5	1	8	0	6	F	7	F
+Score		5		10		15		24		30		39		45		53		59		66
+6g4wB9zQIK0RxXGe
+Pinfalls	2	F	2	7	5	3	1	2	3	2	F	5	5	/	6	3	7	2	F	4
+Score		2		11		19		22		27		32		48		57		66		70
+QmsGb37zMuc4zNST
+Pinfalls	3	1	1	8	6	1	4	1	7	2		X	0	9	8	1	0	F	1	6
+Score		4		13		20		25		34		53		62		71		71		78
+q40jgN3QxuFcvsP3
+Pinfalls		X		X	9	0	8	0	8	1	2	3	3	3	6	2		X	0	X	2
+Score		29		48		57		65		74		79		85		93		113		125
+ENiYg2mcpsa9xcPH
+Pinfalls	0	/	4	/	8	0	7	1	F	5	5	/	9	/	8	F	9	0	0	6
+Score		14		32		40		48		53		72		90		98		107		113
+dOsPOewgXc2Gr7vu
+Pinfalls	2	4	4	3	9	/	0	5	4	2	3	0	6	2	8	1	F	/	2	0
+Score		6		13		23		28		34		37		45		54		66		68
+nVRNlQDpXFVp3JWE
+Pinfalls	8	0	1	8	2	3	F	8	8	/	4	/		X	9	0	9	0	9	1	5
+Score		8		17		22		30		44		64		83		92		101		116
+pZzDBFy78eM7PGQM
+Pinfalls	9	/	2	7	5	1	2	F		X	F	1	5	4	F	F		X	9	1	4
+Score		12		21		27		29		40		41		50		50		70		84
+jqAJTeUUp7OnFeuJ
+Pinfalls	1	2	4	F	5	3		X	0	2	2	4	5	/	9	F	F	7	1	2
+Score		3		7		15		27		29		35		54		63		70		73
+OraqMaf40RukNf6y
+Pinfalls	4	4	9	/	4	5	8	/		X	7	2	0	4	F	0	9	0	2	3
+Score		8		22		31		51		70		79		83		83		92		97
+X2nE815XAgzgx6Di
+Pinfalls	4	F	0	4	6	3	5	3	6	2	9	F	1	2	1	3	7	2	6	F
+Score		4		8		17		25		33		42		45		49		58		64
+953XbRRManEupMc2
+Pinfalls	6	3	7	0	8	0	9	/	4	3	5	1	9	F	2	0	9	/	0	5
+Score		9		16		24		38		45		51		60		62		72		77
+2ONTsYhArKbGnLbM
+Pinfalls		X	8	F		X	4	2	8	/	5	F	9	F	1	5	1	8	9	1	9
+Score		18		26		42		48		63		68		77		83		92		111
+hPpHypoL6drbrX1d
+Pinfalls	7	0	3	6	7	1	9	0	7	/	4	F	9	0	F	7	4	/	2	F
+Score		7		16		24		33		47		51		60		67		79		81
+HGTTW5DpdpAKE3Db
+Pinfalls	9	/	F	3	3	/	3	6	9	0	0	8	9	F		X	1	7	4	1
+Score		10		13		26		35		44		52		61		79		87		92
+idle63xnx4McTS4y
+Pinfalls	1	F	0	F	8	F	9	0	4	F	0	0	9	/	4	0	9	/	1	8
+Score		1		1		9		18		22		22		36		40		51		60
+QXPq63IwHNU823JC
+Pinfalls	2	7	5	0	4	2	3	5	0	6	7	F	2	2		X	5	1	F	X	5
+Score		9		14		20		28		34		41		45		61		67		82
+eKXlpRlW5JlSa0Ig
+Pinfalls	3	3	6	0	4	1	4	/	F	9	7	1	0	4	5	1	7	1	8	0
+Score		6		12		17		27		36		44		48		54		62		70
+dqiKQpaDROajfabF
+Pinfalls	6	3	1	/	6	1	4	3	F	4	2	4		X		X	3	/	1	2
+Score		9		25		32		39		43		49		79		99		110		113
+id7vHTeCCsdxfKul
+Pinfalls	3	0	4	5	3	4	8	0	F	4	F	7	0	/	F	2	7	2	0	F
+Score		3		12		19		27		31		38		48		50		59		59
+Mo4MpR2bfYwiYe3F
+Pinfalls	2	5	5	3	8	0	9	0	F	3	6	/	8	F	1	4		X	F	2
+Score		7		15		23		32		35		53		61		66		78		80
+3bfn2xm8LygvSqQb
+Pinfalls	7	1	7	1	2	/	7	/	8	0	0	8	6	/	F	0	9	0	6	F
+Score		8		16		33		51		59		67		77		77		86		92
+Bk8oDg0y8nggAjwc
+Pinfalls	8	/	0	4	8	0	F	F	3	/	8	0	5	0	9	0	6	3	0	5
+Score		10		14		22		22		40		48		53		62		71		76
+GRLy0OS61v3cSBmZ
+Pinfalls		X	4	F	6	3	4	1	0	2	2	F	5	3	6	F	4	4	9	1	6
+Score		14		18		27		32		34		36		44		50		58		74
+j550ry898yNRMJce
+Pinfalls		X	6	3	5	3		X	F	2	9	0	F	7	3	6	7	2	0	F
+Score		19		28		36		48		50		59		66		75		84		84
+4G296LKkbCpaWvf7
+Pinfalls	5	1	0	2		X	4	0	2	3	9	F	8	/	5	0	0	9	1	7
+Score		6		8		22		26		31		40		55		60		69		77
+mg0kWoESYdeCCfsj
+Pinfalls	9	0	2	1	F	9	2	4	4	3	F	4	9	/	0	/		X	3	6
+Score		9		12		21		27		34		38		48		68		87		96
+Uz0NeKnGTcZR9hsI
+Pinfalls	7	2	5	F	0	5	9	/	F	0	9	F	7	0	2	5	9	F	3	5
+Score		9		14		19		29		29		38		45		52		61		69
+VIeCojEhP2RuAZuB
+Pinfalls	7	F	2	6	0	F	F	4	F	7	4	5	3	2		X	1	2	1	7
+Score		7		15		15		19		26		35		40		53		56		64
+46FT550d2QKdIsVH
+Pinfalls	1	7	0	7	5	/	F	3	F	2	1	2	2	3		X	8	F	F	4
+Score		8		15		25		28		30		33		38		56		64		68
+Kqg0TlpVs1Mge0JY
+Pinfalls	9	/	5	1	2	6	1	F	5	F	8	1	3	5	6	3	8	/	6	1
+Score		15		21		29		30		35		44		52		61		77		84
+lrQce3EFbUmG1DA9
+Pinfalls	4	3	5	3	3	6	F	0	8	F	F	F	3	4	8	F	9	/	3	3
+Score		7		15		24		24		32		32		39		47		60		66
+NXMYbJ52sgoD99Aw
+Pinfalls	F	2	8	F	F	2	8	/	0	5	1	F	4	1	6	/	3	/	F	6
+Score		2		10		12		22		27		28		33		46		56		62
+nnltJZw7wtnfJWal
+Pinfalls	7	0	8	1	2	2	1	F	8	0		X	5	3	F	6	8	1	4	4
+Score		7		16		20		21		29		47		55		61		70		78
+zXAo6Wi0HgcXMYiT
+Pinfalls	9	/	2	1		X	0	5	3	6	0	8	6	3	F	7	6	/	9	0
+Score		12		15		30		35		44		52		61		68		87		96
+6pdhLsdL7NLjGHLK
+Pinfalls	7	/	8	F	8	1	3	F	9	F	8	F	8	1	9	F	0	1	0	X	5
+Score		18		26		35		38		47		55		64		73		74		89
+S7cfE9XbEhZ7yWq2
+Pinfalls	6	1	6	2	3	2	3	0	4	2	9	0	1	6	1	7	8	/	4	4
+Score		7		15		20		23		29		38		45		53		67		75
+dWY018iXPMJx4azD
+Pinfalls	6	F	9	0	1	1	9	0	F	6	2	4	7	1		X	1	2	2	1
+Score		6		15		17		26		32		38		46		59		62		65
+q6xRjfeVjfCUCcyC
+Pinfalls	7	2	3	4	4	0	0	1	0	8	8	0	4	3	0	2	6	0	3	2
+Score		9		16		20		21		29		37		44		46		52		57
+d9bQaKM8OkavAX5Y
+Pinfalls	1	/	6	2	6	3	0	8	F	3	0	7	9	0	8	1	4	4	F	3
+Score		16		24		33		41		44		51		60		69		77		80
+TqiIsXmu3BuFFubd
+Pinfalls	6	3	6	F		X	4	5	9	/	6	3	1	4	5	/	0	F	2	4
+Score		9		15		34		43		59		68		73		83		83		89
+XzrXlMmAIt7XZQtp
+Pinfalls	2	5	9	/	0	5	5	0	1	/		X	1	1	6	1		X	2	4
+Score		7		17		22		27		47		59		61		68		84		90
+NKZu21ZoMG783Ap0
+Pinfalls	2	4	4	/	9	/	2	1	9	F	3	3	3	4		X	3	/	7	3	4
+Score		6		25		37		40		49		55		62		82		99		113
+PHVuafkba56lzdOx
+Pinfalls	8	1	3	5	3	F	8	0	4	F	2	1	0	5	2	2	8	F	9	0
+Score		9		17		20		28		32		35		40		44		52		61
+j3ezks0QUQUarqP8
+Pinfalls	F	4	3	0	F	6	3	F	0	4	7	1	5	1		X	5	3	6	3
+Score		4		7		13		16		20		28		34		52		60		69
+4szGoIAYj312uRuQ
+Pinfalls	2	F	1	5		X	9	0	8	/	2	4	F	0	8	/	7	F	4	0
+Score		2		8		27		36		48		54		54		71		78		82
+Wpb9KaXyGIJ74Tyz
+Pinfalls	7	F	9	0		X		X	5	F	8	F	3	6	0	3	9	/	1	1
+Score		7		16		41		56		61		69		78		81		92		94
+AeKpKPOtW69SszqC
+Pinfalls	0	6	F	F	2	1		X	3	2	4	5	9	0		X	3	3	1	5
+Score		6		6		9		24		29		38		47		63		69		75
+X0Ii24sqLL33SjFT
+Pinfalls	7	1	7	F		X	0	5	0	3	1	2	6	3	9	/	8	1	4	2
+Score		8		15		30		35		38		41		50		68		77		83
+msNRf8vzWGOk1GFb
+Pinfalls	1	4	F	1		X	1	F	5	1	7	2	F	F	0	1	2	3	3	1
+Score		5		6		17		18		24		33		33		34		39		43
+R8jQTPNEAE5JJwVY
+Pinfalls	4	3	2	/		X	4	1	4	2	F	F	1	/	4	3	7	/	7	2
+Score		7		27		42		47		53		53		67		74		91		100
+x5XFlLNEt0GcT39t
+Pinfalls	0	1	3	F	7	0	6	0	0	1		X	5	3	8	/	7	F	9	F
+Score		1		4		11		17		18		36		44		61		68		77
+YTlCct5f3fUN8vfE
+Pinfalls	8	1	5	3	4	4		X	F	1	4	5	6	F	1	6	8	0	6	3
+Score		9		17		25		36		37		46		52		59		67		76
+Z3hnS0J5gWWYrGQ2
+Pinfalls	6	0	8	/	0	F	9	/	9	/	9	/	7	F	3	3	7	0	1	7
+Score		6		16		16		35		54		71		78		84		91		99
+SfsgpoFzHs4lqn8t
+Pinfalls	F	F	6	2	8	/	7	/	7	1	4	4	F	5	8	F	5	3	8	F
+Score		0		8		25		42		50		58		63		71		79		87
+TjALkTXWuLeoYOUk
+Pinfalls	2	3	7	0	8	1	5	2	8	/	0	3	3	F	8	0	5	/	X	7	0
+Score		5		12		21		28		38		41		44		52		72		89
+DvHuphZjsNiE5zdT
+Pinfalls	3	F	0	8		X	3	5	6	0	3	F	3	5	0	6	7	0	7	1
+Score		3		11		29		37		43		46		54		60		67		75
+T97tJtN16v94QNBr
+Pinfalls	9	F		X	F	1	0	9	F	1	4	5		X	8	0	2	5	9	1	7
+Score		9		20		21		30		31		40		58		66		73		90
+VF6vIVtuAsfOWGZ2
+Pinfalls		X	3	F	2	7	2	/	6	0	6	2	9	/		X	9	0	3	F
+Score		13		16		25		41		47		55		75		94		103		106
+apkKHS0FLAd8pwvJ
+Pinfalls	6	3	1	7	F	1		X	9	F	0	6	6	0	7	F	9	/	6	4	0
+Score		9		17		18		37		46		52		58		65		81		91
+veI5N5RDnTfFrpoJ
+Pinfalls	1	1	F	7	1	/	9	0	8	0	8	1		X	4	4	9	/	4	3
+Score		2		9		28		37		45		54		72		80		94		101
+h4Z7x87krq3Oadrg
+Pinfalls	1	0	7	0		X	3	F	0	2	F	8	5	3	8	/	5	0	1	5
+Score		1		8		21		24		26		34		42		57		62		68
+x9InAjqRK8OvGhvB
+Pinfalls	8	/		X	1	5	2	2	2	4	F	4	0	7	F	4	5	/	9	0
+Score		20		36		42		46		52		56		63		67		86		95
+5LlbneUXxl20dxCl
+Pinfalls	7	F	5	/	3	6	1	8	6	0		X	4	3	8	1	F	4	0	X	6
+Score		7		20		29		38		44		61		68		77		81		97
+a1BOSQd4qzeeYNpZ
+Pinfalls	6	F		X	8	1	0	/	3	5	7	2	2	7	5	1	F	4	9	F
+Score		6		25		34		47		55		64		73		79		83		92
+dQJzMgC8sJ9CWiKs
+Pinfalls	9	F	2	4		X	8	0	7	F		X	1	6	3	3	0	1	8	2	2
+Score		9		15		33		41		48		65		72		78		79		91
+K1QCCVKvurG1h04a
+Pinfalls	9	/	3	2	4	/	F	/	9	F	5	1	8	0	8	/	2	7	1	3
+Score		13		18		28		47		56		62		70		82		91		95
+N1FqpVlkt2v7nnIJ
+Pinfalls	0	F	4	4		X		X	2	3	3	0	1	7	5	0	6	0	7	2
+Score		0		8		33		48		53		56		64		69		75		84
+8DBhOgOzmvNbRg6c
+Pinfalls	1	/	0	2	F	2	5	/	7	/	3	4	F	6	0	4	0	4	2	2
+Score		10		12		14		31		44		51		57		61		65		69
+5PNSF8IdUTttbF41
+Pinfalls	1	5	7	2	8	1	7	1		X	9	F	F	1	8	0		X	5	0
+Score		6		15		24		32		51		60		61		69		84		89
+bp0BDlV1z5uAl9Ff
+Pinfalls	1	F	3	F	7	F	1	0	5	F	4	F	4	/	F	3	F	F	5	5	0
+Score		1		4		11		12		17		21		31		34		34		44
+acirQRcVfSA13U1w
+Pinfalls		X		X	F	F	0	F	4	4	2	0	2	1	0	8	4	/	5	4
+Score		20		30		30		30		38		40		43		51		66		75
+DeGe1TQTJMHfXxbf
+Pinfalls	F	5	6	F	9	0	6	/	5	/	F	5	9	/		X	0	3	F	1
+Score		5		11		20		35		45		50		70		83		86		87
+nKALB41uafkaTrjQ
+Pinfalls	9	F	6	/	8	1	F	0		X	9	F	1	1	9	0	6	/	7	0
+Score		9		27		36		36		55		64		66		75		92		99
+7g2vt2tec70jC5Le
+Pinfalls	F	5	F	/	7	F	0	2	6	0	4	5	5	F	3	F	5	2	5	1
+Score		5		22		29		31		37		46		51		54		61		67
+PSGBk0uEKp747F7p
+Pinfalls	F	6	7	1	0	0	5	2	F	6	8	0		X	2	7	4	4	4	5
+Score		6		14		14		21		27		35		54		63		71		80
+mH52VzhHadyJsGSN
+Pinfalls	7	F	3	2	0	9	5	/	3	/	0	8	9	/	0	6	6	F	2	F
+Score		7		12		21		34		44		52		62		68		74		76
+lNNbviifLNGbi1Yh
+Pinfalls	3	2	3	5	3	3	7	/	F	5	1	3	9	/	7	2	8	1	5	5	2
+Score		5		13		19		29		34		38		55		64		73		85
+Lv80su2NJ5izSxV7
+Pinfalls	0	0	3	/	6	F	7	1	0	2	9	0	8	F	2	5	5	3	8	2	4
+Score		0		16		22		30		32		41		49		56		64		78
+fS8rPZxP80G0O9IT
+Pinfalls	4	F	0	8	8	F	2	1	3	F	5	2	1	3	F	4	1	7	9	F
+Score		4		12		20		23		26		33		37		41		49		58
+QQZReXrKaJK8LATc
+Pinfalls	6	2	6	/	7	0	8	1	2	1	6	F	9	0	0	8	3	F	4	4
+Score		8		25		32		41		44		50		59		67		70		78
+uxWk6NaG22rNkeXl
+Pinfalls		X	F	3	6	1	6	0	2	4	9	F	8	/	9	0	F	7	5	1
+Score		13		16		23		29		35		44		63		72		79		85
+HihkXKstvKefb7CE
+Pinfalls	9	/	5	2	F	4	F	0	6	3	F	7	F	9	6	1	3	5	5	4
+Score		15		22		26		26		35		42		51		58		66		75
+gwW0ofa2RoKDOBIy
+Pinfalls	5	/	8	1	0	3		X	8	/	9	/	6	3	3	/	F	9	3	3
+Score		18		27		30		50		69		85		94		104		113		119
+40eWcm5pPLPaO1Y9
+Pinfalls	6	F	3	2	7	F	4	F	2	1	8	1	F	0	7	2	8	F	4	0
+Score		6		11		18		22		25		34		34		43		51		55
+3nQT2nsMz03CLYSM
+Pinfalls	1	F	2	0	7	/	7	2	F	3	7	1	1	5	1	2	2	/	2	0
+Score		1		3		20		29		32		40		46		49		61		63
+AQgsT3IfciMtSPld
+Pinfalls	4	5	2	5	4	2	2	3	8	/	9	F	F	3	F	9	5	/	3	F
+Score		9		16		22		27		46		55		58		67		80		83
+nyimTL0Ax45u0vtu
+Pinfalls	5	0	7	1		X	6	1	6	/	0	2	3	2	F	2	0	9	X	5	3
+Score		5		13		30		37		47		49		54		56		65		83
+VsXKsOYXLcA5DgZy
+Pinfalls	4	5	2	7	2	F	4	5		X		X	5	2	4	0	2	5	8	F
+Score		9		18		20		29		56		73		80		84		91		99
+les5AcscGTIn5pum
+Pinfalls	9	F	8	/	8	/		X	0	4	6	F	0	7		X	4	3	6	4	5
+Score		9		27		47		61		65		71		78		95		102		117
+N5nGPdjfYYXQOC7R
+Pinfalls	6	1	1	5	5	0	5	0	5	3	6	1	5	3	F	2	5	F	3	5
+Score		7		13		18		23		31		38		46		48		53		61
+eEhf2Fi4DezSdrv8
+Pinfalls	2	2	F	6	3	2		X	8	/	2	5	F	7	9	0		X	X	1	7
+Score		4		10		15		35		47		54		61		70		91		109
+37BkSDG3sYIJVr6L
+Pinfalls	6	3	1	5	4	3	F	2	F	1	8	1	7	1	6	0	F	4	3	2
+Score		9		15		22		24		25		34		42		48		52		57
+AnL5goKRnj3w2KEz
+Pinfalls	6	2		X	2	6	4	/	8	F	7	2	5	2	5	1	6	2	4	4
+Score		8		26		34		52		60		69		76		82		90		98
+OKF90KMOvk4jX5E9
+Pinfalls	1	3	F	2	7	2	4	2	9	0		X	F	7	8	F	1	F	5	5	2
+Score		4		6		15		21		30		47		54		62		63		75
+KVuY5ZhvlhK1xvb8
+Pinfalls	3	/	3	0	8	F	3	2	7	F	3	4	3	3		X	4	2	3	3
+Score		13		16		24		29		36		43		49		65		71		77
+C07y1ttwU9XcHJxZ
+Pinfalls	3	1	0	2	7	0	F	3	5	1	5	0	F	5	5	4	9	/	5	F
+Score		4		6		13		16		22		27		32		41		56		61
+tlxLrF6biuDIznOt
+Pinfalls	2	5	3	1	9	0	9	/		X	1	2	2	2	4	/	3	2	0	4
+Score		7		11		20		40		53		56		60		73		78		82
+U3UK8OUPcRB0vFjw
+Pinfalls	5	2	3	6	F	9	2	F	3	5	4	1	F	/	6	F	5	2	6	2
+Score		7		16		25		27		35		40		56		62		69		77
+d3o5hFXFGCjkioY6
+Pinfalls	7	/	2	4	0	2	3	1	0	7	6	3	0	7	F	9	6	/	7	3	2
+Score		12		18		20		24		31		40		47		56		73		85
+NHWOdzFu9Yzbmpaj
+Pinfalls	1	F	4	2	4	4		X	3	6	3	2	7	F		X	1	6	X	2	5
+Score		1		7		15		34		43		48		55		72		79		96
+M4ndngkGJWmdLLGZ
+Pinfalls	7	F	2	0	F	8	9	0	F	9	F	5	2	3	7	0	0	6	4	3
+Score		7		9		17		26		35		40		45		52		58		65
+qeFzhSDlB2WI6Nle
+Pinfalls	3	F	3	2	0	1	4	F	4	3	2	6	2	F	F	9		X	3	0
+Score		3		8		9		13		20		28		30		39		52		55
+EDZyaebQjK95LHMC
+Pinfalls	3	/	7	0	0	/	9	0	8	1	3	4	F	5	1	4	5	0	8	F
+Score		17		24		43		52		61		68		73		78		83		91
+IurAdUEO2sO4et2o
+Pinfalls	4	0	4	/	4	0	1	0	5	F	6	/	2	1	2	1	4	5	6	3
+Score		4		18		22		23		28		40		43		46		55		64
+J7ApS6YpE9VyID6w
+Pinfalls	0	0	6	0	0	6	4	F	9	0	4	1	3	5	3	/	3	5	4	6	2
+Score		0		6		12		16		25		30		38		51		59		71
+cUZayay7vVKlO33h
+Pinfalls	F	8	2	4		X	F	7	3	1	1	8	F	F	4	0	7	/	5	F
+Score		8		14		31		38		42		51		51		55		70		75
+Wh3E7cm4wj5wawst
+Pinfalls	3	0	1	8	1	5	8	/	6	F	6	0	5	2		X	1	5	5	3
+Score		3		12		18		34		40		46		53		69		75		83
+cgcWeiHScQKKXIsA
+Pinfalls	0	3	6	0	F	8		X	F	8	8	/	1	4	6	2	F	F	1	2
+Score		3		9		17		35		43		54		59		67		67		70
+mePPU1HfWApzADHk
+Pinfalls	5	3	6	/	0	1	7	2	3	6	3	2	4	0		X	7	2	4	2
+Score		8		18		19		28		37		42		46		65		74		80
+BCRIqHvOThxB0Pzm
+Pinfalls		X	0	F	1	5	F	7	1	2	5	2	4	3	5	0	9	0	0	1
+Score		10		10		16		23		26		33		40		45		54		55
+9P2Kl8BH8P3Uv9GI
+Pinfalls		X	F	7	6	2	1	5	2	3	6	3	1	7	8	0	9	F	X	1	2
+Score		17		24		32		38		43		52		60		68		77		90
+eq4h43GpppEmgBM4
+Pinfalls		X	4	5	0	9	F	3	7	1	F	6	F	8		X	9	/	1	F
+Score		19		28		37		40		48		54		62		82		93		94
+bkZ18uePr9H2dXii
+Pinfalls	6	2	4	0		X	0	3		X	9	0	8	F	9	F	F	2	9	1	2
+Score		8		12		25		28		47		56		64		73		75		87
+BgaEuKRrrt9stCOU
+Pinfalls	5	F	7	2	5	3	F	4		X	1	/	9	/	2	4		X	9	1	7
+Score		5		14		22		26		46		65		77		83		103		120
+i2ZGTZhHoFsxpPhz
+Pinfalls		X		X	7	1	5	4		X	F	9	6	0	F	/	9	/	7	3	F
+Score		28		46		54		63		82		91		97		116		133		143
+ShFhanMsD8wP0nKy
+Pinfalls	4	/	F	F	9	0	4	0	8	0	3	/	3	3	1	F	F	7	3	4
+Score		10		10		19		23		31		44		50		51		58		65
+IxeflULizAbP0H1x
+Pinfalls		X	6	0	F	0	2	/	0	5	3	6	2	/	2	/	0	8	4	4
+Score		16		22		22		32		37		46		58		68		76		84
+QWESRhDK45p0JNWq
+Pinfalls	6	0	2	0	9	/	3	6	8	/	5	4	5	2	6	F	6	F	4	1
+Score		6		8		21		30		45		54		61		67		73		78
+HQ0Xq8JwDXURE0Th
+Pinfalls	3	4	5	F	1	1	3	5	0	7	0	0	8	0	0	2	0	F	5	1
+Score		7		12		14		22		29		29		37		39		39		45
+0FKXsrc9muabaaBc
+Pinfalls		X	F	5	7	2	8	1	9	/		X	F	5	6	2	2	5	2	0
+Score		15		20		29		38		58		73		78		86		93		95
+3f2J4SwlopctwWcm
+Pinfalls		X	7	/	4	/	7	2	9	0	6	3		X	2	0		X	8	1
+Score		20		34		51		60		69		78		90		92		111		120
+rOy9NRCC9OpZw4et
+Pinfalls	9	0		X	0	9	8	1	6	0	4	5	8	1	8	/	6	2	X	1	9
+Score		9		28		37		46		52		61		70		86		94		114
+m62KpE1VstiX9VV9
+Pinfalls	5	2	8	F	4	2	2	5	8	0	9	/		X	1	6		X	F	3
+Score		7		15		21		28		36		56		73		80		93		96
+OruCEOBcX6JT1u7C
+Pinfalls	F	3	4	4	5	F	8	1	8	F	0	1	F	2	4	4	2	6	5	3
+Score		3		11		16		25		33		34		36		44		52		60
+pZ9WrmLAF0AIcV5v
+Pinfalls	8	1	1	8	5	0	1	/	8	F	2	F	9	/	6	/	2	4	1	7
+Score		9		18		23		41		49		51		67		79		85		93
+rudfCA3ca7mLFvdl
+Pinfalls	F	5	8	1	5	3	F	9	F	3	9	0	2	4	9	F	6	2	6	4	6
+Score		5		14		22		31		34		43		49		58		66		82
+6psXh8OcOAOMcNWv
+Pinfalls	5	4	3	4	9	F		X	2	3	3	4	3	1	7	F	0	2	2	3
+Score		9		16		25		40		45		52		56		63		65		70
+vz7Nz6ON9OEFBGnO
+Pinfalls	2	3	8	1	5	0	3	1	3	3	1	8	3	1	2	4	9	0	8	0
+Score		5		14		19		23		29		38		42		48		57		65
+fT2q7eHlGLYSuzIm
+Pinfalls		X	2	2	9	F	6	F	7	1		X	F	6	3	1	F	1	7	1
+Score		14		18		27		33		41		57		63		67		68		76
+NifSEaftQKkEudOw
+Pinfalls		X	4	2	5	1	4	F	3	5	7	/	2	5	5	F	5	/	6	4	2
+Score		16		22		28		32		40		52		59		64		80		92
+yRHRBgeP0HsJT1Q1
+Pinfalls	6	/	8	0	1	7	1	6	9	F	3	/	2	F	6	3	2	/	4	F
+Score		18		26		34		41		50		62		64		73		87		91
+M6KV2ZYf0sr521Yd
+Pinfalls	7	0	7	1	6	F	7	2	2	0	2	0	9	0	5	4	8	/	X	9	0
+Score		7		15		21		30		32		34		43		52		72		91
+eixs00aKzsM3r2CW
+Pinfalls	F	1	7	/	5	0		X	F	8	5	0	1	0	9	/	2	7	4	3
+Score		1		16		21		39		47		52		53		65		74		81
+V1kvrbMPseEckASp
+Pinfalls	8	F	F	6	5	4	1	F	F	5	F	4	2	0	9	F	3	0	7	0
+Score		8		14		23		24		29		33		35		44		47		54
+SRx0mddLOjeIAQ0Z
+Pinfalls	4	5	7	2	0	5	F	6	F	1	7	F	4	F	9	0		X	0	1
+Score		9		18		23		29		30		37		41		50		61		62
+MNdCLW5bOa7AXUOr
+Pinfalls	0	1	F	1	4	3	1	3	0	5	8	/	6	3		X	6	/	5	3
+Score		1		2		9		13		18		34		43		63		78		86
+BFIYoHySTm1txjOv
+Pinfalls	1	8	6	1	7	0	F	2	1	2	5	F	3	4	2	5		X	8	2	6
+Score		9		16		23		25		28		33		40		47		67		83
+zBBaAONd4Wwl3TmI
+Pinfalls	5	2	2	0	3	F	2	/		X	6	/	0	5		X	1	5	5	5	1
+Score		7		9		12		32		52		62		67		83		89		100
+eVpe4Xv0JQ7FMJEy
+Pinfalls	5	3		X	2	5	8	/	4	1		X	9	F	F	0	4	/	6	2
+Score		8		25		32		46		51		70		79		79		95		103
+Ec2hk3RBuFMlrn7Z
+Pinfalls	1	2	9	0	3	1	F	5	8	1	2	3	6	2	F	0	9	/	2	1
+Score		3		12		16		21		30		35		43		43		55		58
+ssoghZnsw7PnN1R0
+Pinfalls	6	0	5	3	4	4	9	0	9	0	7	2	2	0	6	/	2	/	7	3	7
+Score		6		14		22		31		40		49		51		63		80		97
+uisaJTqvcCvaJC2z
+Pinfalls	7	1	4	0	3	2		X	8	/	6	F	7	0	9	0	0	6	6	3
+Score		8		12		17		37		53		59		66		75		81		90
+9HUKBUZH2y9voy5Z
+Pinfalls		X	6	2		X	7	0	F	6	4	3		X	8	0	2	5	F	5
+Score		18		26		43		50		56		63		81		89		96		101
+bN0Nlth1oVlFdx7F
+Pinfalls	3	F	2	0	2	F	4	2	3	3	F	0	0	0		X	8	0	1	3
+Score		3		5		7		13		19		19		19		37		45		49
+wq22uKQBOUjnjKha
+Pinfalls	F	4	1	2		X	5	4	6	2	1	2	6	/	8	1	5	1	5	5	0
+Score		4		7		26		35		43		46		64		73		79		89
+tDlxWvxckFlNMD8t
+Pinfalls	3	0	8	F	2	2	8	0	1	/	2	5	F	9	6	1	3	4	1	1
+Score		3		11		15		23		35		42		51		58		65		67
+cGxzIkqlPjaKgKgj
+Pinfalls	9	0	F	4	8	1	F	2	4	4	5	F	8	/	2	F	7	F	9	1	7
+Score		9		13		22		24		32		37		49		51		58		75
+cyRMurRCRPja2R6N
+Pinfalls		X		X	6	F	1	7	6	F	5	4		X	F	3	9	F	7	3	F
+Score		26		42		48		56		62		71		84		87		96		106
+NJAwtySNXFrYln9n
+Pinfalls	F	/	7	2	5	4		X	9	F	F	4	4	F		X	4	2	F	5
+Score		17		26		35		54		63		67		71		87		93		98
+SVJKsPJqYETJuD82
+Pinfalls	4	1	1	5	1	F	6	3	7	0	2	6	2	4	6	2	9	/	7	1
+Score		5		11		12		21		28		36		42		50		67		75
+ijdhnVWI4X0Xx0lW
+Pinfalls	9	0	8	F	0	F	F	5	5	1	6	1	1	F	4	1	5	/	9	F
+Score		9		17		17		22		28		35		36		41		60		69
+TnjB8H3Vaa1Ow8V2
+Pinfalls	3	3	9	F	3	2	8	0	F	/	3	4	6	F	6	0	4	1	0	2
+Score		6		15		20		28		41		48		54		60		65		67
+gdmLWsVeCr2aofH6
+Pinfalls	7	F		X	9	0	4	3	F	0	3	0		X	6	3	F	8	0	F
+Score		7		26		35		42		42		45		64		73		81		81
+RDM4bMChgsXQTHYa
+Pinfalls	9	/	8	F	3	4	4	0	2	4	8	F	3	0	3	/	9	0	7	0
+Score		18		26		33		37		43		51		54		73		82		89
+MVqFFCiuqTWReHBc
+Pinfalls	2	0	7	1	4	1	4	/	3	3	3	F		X	2	2	5	2	0	4
+Score		2		10		15		28		34		37		51		55		62		66
+WVEqu2t6n0yWTnPg
+Pinfalls	0	1	0	8	8	0	2	6	F	/	2	2	7	F	0	4	5	4	0	7
+Score		1		9		17		25		37		41		48		52		61		68
+zhl8RQTQV7FhnpLH
+Pinfalls	0	2	0	5	8	F	9	/	1	6	7	2	F	F		X	9	/	0	2
+Score		2		7		15		26		33		42		42		62		72		74
+b0Moq3ZYu5ZXiOi4
+Pinfalls	4	F	3	0	6	F	9	0	3	2	6	0		X	0	2	3	/	3	3
+Score		4		7		13		22		27		33		45		47		60		66
+QIXRjcrYI3bjN1D1
+Pinfalls	0	5	7	2	2	5	6	/	0	7	9	/	3	/	7	F	1	8	8	F
+Score		5		14		21		31		38		51		68		75		84		92
+XD9mO6KhjU60khIX
+Pinfalls	6	1	7	0	F	F		X	1	4	7	/		X	8	0	7	/	4	4
+Score		7		14		14		29		34		54		72		80		94		102
+g8pR9D2PwB0ZUl4M
+Pinfalls	1	2	2	4	F	2	0	1	9	0	7	/	4	4	8	F	6	3	2	0
+Score		3		9		11		12		21		35		43		51		60		62
+BcKAzYSB27ld97nt
+Pinfalls	9	0	4	/	4	1	4	4	0	5	0	7	4	3	1	3	0	4	1	1
+Score		9		23		28		36		41		48		55		59		63		65
+6jVrnATUyxZoXnbk
+Pinfalls	8	F	6	/	4	/	6	F	8	/	3	6	6	3		X	8	F	4	4
+Score		8		22		38		44		57		66		75		93		101		109
+8woM0yBYW39V9Fwf
+Pinfalls	2	/	6	3	7	0	F	9		X	4	5	3	0	7	2	6	/	5	2
+Score		16		25		32		41		60		69		72		81		96		103
+HEsGEuH4GccZsnmW
+Pinfalls	2	3	F	7	2	3	8	F	6	1	8	0	5	F	9	/	3	1	4	F
+Score		5		12		17		25		32		40		45		58		62		66
+sF1ON9d9V2IkTL26
+Pinfalls	5	2	8	1	8	0	3	3	2	1	2	2	1	1	9	F		X	F	4
+Score		7		16		24		30		33		37		39		48		62		66
+12OVIyUtlMlK0qkk
+Pinfalls	5	3	8	F	4	F	3	6	1	3	7	2	9	/	5	4	7	0	2	8	2
+Score		8		16		20		29		33		42		57		66		73		85
+ihsgN5P1ARnxFt4q
+Pinfalls	2	3	7	2	2	4	2	/	4	4	1	7	3	6	6	2	F	6	4	2
+Score		5		14		20		34		42		50		59		67		73		79
+15NhMBLpLW7EtrwA
+Pinfalls	6	0	3	4	2	5	F	4	9	F	5	3	0	4	0	1	9	/	6	3
+Score		6		13		20		24		33		41		45		46		62		71
+EbWvl7geuW4AWCx1
+Pinfalls	F	4	2	2	6	1	9	0	7	2	5	1		X	F	3	2	/	3	F
+Score		4		8		15		24		33		39		52		55		68		71
+SmBkX2gphnUzAcnX
+Pinfalls	4	5	8	1	3	1	8	0	8	1	0	2	7	2	6	F	7	2	X	5	F
+Score		9		18		22		30		39		41		50		56		65		80
+YkO4u7Wb63lQjo7X
+Pinfalls	7	0	6	/	1	5	6	0		X	9	F	9	0	0	7		X	0	2
+Score		7		18		24		30		49		58		67		74		86		88
+BeqQI3ncv9gTRMCE
+Pinfalls	0	7	F	8	3	4	8	1	1	8	7	0	1	4	6	F	0	7	2	8	2
+Score		7		15		22		31		40		47		52		58		65		77
+dRXdAPuSdR1AhLtx
+Pinfalls	1	F	4	1	3	1	9	F	F	F	1	/	8	1	F	5	7	0	4	6	1
+Score		1		6		10		19		19		37		46		51		58		69
+Od5SDy5uAkNb79jE
+Pinfalls	4	1	6	F	1	4	9	0	F	2	8	/	6	/	5	2	2	6	9	F
+Score		5		11		16		25		27		43		58		65		73		82
+SZ3FQ5uYwESkYV2F
+Pinfalls	F	/	3	4	5	2	1	8	5	0	3	0	4	2	F	/		X	X	X	0
+Score		13		20		27		36		41		44		50		70		100		120
+ojGCq3olJUrxce5N
+Pinfalls	9	0	1	4	1	2	0	4	2	0	5	3	8	1	0	0	3	0	3	4
+Score		9		14		17		21		23		31		40		40		43		50
+D0TdKnlSiS5Evj7C
+Pinfalls	3	2		X	3	2	6	F	1	7	1	/	F	9	9	/	2	4	6	4	F
+Score		5		20		25		31		39		49		58		70		76		86
+3oI63DexX7Ban4NJ
+Pinfalls	9	F	7	0	0	/	7	2	0	2	4	4	F	6	3	0	8	1	9	0
+Score		9		16		33		42		44		52		58		61		70		79
+d7GWQETDSkrBVCZ6
+Pinfalls	7	/	3	0	7	0	8	/	5	4	F	6	0	7	5	1	1	0	X	7	F
+Score		13		16		23		38		47		53		60		66		67		84
+CV7mzazBphSQ8SrN
+Pinfalls	9	/	2	3		X	0	3	8	0	2	5	F	3	1	/	5	3	9	F
+Score		12		17		30		33		41		48		51		66		74		83
+7IFe6PoKUNZ9xKSV
+Pinfalls	0	9	7	0	6	/	8	1	2	4	F	5		X	6	F		X	8	1
+Score		9		16		34		43		49		54		70		76		95		104
+L1B9VITiKmaRs6Qp
+Pinfalls		X	0	9	F	5	4	0	2	0	0	5	F	6	0	F	2	6	X	X	4
+Score		19		28		33		37		39		44		50		50		58		82
+2SpOjufaAe3fi4Ag
+Pinfalls		X	6	F	0	F	1	1	1	8	6	0	6	/	2	4	4	1	4	0
+Score		16		22		22		24		33		39		51		57		62		66
+tYNqSbBaG9fVoBYg
+Pinfalls	0	/	F	7	7	/	3	1		X	5	1	1	8	5	3		X	6	1
+Score		10		17		30		34		50		56		65		73		90		97
+JgTM5VO30d2nR6OD
+Pinfalls	F	0		X		X	7	/		X	F	4	8	F	0	4	4	1	5	F
+Score		0		30		50		70		84		88		96		100		105		110
+94SSrnfct3zDQLxG
+Pinfalls	2	5	6	F	9	/	9	0	3	0		X	4	/	6	2	4	1	X	4	5
+Score		7		13		32		41		44		64		80		88		93		112
+AkRBUwXOdGPxStBE
+Pinfalls	7	2	9	0	6	0	4	2	2	6	F	8		X	4	F	4	3	1	F
+Score		9		18		24		30		38		46		60		64		71		72
+tj3lWtrLwsYqmORZ
+Pinfalls	2	6	2	7	3	6	7	0	0	8	F	9		X	9	0	3	1	9	0
+Score		8		17		26		33		41		50		69		78		82		91
+yIHGrP5BSPMjDKJu
+Pinfalls	8	/	2	0	1	5	9	F	F	0	6	F	6	2	1	4	3	6	0	F
+Score		12		14		20		29		29		35		43		48		57		57
+WRSn8LUbwbbQo8kW
+Pinfalls	0	F	4	3	7	2	1	1		X		X		X	7	2	0	2	0	3
+Score		0		7		16		18		48		77		96		105		107		110
+ztQ7Xh4Pb8OhXY9B
+Pinfalls	3	0		X	8	F	5	F	2	4	0	/	7	0	4	4	2	6	0	X	7
+Score		3		21		29		34		40		57		64		72		80		97
+CfsqVA86pTwRnsdw
+Pinfalls	3	1	3	2		X	9	/	0	7	8	0	7	0	F	2	8	1	3	5
+Score		4		9		29		39		46		54		61		63		72		80
+NoxOF1H7NEdeEW0J
+Pinfalls	4	1	6	2	1	2	1	6	9	F		X	3	3	6	/	4	0	6	3
+Score		5		13		16		23		32		48		54		68		72		81
+ehszQrYmlQTlX3Z3
+Pinfalls		X	8	0	1	F	0	4	5	4		X	F	5	9	/	6	2	8	F
+Score		18		26		27		31		40		55		60		76		84		92
+A5t0YwzSSJYqlAjb
+Pinfalls	1	/	4	/	9	/	0	7	9	0		X	3	6	9	F	5	F	7	1
+Score		14		33		43		50		59		78		87		96		101		109
+HJaZU3OpsnJccC1c
+Pinfalls		X	5	4	7	0	2	/	1	4		X	1	1	1	F	5	3	4	4
+Score		19		28		35		46		51		63		65		66		74		82
+26ERBkeAwue5B4xG
+Pinfalls	6	1	6	F	0	7	8	0	F	2	1	4	8	1		X	5	1	F	F
+Score		7		13		20		28		30		35		44		60		66		66
+mjtMWGxxAnaxyVcO
+Pinfalls	6	F	3	6	F	/		X	0	4	8	F	6	1		X	1	4	2	8	2
+Score		6		15		35		49		53		61		68		83		88		100
+8R3gKclFSFgHQO6w
+Pinfalls	F	/	6	3		X	9	F		X	9	F	3	5	1	6	2	7	F	1
+Score		16		25		44		53		72		81		89		96		105		106
+vkNRz5ravBamp9de
+Pinfalls	7	0	9	0	0	7	F	1	F	7	8	F	0	0	8	0	5	1	X	5	4
+Score		7		16		23		24		31		39		39		47		53		72
+ApuoPdbeOxwXl5v8
+Pinfalls	4	5	5	3	3	0	1	4	F	7	7	/	1	3	4	1	9	/	5	3
+Score		9		17		20		25		32		43		47		52		67		75
+Z18esvGwVIseMkxJ
+Pinfalls	8	F		X	F	0	9	0	8	F	4	F		X	1	4	1	3	1	F
+Score		8		18		18		27		35		39		54		59		63		64
+9qyBlMn2kBpBl4Ye
+Pinfalls	4	4	8	1	F	5	0	9	F	7	5	F	0	1	9	/	F	5	5	3
+Score		8		17		22		31		38		43		44		54		59		67
+fm3MxFoweYb4VQ50
+Pinfalls	5	4	F	3	F	2	F	6		X	F	0	6	0	8	/	9	F	9	0
+Score		9		12		14		20		30		30		36		55		64		73
+VVppFoaMFUnIzfWX
+Pinfalls	4	F	0	7	4	1	6	3		X	6	/	5	3		X	5	1	X	1	8
+Score		4		11		16		25		45		60		68		84		90		109
+SXdQNIlutOtMMujj
+Pinfalls	1	8	1	7	8	F	4	0	5	1	7	/	F	6	7	2	0	9	7	0
+Score		9		17		25		29		35		45		51		60		69		76
+M6rABBDhavf8kYDu
+Pinfalls	1	7	6	1	7	/	3	/	4	1	5	2	3	6		X	0	1	1	0
+Score		8		15		28		42		47		54		63		74		75		76
+ypvQsMAZf2CZvoXp
+Pinfalls	2	0	2	7	5	2	3	1	6	/	9	0	F	5	F	8	0	F	6	1
+Score		2		11		18		22		41		50		55		63		63		70
+QhozMF1mMS3HMox7
+Pinfalls	4	4	7	/	1	5	8	F	F	6	6	F	1	0	1	4	7	0	9	1	6
+Score		8		19		25		33		39		45		46		51		58		74
+K5NGQh7cpE971obo
+Pinfalls	4	0	7	2	5	F	0	6	4	F	0	3		X	F	8	8	0	6	4	F
+Score		4		13		18		24		28		31		49		57		65		75
+vZoYzodgGqXTz5yE
+Pinfalls	4	2	0	/		X	2	5	1	1	3	3	0	/	9	F	1	/	3	6
+Score		6		26		43		50		52		58		77		86		99		108
+uI7hP60vGFibxdLq
+Pinfalls	5	4	1	3	7	2	5	F	9	0	4	4	7	F		X	F	3	F	6
+Score		9		13		22		27		36		44		51		64		67		73
+8mkrqvpMQrfS3DIp
+Pinfalls	6	3	2	2		X	7	/	8	0	3	/	6	2	0	7	5	/	6	3
+Score		9		13		33		51		59		75		83		90		106		115
+W4VhID6R018XrD0J
+Pinfalls	F	6	4	3	5	2	3	/	7	2	5	F	1	5	7	1	8	F	0	5
+Score		6		13		20		37		46		51		57		65		73		78
+TiToRa421sd2jpxp
+Pinfalls	5	0	2	4	0	3	2	1	7	/	9	F	0	1	3	6	2	0	X	4	F
+Score		5		11		14		17		36		45		46		55		57		71
+cvjQg6ZOIRU6UBrI
+Pinfalls	1	/	2	6	2	2		X	1	4	4	2	9	F	3	3	9	F	8	0
+Score		12		20		24		39		44		50		59		65		74		82
+r13iXMifXnFgkkKN
+Pinfalls	3	3	F	/	8	0	6	F		X	4	5	7	1	1	2	5	2	9	0
+Score		6		24		32		38		57		66		74		77		84		93
+gi42hfxXVoQfztbY
+Pinfalls	7	1	6	2	2	4	7	F	1	7		X	4	4	2	6	3	/	X	0	6
+Score		8		16		22		29		37		55		63		71		91		107
+piiKmvyhaWwlkRHy
+Pinfalls	9	0	9	/	7	1	F	F	4	/	1	6	4	/	5	/	7	1	2	2
+Score		9		26		34		34		45		52		67		84		92		96
+H9pTJF7JMOvvbNZS
+Pinfalls	1	1	5	F	F	0		X	7	1	3	4	0	0	6	F	7	2	7	3	2
+Score		2		7		7		25		33		40		40		46		55		67
+itmgboaztw3JdoxC
+Pinfalls	4	5		X	7	2	1	3	3	2	8	1	2	6	2	F	0	/	0	5
+Score		9		28		37		41		46		55		63		65		75		80
+XXyowrsMZLm8gwnS
+Pinfalls	1	7	8	0	F	3	6	3	3	2	9	F	1	/	1	6	F	4	7	2
+Score		8		16		19		28		33		42		53		60		64		73
+gnvp9cQyGTd7qSOy
+Pinfalls	5	4	9	/	1	F	F	F	4	2	0	0	0	F		X	5	3	3	6
+Score		9		20		21		21		27		27		27		45		53		62
+XNY1jLeBLg893Qmo
+Pinfalls	0	F	4	3	1	7	1	5	7	2	5	0	3	6	F	4	7	2	8	0
+Score		0		7		15		21		30		35		44		48		57		65
+D3Sm64Kz8m9hcCUM
+Pinfalls	3	4	2	0	5	2	8	0	9	F	3	1	9	F	0	0	F	0	9	1	4
+Score		7		9		16		24		33		37		46		46		46		60
+RU1ayXBrqbBBZ1Nh
+Pinfalls	8	F	6	0	6	F	9	0	6	0	5	1	9	/	9	/	9	0	F	1
+Score		8		14		20		29		35		41		60		79		88		89
+oQyArbufq8NpCl5W
+Pinfalls	2	6	0	9	3	5	0	F	6	0	9	0	2	2	6	2	4	4	9	1	9
+Score		8		17		25		25		31		40		44		52		60		79
+RFX5qfKZwvMoitn3
+Pinfalls	7	1	9	F	1	8	4	4	2	0	4	1	3	0	0	6	2	6	F	3
+Score		8		17		26		34		36		41		44		50		58		61
+zA3wNBWTSPWF7OyB
+Pinfalls		X		X	0	6	3	5	3	0	1	F	4	3	3	5	6	2	1	9	1
+Score		26		42		48		56		59		60		67		75		83		94
+Gay4iUo2K7JjPHp4
+Pinfalls	8	0	3	5	9	0		X	4	1	7	/	4	1	8	1	1	8	9	1	7
+Score		8		16		25		40		45		59		64		73		82		99
+Ss1o8xBeJqhsp1Xb
+Pinfalls	3	1	1	5	3	1		X	7	2	2	3	5	1	9	0	4	3	4	3
+Score		4		10		14		33		42		47		53		62		69		76
+JYUfUedTcQi1taQ7
+Pinfalls	4	0	0	F	4	4	3	1	F	2	F	3	4	2	1	7	7	F	3	7	1
+Score		4		4		12		16		18		21		27		35		42		53
+iku0fGbdWWY0x6hW
+Pinfalls	1	3	4	0	4	F	0	1	2	6	5	1		X	6	1	6	3	6	1
+Score		4		8		12		13		21		27		44		51		60		67
+r1VDPVWw0asBekOC
+Pinfalls	3	6	8	0	9	F	9	0	7	2	0	0	8	F	8	F	7	1	8	0
+Score		9		17		26		35		44		44		52		60		68		76
+IWGY52ZZLqGy2RMN
+Pinfalls	9	/	8	0	5	0	5	3	3	3	7	2	7	/	2	0	3	F	3	7	3
+Score		18		26		31		39		45		54		66		68		71		84
+zJur8ehWaWHTve4I
+Pinfalls	9	/		X	3	5	0	/	F	6	5	2	2	3	6	0		X	1	6
+Score		20		38		46		56		62		69		74		80		97		104
+tsH14A4eTvfj6lo4
+Pinfalls		X	7	F	0	2	2	1	9	F	4	1	4	1	2	5	F	0	4	4
+Score		17		24		26		29		38		43		48		55		55		63
+dblfCIXGZuOG7XCD
+Pinfalls	5	/	4	0	2	3	F	5	0	1	7	2	8	/	9	/		X	2	3
+Score		14		18		23		28		29		38		57		77		92		97
+uzPfsq1yHr5dfapL
+Pinfalls		X	1	7	8	/	F	F	2	6	3	6	6	0	F	8	1	8	1	9	1
+Score		18		26		36		36		44		53		59		67		76		87
+bFmbL6JpmC6OqAEq
+Pinfalls	4	2	8	F		X	F	6	9	F	8	0		X	5	3	5	4	5	3
+Score		6		14		30		36		45		53		71		79		88		96
+ImVoaqrPlwj2VETB
+Pinfalls	9	/	8	1	F	8	2	7	8	F	8	1	8	1	1	2	6	0	X	6	0
+Score		18		27		35		44		52		61		70		73		79		95
+mXOfkSAum2m8SOg1
+Pinfalls	2	1	1	0		X	F	5	9	/	8	0	5	2	8	F	0	7	4	2
+Score		3		4		19		24		42		50		57		65		72		78
+j3HjppXKB4Q9mBJj
+Pinfalls	0	6		X	7	/	3	4	9	/	7	0	0	9	8	1	7	1	F	4
+Score		6		26		39		46		63		70		79		88		96		100
+LJNc9E1jdhWRLgqs
+Pinfalls	2	3	5	2	9	0	1	5	6	F	5	F	3	5	2	1		X	1	8
+Score		5		12		21		27		33		38		46		49		68		77
+ffxT4oD94fLOyzy5
+Pinfalls	6	3	7	F		X	3	4	2	F	1	4	0	6	2	6	8	F	9	0
+Score		9		16		33		40		42		47		53		61		69		78
+t87AMRWouwtbOxHk
+Pinfalls	8	F	5	3	4	/	0	6	1	/	1	4	3	/	4	0	F	2	5	0
+Score		8		16		26		32		43		48		62		66		68		73
+engxClmOWp4hAsE1
+Pinfalls	9	F	0	9	3	5	3	4	3	1	8	0	0	6	4	3	4	/	3	F
+Score		9		18		26		33		37		45		51		58		71		74
+WxbMjJqSyTnvAfMo
+Pinfalls	2	4	3	6	8	/	8	/	2	1	1	3	4	4	0	/	F	5	X	5	F
+Score		6		15		33		45		48		52		60		70		75		90
+4ZmTzQUsdeoMh7WR
+Pinfalls	2	7	3	F	8	/		X	6	/	2	/	6	3		X	7	0	0	3
+Score		9		12		32		52		64		80		89		106		113		116
+ZxcSCKNaHsjML9VU
+Pinfalls	4	0	F	3		X	2	5	6	1	0	7	0	7		X	F	4	1	3
+Score		4		7		24		31		38		45		52		66		70		74
+jGubcA50FUCBDeS3
+Pinfalls	1	3	6	F	5	0	F	5		X		X		X	9	/	7	F	0	1
+Score		4		10		15		20		50		80		100		117		124		125
+YL6kw5a8ziIyzaUg
+Pinfalls	5	0	1	1	3	4	6	/	4	5	3	/	3	/	5	2	1	7	F	5
+Score		5		7		14		28		37		50		65		72		80		85
+qcBZamQbp505xNIW
+Pinfalls	5	2	8	F	9	0	7	2	4	5	3	/	8	1	9	/	9	0	F	2
+Score		7		15		24		33		42		60		69		88		97		99
+2ZWDe8wQnwQy1gcp
+Pinfalls		X	3	0	F	5	2	7	0	2	8	/	1	2		X	F	1	8	0
+Score		13		16		21		30		32		43		46		57		58		66
+EeWftqUoVqcytZDH
+Pinfalls	1	1	4	2	5	4	8	F	4	0	0	4	2	6	6	F	4	5	7	2
+Score		2		8		17		25		29		33		41		47		56		65
+cCTHeshIyXOxhMt6
+Pinfalls	1	7	5	F	2	1	9	/	0	9	1	2	9	/	8	0	3	2	2	0
+Score		8		13		16		26		35		38		56		64		69		71
+wvv1KKOS9hrpO3yE
+Pinfalls	4	0	F	3	4	3	9	0	0	9	3	2	2	3	9	/	0	8	F	9
+Score		4		7		14		23		32		37		42		52		60		69
+wuCxIm2VgoWw24iQ
+Pinfalls	4	F	8	/	2	3	7	F	8	0	6	F	3	6	4	F	8	/	0	0
+Score		4		16		21		28		36		42		51		55		65		65
+2hAJlNVq2ROF0Uix
+Pinfalls	6	1	0	4	1	F	3	2		X	2	3	6	/	1	3	1	/	0	4
+Score		7		11		12		17		32		37		48		52		62		66
+vBhf1vyVYZIsa6vc
+Pinfalls	2	5	F	6	F	3	5	/	3	0	1	4		X	5	/	7	1	X	X	0
+Score		7		13		16		29		32		37		57		74		82		102
+C6FjYNKSVuVaNWwK
+Pinfalls	8	1	2	0	7	/	6	1	1	8	6	F	2	3	3	3	7	1	F	0
+Score		9		11		27		34		43		49		54		60		68		68
+HYpXky4e8FdjZMIm
+Pinfalls	4	0	8	0	3	1	1	8	9	/	4	5		X	2	7	7	1	8	1
+Score		4		12		16		25		39		48		67		76		84		93
+UjMTUlddnmcpseCC
+Pinfalls	4	2	4	1	0	4	1	2	4	0		X	6	3	3	0	3	6	F	F
+Score		6		11		15		18		22		41		50		53		62		62
+ImZvlJA7NigbmVgz
+Pinfalls	5	/		X	9	0	2	/	1	0	0	8	0	F	0	/	2	0	3	5
+Score		20		39		48		59		60		68		68		80		82		90
+9i0k3lTwEgUS5w8u
+Pinfalls	0	5	5	2	9	F	6	/		X	5	1	7	2	2	2	F	0	6	F
+Score		5		12		21		41		57		63		72		76		76		82
+49Y404wPsMWbxgxo
+Pinfalls	1	5	7	2		X	8	F	9	/	0	5	6	0	6	1		X	7	0
+Score		6		15		33		41		51		56		62		69		86		93
+iMEqTUYJYaA8cDac
+Pinfalls		X	5	3	6	3	0	F	4	/	1	F	1	F		X	5	1	4	1
+Score		18		26		35		35		46		47		48		64		70		75
+U1pbdvZDajW2rWxA
+Pinfalls	2	1	F	6	3	F	4	0	7	1	9	F	6	0	6	/		X	5	2
+Score		3		9		12		16		24		33		39		59		76		83
+dbjVvG7zknNNNDrA
+Pinfalls	5	2	2	2		X	5	2	6	0	6	/	6	1	1	/	7	1	3	0
+Score		7		11		28		35		41		57		64		81		89		92
+jzAp785uc3FW9DwY
+Pinfalls	2	/	3	4	2	3	6	0	6	3	9	/	9	0	4	/	4	4	1	7
+Score		13		20		25		31		40		59		68		82		90		98
+HhwsUCWiI00TeG8O
+Pinfalls	9	F		X	0	4	0	F	3	F	7	0	2	3	F	0	9	F	X	2	4
+Score		9		23		27		27		30		37		42		42		51		67
+dJKvRk3VmjL4zO2n
+Pinfalls	0	1	4	1	7	0	0	4		X	0	0	9	/	F	6	0	4	0	F
+Score		1		6		13		17		27		27		37		43		47		47
+rXLbDPOYenkNd9yk
+Pinfalls	3	F		X	4	2	8	/	1	7	0	4	6	/	0	0	7	1	6	4	0
+Score		3		19		25		36		44		48		58		58		66		76
+Yw0RyDai8gGQJ6pY
+Pinfalls		X	8	F	5	F	F	6	F	8	1	7	2	2	8	1		X	1	9	0
+Score		18		26		31		37		45		53		57		66		86		96
+X89inamZgUJaBml3
+Pinfalls	F	3	4	5	3	/	3	2	2	F	3	4	3	1	3	5	7	0	2	0
+Score		3		12		25		30		32		39		43		51		58		60
+DNkoYyNXM5pEWm86
+Pinfalls	5	2		X	4	4	5	/	2	3	8	F	3	2	F	6	1	2	9	F
+Score		7		25		33		45		50		58		63		69		72		81
+BFow4hjMjmNMEzm6
+Pinfalls	4	2	8	0	0	6	8	1	2	1	1	3	5	3	4	2	3	F	2	F
+Score		6		14		20		29		32		36		44		50		53		55
+NiSPVpFH5rjqqjn4
+Pinfalls	F	6	1	6	0	0	F	8	F	4	7	0	8	1	F	8	7	2	8	2	4
+Score		6		13		13		21		25		32		41		49		58		72
+2gg5brOALhuTIOD5
+Pinfalls	2	7	F	8	0	1	2	/	2	3	7	1	1	5	8	0	7	F	3	6
+Score		9		17		18		30		35		43		49		57		64		73
+pk9TCV5DPOxMVBSi
+Pinfalls	1	0	6	0	0	6	F	9	0	F	8	/	4	4	F	8	5	4	8	2	8
+Score		1		7		13		22		22		36		44		52		61		79
+ogq8K7N9CYh1xb6Q
+Pinfalls	9	0	7	/	7	2	6	1	3	2	1	F	F	6	6	F	3	1	9	F
+Score		9		26		35		42		47		48		54		60		64		73
+PPhaUdsJ8qCQd0eF
+Pinfalls	3	2	5	/	4	3	1	4	4	3	4	5		X	0	2	7	0	6	3
+Score		5		19		26		31		38		47		59		61		68		77
+WuZmyIlEYj0GtyWH
+Pinfalls	F	0	1	F	0	8	1	1	F	4	5	/	1	3	2	/	7	0	0	3
+Score		0		1		9		11		15		26		30		47		54		57
+qdSTf4zqNnlHePOT
+Pinfalls	1	0	4	0	0	6	8	F	7	/	7	2	2	4	2	1	3	4	5	1
+Score		1		5		11		19		36		45		51		54		61		67
+kcOqacCCt9Fnd9Q8
+Pinfalls	6	0		X	2	1	0	6	1	6	F	8		X	2	5	2	6	1	1
+Score		6		19		22		28		35		43		60		67		75		77
+Q7gXvYlvYf0mavUt
+Pinfalls	1	3	6	0	8	1	3	2	8	1	1	2	7	F	F	/	6	F	9	1	7
+Score		4		10		19		24		33		36		43		59		65		82
+n7QJBF6DfTsEwACi
+Pinfalls	4	1	3	5	9	0	7	F	0	2	3	/	F	7		X	2	7	3	2
+Score		5		13		22		29		31		41		48		67		76		81
+2EkThrExJm7S3V3a
+Pinfalls		X	5	1	4	4	6	1	0	3	0	1	7	0	6	0	9	/	F	2
+Score		16		22		30		37		40		41		48		54		64		66
+GnidJlR4Z3LSoj3M
+Pinfalls	0	9	0	0	3	/	5	2	4	1	0	6	9	/	5	F	2	1	7	2
+Score		9		9		24		31		36		42		57		62		65		74
+EvBhmHNSroMuf3Ey
+Pinfalls	5	1		X	4	2	0	2	7	F	F	0	8	F	3	3	0	0	6	0
+Score		6		22		28		30		37		37		45		51		51		57
+qKK4ZPnYflz4i3nw
+Pinfalls	4	3		X	1	4	5	1	9	0	9	/	7	F	6	3	F	3	2	1
+Score		7		22		27		33		42		59		66		75		78		81
+DodGQ9906MbtC4gH
+Pinfalls	F	9		X	F	1	9	F	4	2	8	F	0	6	F	7	0	5	5	4
+Score		9		20		21		30		36		44		50		57		62		71
+03wlrZzj2rCboCBc
+Pinfalls	1	8	5	2	0	3	0	8	8	1	8	F	0	5	7	0		X	X	9	1
+Score		9		16		19		27		36		44		49		56		85		105
+oyvea65wP65GglTA
+Pinfalls	9	F	7	2	3	1	6	3	F	4	9	0		X	F	0	0	1	5	5	1
+Score		9		18		22		31		35		44		54		54		55		66
+pTK9YDNcHbNCavYK
+Pinfalls	0	/	9	/	5	/	9	0	5	3	0	0	3	F	0	/	2	5	4	4
+Score		19		34		53		62		70		70		73		85		92		100
+kI1CMqlmHGhnwJGU
+Pinfalls	8	F	2	3	4	2		X	0	8	1	7	1	8	5	/	F	/	F	F
+Score		8		13		19		37		45		53		62		72		82		82
+qAReRf3iNRCWXBDb
+Pinfalls	6	3	6	F	5	/	3	6	4	/	6	2	F	6	1	3	6	1	3	5
+Score		9		15		28		37		53		61		67		71		78		86
+GjkE3PQy6exSb7QW
+Pinfalls	3	3	1	4		X	8	1	1	8	7	2	F	/	9	0	0	F	5	1
+Score		6		11		30		39		48		57		76		85		85		91
+Mpjwmr9bFRZXbCUJ
+Pinfalls	4	5	4	/	3	F	7	F	2	7	3	5	4	0	7	2	F	2	8	1
+Score		9		22		25		32		41		49		53		62		64		73
+EJF7ZWtC58G5CG1e
+Pinfalls	8	0	3	3	5	1	5	4	7	F	6	/	2	3	2	/	3	F	6	4	6
+Score		8		14		20		29		36		48		53		66		69		85
+SSqEHLaq9dF8u6Nx
+Pinfalls	5	F		X	0	6	5	3		X	6	2	F	4	1	/	4	4	5	3
+Score		5		21		27		35		53		61		65		79		87		95
+UJZ83NG8u5cHE5HN
+Pinfalls	5	/	5	2	9	F	2	2	F	4		X	6	1	F	2	8	1	X	X	6
+Score		15		22		31		35		39		56		63		65		74		100
+ooPQnCNsXcDuDUPL
+Pinfalls	F	1	1	5	4	3	6	2	5	0	F	9		X	2	F	4	4	1	1
+Score		1		7		14		22		27		36		48		50		58		60
+f9N93xdne8FiAr2F
+Pinfalls	9	0	7	0	0	4	F	9	1	7	6	0	7	0	8	1	3	3	3	0
+Score		9		16		20		29		37		43		50		59		65		68
+uyTpwvortVUZXV3u
+Pinfalls	6	1	7	0	1	0	0	/	3	/	8	0	5	1	9	0	9	/	3	4
+Score		7		14		15		28		46		54		60		69		82		89
+zfoKERfxJrqtlZBq
+Pinfalls	7	/	6	F	3	1	4	5	8	1	F	7	0	0	2	3	F	9	6	2
+Score		16		22		26		35		44		51		51		56		65		73
+0yCN4Xzuo7greF2a
+Pinfalls	2	0	6	1	2	0	1	7		X	5	0	9	/	2	6	F	7	3	F
+Score		2		9		11		19		34		39		51		59		66		69
+8lgxyXM0U0GJyaJR
+Pinfalls	1	8	8	F	3	2	1	1		X		X	0	5		X	5	4	8	1
+Score		9		17		22		24		49		64		69		88		97		106
+THKSoTQNgkLzO5Py
+Pinfalls	4	2	8	0	4	5	7	0		X	6	/	3	F	0	7	5	3	3	2
+Score		6		14		23		30		50		63		66		73		81		86
+ZDYcKsZ1MkjNwbkN
+Pinfalls	F	4	0	2	7	0	6	/		X		X	1	8	5	F		X	0	7
+Score		4		6		13		33		62		81		90		95		112		119
+Hkrkt1icQbHWzoWl
+Pinfalls	6	3	3	/	1	/	6	1	5	/	3	4	8	/	5	F	3	1	8	2	5
+Score		9		20		36		43		56		63		78		83		87		102
+Q3vzDIr2dD7XrOu5
+Pinfalls		X	F	7	8	0	9	F	F	9	4	3	F	3	6	3	9	0	4	1
+Score		17		24		32		41		50		57		60		69		78		83
+AMDEkD30NQvMdH5R
+Pinfalls	9	0	5	F		X	3	F	8	/	2	0		X	1	/	6	2	5	4
+Score		9		14		27		30		42		44		64		80		88		97
+bH3sxR6iur3lV4nz
+Pinfalls	0	7	4	2		X	1	F	9	0	8	/	8	0	0	F		X	7	0
+Score		7		13		24		25		34		52		60		60		77		84
+s73d498qpZzZfBHw
+Pinfalls	2	3	8	/	7	2		X	3	5	3	3	9	F	F	F	2	F	F	7
+Score		5		22		31		49		57		63		72		72		74		81
+XNMt3Z7aJRiIlKvd
+Pinfalls	6	3	2	1	8	/	0	2	4	/	5	0	7	0	7	0	F	1	3	3
+Score		9		12		22		24		39		44		51		58		59		65
+JO2p6xai0iGhoeAQ
+Pinfalls	1	1	F	/		X	8	/	9	F	5	2	5	/	7	/	6	1	1	8
+Score		2		22		42		61		70		77		94		110		117		126
+nfWtzSNYESDuwmQI
+Pinfalls	0	8	7	/	4	2	0	/	0	0	6	F	F	1		X	8	/	0	7
+Score		8		22		28		38		38		44		45		65		75		82
+QVq0BIVfVh970U10
+Pinfalls	7	1	9	F	4	1		X	9	/	1	2	F	/	9	F	0	4	8	2	1
+Score		8		17		22		42		53		56		75		84		88		99
+nh4zie9kvquDwEr0
+Pinfalls	F	0	1	8	4	F	F	F	5	4	1	F	1	1	5	0	2	0	5	0
+Score		0		9		13		13		22		23		25		30		32		37
+l9jLIYjYIjAffjgE
+Pinfalls	7	0	9	/		X	9	/	0	1	5	1	5	0	7	2	6	1	F	7
+Score		7		27		47		57		58		64		69		78		85		92
+YCNcofHm5QApix3W
+Pinfalls	9	F	0	8	3	4	8	F	2	4		X	4	5	6	0	F	4	4	2
+Score		9		17		24		32		38		57		66		72		76		82
+ktbMzplnZbT7taHu
+Pinfalls	7	1	7	F	7	2	2	0	8	/	2	3	2	4	5	/	6	3	3	6
+Score		8		15		24		26		38		43		49		65		74		83
+AejG2CnK9W2jnldi
+Pinfalls		X	5	F	6	F	9	F	F	7	6	2	4	F	0	7	2	7	9	F
+Score		15		20		26		35		42		50		54		61		70		79
+q3RUkUC93Wx4RzaO
+Pinfalls	9	/		X	1	6	0	3	4	4	0	F	0	6	7	2	5	/	5	5	0
+Score		20		37		44		47		55		55		61		70		85		95
+lmkbYeezRe7WL9T1
+Pinfalls	6	/	5	/	8	/	2	3	4	3	8	0	F	7	7	2	0	1	X	8	2
+Score		15		33		45		50		57		65		72		81		82		102
+vcDKXFAxvNSYoCtb
+Pinfalls	0	F	5	2	7	F	9	F	6	/	7	2	3	3	5	1	4	1	7	1
+Score		0		7		14		23		40		49		55		61		66		74
+rdULTkZ4UW9oIuH2
+Pinfalls	5	0	1	7	9	0	4	5	3	F	4	3	4	5	1	0	9	/	4	5
+Score		5		13		22		31		34		41		50		51		65		74
+ZGIX2zVHX5nebJ9D
+Pinfalls	9	/	F	/	6	0	1	7	4	3	9	F	6	/	0	0	4	F	0	7
+Score		10		26		32		40		47		56		66		66		70		77
+3vRdnWximhaFV0Ys
+Pinfalls	3	5	F	/	8	0	8	0	6	1	3	1		X	4	3	9	0	0	F
+Score		8		26		34		42		49		53		70		77		86		86
+i2sHu86riRXVqBZB
+Pinfalls	6	2		X	2	5	5	1	8	0	5	0	5	2	2	2	4	3	3	3
+Score		8		25		32		38		46		51		58		62		69		75
+zgeGehWjICsYJLCy
+Pinfalls	2	3		X	1	/	9	/	5	F	2	F	9	/	F	5	0	/	9	0
+Score		5		25		44		59		64		66		76		81		100		109
+79KdND71m5Y9l0ng
+Pinfalls	4	2	8	1	F	8	5	1	F	4	4	0	2	2	0	F	5	2	F	X	2
+Score		6		15		23		29		33		37		41		41		48		60
+n3RRL6F87Bsy9KNX
+Pinfalls	7	F	4	4	6	0	7	2	F	F	0	2	4	2	1	8	9	0	X	F	4
+Score		7		15		21		30		30		32		38		47		56		70
+iahTpAIx2oHKD8Gz
+Pinfalls	5	2	8	1	8	1	8	1	9	F	7	1	3	/	5	2	9	0	X	0	5
+Score		7		16		25		34		43		51		66		73		82		97
+YaHOIQFwji2MRmk1
+Pinfalls	8	0	9	/	7	2	8	F	7	0	3	F	F	1	1	0	4	0	6	2
+Score		8		25		34		42		49		52		53		54		58		66
+9B7G2oDACQj9Ux5A
+Pinfalls	1	5	F	7		X	6	1	4	/	9	/	3	6	6	/	4	3	4	3
+Score		6		13		30		37		56		69		78		92		99		106
+l4BhcN0M18SmS8fd
+Pinfalls	6	F	5	F	0	0	0	6	7	/	9	F	6	/	9	/	0	3	4	5
+Score		6		11		11		17		36		45		64		74		77		86
+PIbfhYrBbw0aUx7v
+Pinfalls	9	F	6	0	F	5	0	3	4	/	5	/	3	3	6	1		X	9	0
+Score		9		15		20		23		38		51		57		64		83		92
+ZFLxol9JIHEMN75x
+Pinfalls	F	0	1	6	2	0	1	F	2	5	4	2	9	0	1	7	F	1	1	7
+Score		0		7		9		10		17		23		32		40		41		49
+GTcgN2245oLygRjD
+Pinfalls	F	7	F	9	7	/	3	1	3	4	7	1	9	0	1	7	6	0	2	6
+Score		7		16		29		33		40		48		57		65		71		79
+Xtw33dhgFLRUnCk6
+Pinfalls	5	1	2	/	7	F	F	0	1	7	7	0		X	6	1	6	0	5	3
+Score		6		23		30		30		38		45		62		69		75		83
+8jLYm05fHDlvawfu
+Pinfalls	2	6	3	6	F	1	2	3	6	F	4	3	2	1		X	2	3	3	7	0
+Score		8		17		18		23		29		36		39		54		59		69
+Iulhb4tk5QXTerTn
+Pinfalls	4	5	2	4	7	F	9	0	4	3	9	F	3	3	2	F	7	F	7	3	6
+Score		9		15		22		31		38		47		53		55		62		78
+QN6zhSl1LDkbowqw
+Pinfalls	4	5	5	/	1	8	0	3	5	/	9	0	F	F	4	3	8	1	1	3
+Score		9		20		29		32		51		60		60		67		76		80
+jv6fDaYwQT5rcAq0
+Pinfalls	5	4	8	0	3	2	2	3	1	8	0	0	3	4		X	F	2	9	1	4
+Score		9		17		22		27		36		36		43		55		57		71
+EBZjtva62q5z9n4w
+Pinfalls	3	3	5	4	3	4		X	1	0	0	3	1	6	F	5	F	7	1	1
+Score		6		15		22		33		34		37		44		49		56		58
+xITdRBQ6mKDel8jt
+Pinfalls	3	2	5	1		X	2	F	4	/	0	4	F	3	1	0	2	1	7	2
+Score		5		11		23		25		35		39		42		43		46		55
+61fxncX0ffdvJVP9
+Pinfalls	0	9	4	1	1	/	7	/	8	1	8	F	3	4	5	0	2	2	6	3
+Score		9		14		31		49		58		66		73		78		82		91
+n2HVxR8C5TpepqT6
+Pinfalls		X	5	2	8	1		X		X	7	1	F	/	6	F	9	/	3	6
+Score		17		24		33		61		79		87		103		109		122		131
+NikXxpN7VPp4o8CS
+Pinfalls	5	4	1	1	4	2	6	3	1	3	6	0	5	2	8	F	3	F	3	5
+Score		9		11		17		26		30		36		43		51		54		62
+s6tiIc8q1hwuJbMA
+Pinfalls	8	1	1	6	3	4	5	3	1	/	4	5	0	8	5	F	1	0	3	F
+Score		9		16		23		31		45		54		62		67		68		71
+H3cykEiDc16Kxcug
+Pinfalls	7	F	9	/	F	5	4	3	6	2	9	/		X	6	3	2	6	4	6	2
+Score		7		17		22		29		37		57		76		85		93		105
+dyAimnqJQEByczI3
+Pinfalls	4	4	6	1	6	2	2	0	1	F		X	4	3	8	/	7	1	8	F
+Score		8		15		23		25		26		43		50		67		75		83
+Ctgtoodp7b2QU1gL
+Pinfalls	0	8	9	F	4	/	5	3	8	/	6	3	1	8	4	F	F	F	6	0
+Score		8		17		32		40		56		65		74		78		78		84
+ugKK1cVHq55txg0K
+Pinfalls	1	8	3	5	0	9	7	0	8	1	9	0	4	5		X	2	/	0	5
+Score		9		17		26		33		42		51		60		80		90		95
+3qFAwgiy7EzHRMFe
+Pinfalls	F	1	3	0	9	0	7	0	8	1	4	/	2	6	6	0	1	0	6	1
+Score		1		4		13		20		29		41		49		55		56		63
+6Rd7g2sl8bKmXy3x
+Pinfalls	5	F	4	4	2	0	7	F		X	4	3	5	0		X	1	6	5	2
+Score		5		13		15		22		39		46		51		68		75		82
+PP4ljyd48zooZdXe
+Pinfalls	5	3	F	3		X	3	5	2	/	8	1	7	1	8	1	3	5	9	F
+Score		8		11		29		37		55		64		72		81		89		98
+Qy8PCb6RGBAYiQ8v
+Pinfalls	0	7	6	1	3	0	2	6	6	F	1	6		X	F	7		X	2	1
+Score		7		14		17		25		31		38		55		62		75		78
+HofU3frF79d2Pm4x
+Pinfalls	3	3	6	0	0	4	8	/	6	/	4	F	9	F		X	8	0	F	9
+Score		6		12		16		32		46		50		59		77		85		94
+Z5ZsB3s7oECUq9A7
+Pinfalls	2	7	F	5	3	6	F	9	4	2	9	/		X	1	1	5	0	8	1
+Score		9		14		23		32		38		58		70		72		77		86
+cZARa9GCFhoPtmbV
+Pinfalls	6	2	8	/	6	F	9	F	1	4	0	7		X	1	7		X	0	3
+Score		8		24		30		39		44		51		69		77		90		93
+0VJkurmUckZaAY6f
+Pinfalls	3	/	4	F	9	/	9	0	8	0		X		X	3	F	F	0	6	3
+Score		14		18		37		46		54		77		90		93		93		102
+P4cYkduc8T3j18y4
+Pinfalls	F	1	0	3	F	5	3	6	7	1	2	0		X	1	5	1	8	X	6	3
+Score		1		4		9		18		26		28		44		50		59		78
+yA8OIdX0u41rbwtp
+Pinfalls	F	7	5	3	2	3	0	8	0	3	4	5	4	3	3	4	3	4	5	4
+Score		7		15		20		28		31		40		47		54		61		70
+IEauG2Bb2YVoeBvO
+Pinfalls		X	2	1	7	F	F	4	3	5	9	/	9	/	6	0	7	2	9	1	1
+Score		13		16		23		27		35		54		70		76		85		96
+iKpJDpWAoKpmXqq7
+Pinfalls	3	3	5	0	8	/	0	5	5	1	F	4	3	0	7	/		X	2	3
+Score		6		11		21		26		32		36		39		59		74		79
+udwHKmVAQneJFeLu
+Pinfalls	0	1		X		X	3	/	F	8	7	1	F	4	8	F	7	1	6	1
+Score		1		31		51		61		69		77		81		89		97		104
+i3wchCDoxTEFBiI3
+Pinfalls	4	5	1	6		X	F	/	8	/	9	0	8	/	1	3	1	3	1	F
+Score		9		16		36		54		73		82		93		97		101		102
+QbV4SmZwABNUOuce
+Pinfalls	8	0	2	5	F	0	4	5	5	1	4	F	4	4	1	3	2	F	9	F
+Score		8		15		15		24		30		34		42		46		48		57
+uRK8lKdMu2WqpmCU
+Pinfalls	F	F	9	/	8	1	7	F		X	7	1	8	1	1	3	9	/	2	0
+Score		0		18		27		34		52		60		69		73		85		87
+VCnWeT4hLJSYUv8E
+Pinfalls	7	2	9	0	4	5	F	7	7	F	1	4	F	5	2	3	F	2	2	8	2
+Score		9		18		27		34		41		46		51		56		58		70
+vjmywK0K8QfLhpZz
+Pinfalls	3	F	7	/	9	0	8	/	9	0	4	F	F	7	6	3	3	/	4	3
+Score		3		22		31		50		59		63		70		79		93		100
+5RWsN6HvqovOnXEu
+Pinfalls	6	F	9	F	8	/	3	2	2	F	6	0	0	6	9	/	1	6	5	1
+Score		6		15		28		33		35		41		47		58		65		71
+3wiTVxM1faJoFCmQ
+Pinfalls	4	/	0	2		X	8	F	6	2	2	F		X	9	/	6	0	F	9
+Score		10		12		30		38		46		48		68		84		90		99
+gkMO7Wda0YywV7p9
+Pinfalls	1	5		X	7	0	9	/	3	3	2	5	F	8	3	4	9	/	5	3
+Score		6		23		30		43		49		56		64		71		86		94
+qVPbpN9IuYhM5KOw
+Pinfalls	2	1		X	0	2	5	4	6	/	8	F	3	/	2	0	7	2	8	1
+Score		3		15		17		26		44		52		64		66		75		84
+oV2qNa1mX5Bfnegf
+Pinfalls		X	7	2	7	1	8	/	9	0	6	1	F	9	F	2	3	4	7	F
+Score		19		28		36		55		64		71		80		82		89		96
+wxnvRtbfPAwbgw2Y
+Pinfalls	8	0	0	4	7	/	6	2	1	F		X	0	2	6	/		X	0	F
+Score		8		12		28		36		37		49		51		71		81		81
+7lgZscFpb3sYh4HZ
+Pinfalls	3	1	6	/	9	/		X	8	/	2	3	1	2	4	3	0	4	4	4
+Score		4		23		43		63		75		80		83		90		94		102
+8cYouATIlCUI5FuC
+Pinfalls		X	0	F	6	2	F	9	F	6	9	F		X	9	F	8	0	8	0
+Score		10		10		18		27		33		42		61		70		78		86
+hffQhsTUZKuubWou
+Pinfalls	6	2	3	0	5	4	1	0	2	7	F	7	7	1	9	/	0	3	0	4
+Score		8		11		20		21		30		37		45		55		58		62
+QR7rxNrllvYirTJF
+Pinfalls	8	1	8	0	1	3	7	2	5	3		X	8	1		X	9	F	X	0	7
+Score		9		17		21		30		38		57		66		85		94		111
+vD9lHhoKXn4xLeJN
+Pinfalls	8	/	2	1	4	0		X	9	/	4	2	7	2	3	3	F	6	8	2	1
+Score		12		15		19		39		53		59		68		74		80		91
+dTign0xTSZTk90fw
+Pinfalls	2	4	6	1	F	5	9	/	1	3	2	2	4	0	F	F	7	F	9	F
+Score		6		13		18		29		33		37		41		41		48		57
+M3B5YOa5tYIjSa09
+Pinfalls	8	0	F	2	1	8	1	0	2	0	6	2		X	3	6	F	4	9	0
+Score		8		10		19		20		22		30		49		58		62		71
+sqa5d7fL5bOOBziF
+Pinfalls	F	2		X	6	2	2	F	2	/	8	F	8	0	4	1	6	1	4	6	0
+Score		2		20		28		30		48		56		64		69		76		86
+OzykH5C0ICJZuG0b
+Pinfalls	3	3	F	5	3	F	4	4	6	0	1	2	3	3	1	F	9	F	F	3
+Score		6		11		14		22		28		31		37		38		47		50
+2GjAzL8SdtRvCw1y
+Pinfalls	0	3	3	F	3	1	4	3	0	8	7	2	F	8	2	F	2	6	3	0
+Score		3		6		10		17		25		34		42		44		52		55
+jRwiP33QmSGdxY5b
+Pinfalls	3	5	7	/		X	3	F	6	3	4	4	3	5		X	F	F	X	X	F
+Score		8		28		41		44		53		61		69		79		79		99
+IT3zuje5UPSb4U1P
+Pinfalls	9	0	1	8	3	3	3	F	0	9	2	6	5	/	6	0	2	5	F	5
+Score		9		18		24		27		36		44		60		66		73		78
+tovK2sVp8b0JCA5u
+Pinfalls	7	0	6	1	6	1	8	F	5	4	1	F		X	9	F	0	9	5	3
+Score		7		14		21		29		38		39		58		67		76		84
+fUe6TamDkoaR1dJG
+Pinfalls	6	/	2	5	1	2	7	0		X	F	6	3	0	9	0		X	4	2
+Score		12		19		22		29		45		51		54		63		79		85
+8cYfLIzrPO08gosp
+Pinfalls	4	4	0	1		X	0	0	4	F	9	0		X	8	/	5	F	2	5
+Score		8		9		19		19		23		32		52		67		72		79
+V1F11QbwAt895gvp
+Pinfalls	4	5	2	F	0	7	F	5	6	3	7	F		X	1	/		X	3	2
+Score		9		11		18		23		32		39		59		79		94		99
+jr6jyhUEbrmlhyUZ
+Pinfalls	4	2		X	6	F	3	/	6	/	3	3	6	0		X	8	0	6	0
+Score		6		22		28		44		57		63		69		87		95		101
+9hPGBTAgIMUw2JPB
+Pinfalls	F	0	9	F	8	1		X	0	F	6	F	4	2	7	F	8	F	8	F
+Score		0		9		18		28		28		34		40		47		55		63
+JI74Ldi3vmLT5UHl
+Pinfalls	9	0	5	0	8	1	8	0	0	9	9	/	8	/	0	2	5	2	7	0
+Score		9		14		23		31		40		58		68		70		77		84
+8iQk67BiMQ0Nklbf
+Pinfalls		X	3	1	0	3		X	2	4	4	3	F	9		X	5	2	5	F
+Score		14		18		21		37		43		50		59		76		83		88
+bZ8aINMsFAbwMq6y
+Pinfalls	5	3	3	0	0	8	4	1	F	2	7	2	4	F	7	F	3	5	8	F
+Score		8		11		19		24		26		35		39		46		54		62
+Do6rGdEMwFLzTktO
+Pinfalls	6	/	9	0		X	0	1	6	F	8	F	2	1	8	1	4	2	1	8
+Score		19		28		39		40		46		54		57		66		72		81
+iDoIC0coUDO5PSuO
+Pinfalls	1	6	F	F	2	4	5	F	7	0	2	2	F	F	8	0	7	0	1	2
+Score		7		7		13		18		25		29		29		37		44		47
+5NQq2CXkI43WtTVW
+Pinfalls	5	3		X	3	/	F	1	9	F	0	9	2	0	7	1	0	0	2	3
+Score		8		28		38		39		48		57		59		67		67		72
+vnVkcnjjU44W6HMv
+Pinfalls	3	F	2	4	9	F	2	5	2	6	1	2	6	/	6	1		X	3	F
+Score		3		9		18		25		33		36		52		59		72		75
+a0jrmsYHDWnNnp7r
+Pinfalls	F	9	F	/	8	F	7	2	5	4		X	9	0	5	4	3	/	3	4
+Score		9		27		35		44		53		72		81		90		103		110
+7aDSYfArzZ5MifAQ
+Pinfalls	F	4	1	8	5	/		X	1	8	2	3		X	8	F	3	5	5	5	F
+Score		4		13		33		52		61		66		84		92		100		110
+lR2S3PELfeurmCL1
+Pinfalls	2	1	0	9	7	F	4	/	0	3	4	2		X		X	0	1	X	X	8
+Score		3		12		19		29		32		38		59		70		71		99
+SnDWOwfAH2SqlrHQ
+Pinfalls	F	3	7	1	7	2	8	1	4	5	8	1	5	2		X	4	F	X	X	2
+Score		3		11		20		29		38		47		54		68		72		94
+NCzJSM9j8Q2qeWGS
+Pinfalls	6	2	3	0		X	8	/	2	7	2	6	3	5	8	0		X	9	F
+Score		8		11		31		43		52		60		68		76		95		104
+1vKHgpKik6kut3wt
+Pinfalls	4	0	9	/		X	3	4	7	F		X	1	4	3	0	9	/	6	3
+Score		4		24		41		48		55		70		75		78		94		103
+Qi6QhgkudN3Z1uBA
+Pinfalls	6	0	5	2	1	4	3	5	2	0	0	6	5	4	1	0	5	1	X	F	8
+Score		6		13		18		26		28		34		43		44		50		68
+qRFA7NViYFfZkrj6
+Pinfalls	7	/	0	6		X	4	4	1	4	2	7	4	4	3	4		X	3	0
+Score		10		16		34		42		47		56		64		71		84		87
+DhcVm9dqWlidQcYc
+Pinfalls	9	/	F	8	3	F		X	6	/	2	7	3	F	4	0	2	1	6	1
+Score		10		18		21		41		53		62		65		69		72		79
+FsTtWlOSwrr2RCVf
+Pinfalls	8	/	1	7	2	2		X		X	4	2	6	3		X	F	6	9	F
+Score		11		19		23		49		65		71		80		96		102		111
+2MK7VrVhxyy4IzKW
+Pinfalls	8	0	1	1	F	F	0	2	4	4	4	0	9	/	0	6	5	3	F	X	7
+Score		8		10		10		12		20		24		34		40		48		65
+iQo3aNu4fDhtQLNM
+Pinfalls	9	0	3	4	0	F	8	0		X	F	/	9	0		X	6	F	X	8	F
+Score		9		16		16		24		44		63		72		88		94		112
+XUAVIswvLXtej2r4
+Pinfalls	1	7	5	3	7	0		X	0	/	8	/	7	1	6	1	3	5	5	4
+Score		8		16		23		43		61		78		86		93		101		110
+zDD6LtTbveyOFNqh
+Pinfalls	8	/	F	1	2	6	7	0	6	F	F	4	2	4	9	F	5	2	8	1
+Score		10		11		19		26		32		36		42		51		58		67
+ytmYyFqMGB8gdIpV
+Pinfalls	9	0	6	0	6	2	6	2	7	1	4	F	5	/	6	2	1	/	7	0
+Score		9		15		23		31		39		43		59		67		84		91
+6eQ7DOOgtjTNzHpy
+Pinfalls	6	/	9	0	0	2	9	/		X	1	1	1	8		X	2	4	6	0
+Score		19		28		30		50		62		64		73		89		95		101
+WvA3W8zcJKrLCifq
+Pinfalls	3	5	8	0	F	4	1	5	0	3	8	1	6	2	3	3	7	/	1	0
+Score		8		16		20		26		29		38		46		52		63		64
+R8UOT7KeHC93XJLU
+Pinfalls	F	0	8	0	7	/	9	/	F	4	4	5	5	0	5	F	8	0	9	0
+Score		0		8		27		37		41		50		55		60		68		77
+yMVmYPdVGi6b7EtN
+Pinfalls	5	0	1	1	5	0	3	3	4	0	9	0	3	/	7	F	F	9	0	5
+Score		5		7		12		18		22		31		48		55		64		69
+MfQkMmNxJVpgUTvl
+Pinfalls		X	4	1	0	1	3	4		X		X	9	/	F	9	7	2	2	F
+Score		15		20		21		28		58		78		88		97		106		108
+nlr50AcJvcfsF2ET
+Pinfalls	F	0		X	6	2	6	0	0	2		X	4	1	0	5	8	0	X	6	2
+Score		0		18		26		32		34		49		54		59		67		85
+fVsTf8n3oVX4XyJv
+Pinfalls	7	2	0	2	0	8		X	2	0	7	2		X	5	F	5	3	7	2
+Score		9		11		19		31		33		42		57		62		70		79
+dhpw0JM18CURbUd1
+Pinfalls	F	F	3	2	6	2	8	0	4	2	6	0	0	1	9	0	3	6	7	2
+Score		0		5		13		21		27		33		34		43		52		61
+dHxowhBugL1FUJEb
+Pinfalls	9	/	2	0	9	0	6	2	F	4	5	3	5	3	6	/	3	6	9	0
+Score		12		14		23		31		35		43		51		64		73		82
+ZomMRo4dF4LsL6gz
+Pinfalls	3	4	2	3	9	0		X	0	8	3	F	2	F	4	/	8	1	9	1	0
+Score		7		12		21		39		47		50		52		70		79		89
+ipeH0FlyCcCN4GNQ
+Pinfalls	9	/	6	/	2	3	6	1	3	4	4	3	9	0	6	F	6	/	0	4
+Score		16		28		33		40		47		54		63		69		79		83
+D0BUX3QE9vfjDUvX
+Pinfalls	6	F	3	5		X		X	5	1		X	8	0	5	0	F	F	0	6
+Score		6		14		40		56		62		80		88		93		93		99
+otKw9EsXzTjh4Oii
+Pinfalls	4	5	8	0	8	/		X	3	1	7	1		X	5	3	5	4	2	3
+Score		9		17		37		51		55		63		81		89		98		103
+ESBI0XNOQqGBn9hx
+Pinfalls		X	1	2	2	/	5	3	0	7	2	1	F	4	1	1	5	2	5	2
+Score		13		16		31		39		46		49		53		55		62		69
+kgcLdkf668vbAHAB
+Pinfalls	5	4	8	/	3	5	0	3	2	F	8	/	8	0	4	5	9	F	8	F
+Score		9		22		30		33		35		53		61		70		79		87
+eM9tOdTatNdHFC8t
+Pinfalls	6	F	0	6	6	/	5	4	0	8	1	5	7	/	6	0	1	6	F	F
+Score		6		12		27		36		44		50		66		72		79		79
+6ZcXvB9D1z8ksedX
+Pinfalls	8	/	F	3	4	F	3	1	4	4	7	/	F	0	8	0	9	/	6	3
+Score		10		13		17		21		29		39		39		47		63		72
+EClnTeiozaQ1XM2w
+Pinfalls	4	2		X	F	1	F	3	9	/	7	F	1	2	6	0	8	0	4	2
+Score		6		17		18		21		38		45		48		54		62		68
+k1tMdqk6TGrDj9xJ
+Pinfalls		X	3	2	0	3	6	2	8	1	6	0	4	0	5	2	1	3	6	0
+Score		15		20		23		31		40		46		50		57		61		67
+PTVr26nPjajmuYuh
+Pinfalls	1	3	3	1	7	2	7	/	3	/	7	2	F	F	3	1	6	2	F	0
+Score		4		8		17		30		47		56		56		60		68		68
+3oePm0qtTJWBc4wG
+Pinfalls	8	/	0	9	9	0	4	1	7	/	4	1	7	2	2	4	9	/	9	F
+Score		10		19		28		33		47		52		61		67		86		95
+Xbj5M4WpixMIErY2
+Pinfalls		X	1	4	2	2	9	0	9	0	9	0	6	3	0	8	9	F	6	1
+Score		15		20		24		33		42		51		60		68		77		84
+qpmbYnGrkQp0eDC9
+Pinfalls	2	/	0	8	7	0	7	0	6	F		X	3	0	4	5	8	0	4	5
+Score		10		18		25		32		38		51		54		63		71		80
+2zANvYN6TPrvuGpn
+Pinfalls	F	/	8	1		X	9	0	F	5	7	1	8	/	1	5	6	1	2	F
+Score		18		27		46		55		60		68		79		85		92		94
+tzfcupMAUD9wJn4n
+Pinfalls		X	9	F	F	3	1	6	0	8	7	F	7	/	5	1	6	2	9	1	2
+Score		19		28		31		38		46		53		68		74		82		94
+FNWmhhIivkd0CzEK
+Pinfalls	1	7	F	0	8	0	2	F	0	1	2	3	9	F		X	4	1	7	0
+Score		8		8		16		18		19		24		33		48		53		60
+6FjWBt2yNzXsFj8L
+Pinfalls	4	/		X	9	/	6	1	4	1	8	0	0	5	5	4	2	0	8	0
+Score		20		40		56		63		68		76		81		90		92		100
+xDwcB3snc3zSg8n3
+Pinfalls		X	6	3	2	6	5	F		X	7	1	5	1	3	4	4	0	0	6
+Score		19		28		36		41		59		67		73		80		84		90
+rlsYFkeujdOzidpQ
+Pinfalls	0	4	6	1	8	F		X	2	F	4	4	7	0	5	2	1	/	0	3
+Score		4		11		19		31		33		41		48		55		65		68
+8u0KyJbFpMxNAOBn
+Pinfalls	2	3	9	F	0	7	9	0	1	3	2	0	4	/	9	0	3	6	F	5
+Score		5		14		21		30		34		36		55		64		73		78
+06GBR6McEr9GAics
+Pinfalls	8	/	2	1	3	5	F	0	2	6	F	F	8	1	2	0	F	9	1	3
+Score		12		15		23		23		31		31		40		42		51		55
+4IYJm6YtqeM0Wb5n
+Pinfalls	3	0	6	3	9	/	7	F	8	0	4	F	9	/	8	1	6	1	1	9	1
+Score		3		12		29		36		44		48		66		75		82		93
+6hte58mpteyQMMpK
+Pinfalls	5	1	5	2	2	7	6	1	4	1	5	/	5	3	4	3	4	0	2	0
+Score		6		13		22		29		34		49		57		64		68		70
+30Vwzo0HAcRo8osG
+Pinfalls	6	3	4	1		X		X	3	2	6	2	F	3	6	/	2	6	9	1	2
+Score		9		14		39		54		59		67		70		82		90		102
+7Sa10Vl9qsg3YLil
+Pinfalls	6	F	6	/	0	2	9	F	F	5	0	3	1	2		X	5	2	3	0
+Score		6		16		18		27		32		35		38		55		62		65
+8FibY714I65i02kb
+Pinfalls	F	0	3	/		X	6	F	8	1	7	1	5	1	6	2	F	8	F	4
+Score		0		20		36		42		51		59		65		73		81		85
+NGuzV3MQZrkIarSL
+Pinfalls	0	/	8	0	F	/	3	/	1	1	1	2	9	0		X		X	2	2
+Score		18		26		39		50		52		55		64		88		102		106
+UvnEzkf4PGL0bvu9
+Pinfalls	5	4	3	5	5	3		X	8	0	4	4	5	4		X	1	4	2	3
+Score		9		17		25		43		51		59		68		83		88		93
+R3tJDOmxZgxy6usn
+Pinfalls	6	3	2	0	4	2	6	0	7	/	5	1	5	3	7	F	2	0	8	1
+Score		9		11		17		23		38		44		52		59		61		70
+SIRd2Q51tbNRU8Cz
+Pinfalls	8	F	7	/	0	4	F	4	0	8	1	8	3	/	6	3		X	F	F
+Score		8		18		22		26		34		43		59		68		78		78
+8ptYQ1WOWoiPRL9S
+Pinfalls	3	1	9	F	4	4	4	2		X	8	/	8	F	2	2	0	5	5	0
+Score		4		13		21		27		47		65		73		77		82		87
+nchaX8JuVyUVsJ7I
+Pinfalls	5	1	2	7	F	9	5	/	8	F	5	/	9	F	2	3	3	2	1	0
+Score		6		15		24		42		50		69		78		83		88		89
+YA3pOYiHhXzUIDjo
+Pinfalls	F	8	0	F	0	9	2	3	1	6	6	F	5	4		X	2	0	7	3	7
+Score		8		8		17		22		29		35		44		56		58		75
+60jKMXZ3useLT1dc
+Pinfalls	5	4	0	6	3	/	5	/	8	0	0	9	1	F	1	4	5	4	F	9
+Score		9		15		30		48		56		65		66		71		80		89
+YGlHyFg4DhnGkO3i
+Pinfalls	0	F	0	F	0	1	5	4	6	0	8	0	0	6	5	0	4	1	F	F
+Score		0		0		1		10		16		24		30		35		40		40
+aZDsWkCuAj6LVv6H
+Pinfalls	4	F	F	3	7	2	2	7	1	0	6	2	0	4	0	F	9	0	5	4
+Score		4		7		16		25		26		34		38		38		47		56
+kphrW7wyxnrqu4Z5
+Pinfalls	2	4	8	0	0	2	9	/	5	/	8	0	8	0	8	/	7	1	2	5
+Score		6		14		16		31		49		57		65		82		90		97
+ZgnmcshzGYtOxfxE
+Pinfalls	7	0	1	0	0	4	2	F	8	0	9	F	3	1	0	5	5	0	1	2
+Score		7		8		12		14		22		31		35		40		45		48
+4rRWq1AnR14J9slq
+Pinfalls	4	F	3	4	5	0	8	/	8	0	4	2	0	0	7	2	5	2	X	9	1
+Score		4		11		16		34		42		48		48		57		64		84
+o6ye7RLqK6HHeh0t
+Pinfalls	7	1	5	2	6	1	5	3	2	5	8	F	4	4	3	F	4	5	4	5
+Score		8		15		22		30		37		45		53		56		65		74
+vwOgF3tjPtWziYiH
+Pinfalls	9	F	3	4	5	F	5	0	1	7	F	/	9	/	7	F		X	7	F
+Score		9		16		21		26		34		53		70		77		94		101
+bzDolIRBsdT2qJ2A
+Pinfalls	0	F		X	8	1	3	6	5	4	7	/	6	3	6	1	2	2	3	7	0
+Score		0		19		28		37		46		62		71		78		82		92
+b7bGoqIx85i5WD3w
+Pinfalls	0	9	2	0	0	/	F	7	F	2	4	3	8	/	2	/	8	1	2	8	F
+Score		9		11		21		28		30		37		49		67		76		86
+QUwX0QSBskfy9d72
+Pinfalls	F	/	4	3	0	2	1	F	3	6		X	0	3	6	3	8	F	3	4
+Score		14		21		23		24		33		46		49		58		66		73
+RWbcmHWUTUKZXND1
+Pinfalls	8	F	4	0	7	/	1	0	3	1	9	F	6	F	F	3	4	3	F	9
+Score		8		12		23		24		28		37		43		46		53		62
+B1XJaheIIP4lTvwf
+Pinfalls	6	/	4	4	6	F	0	9	1	1	0	7	3	F	9	F	9	F	2	5
+Score		14		22		28		37		39		46		49		58		67		74
+uIMOXtJticMZSuq8
+Pinfalls	7	F	8	0	F	6	F	6	4	4	0	6	4	2	6	2	6	3	3	F
+Score		7		15		21		27		35		41		47		55		64		67
+fzYsKOCH5sMVKXFY
+Pinfalls	6	F	5	3	F	/	5	1	1	8	2	/	1	2	5	/	1	5	7	1
+Score		6		14		29		35		44		55		58		69		75		83
+vew1oMOXqBq0r3Iw
+Pinfalls	5	0	7	F		X	2	/	4	1		X	6	/	7	F		X	3	0
+Score		5		12		32		46		51		71		88		95		108		111
+q2hdrCYyHwWmo9TF
+Pinfalls	3	5	1	F	4	5	6	2	9	0	8	F	3	/	4	F	4	2	6	4	6
+Score		8		9		18		26		35		43		57		61		67		83
+g3TycIlenPlfssFp
+Pinfalls	4	4	9	0		X	F	7	6	1	F	9	7	0	7	F	4	3	F	5
+Score		8		17		34		41		48		57		64		71		78		83
+IUtqFpPcn8pLF7u9
+Pinfalls	F	0	3	2	7	0	2	F	5	4	F	/	4	4	4	/	8	F	7	2
+Score		0		5		12		14		23		37		45		63		71		80
+mpfDJe6IM7VTn3uF
+Pinfalls	8	0	1	8	5	1	5	4	6	0	F	3	5	3	4	5	6	3	1	F
+Score		8		17		23		32		38		41		49		58		67		68
+GnSOleEa3bssOvZn
+Pinfalls	7	/	3	/	8	1	F	8	7	/	F	7	1	F	3	4	4	0	7	1
+Score		13		31		40		48		58		65		66		73		77		85
+TzBRRFrcjzDkqf7I
+Pinfalls	F	/	8	/	0	7	9	F	4	/	1	0	9	F	8	0		X	2	4
+Score		18		28		35		44		55		56		65		73		89		95
+eO9BuKA8XAJnGj5F
+Pinfalls	9	0	F	9	0	2	1	6	6	/	F	1		X		X	3	3	3	1
+Score		9		18		20		27		37		38		64		80		86		90
+2iUYyqJYaKz5ldH5
+Pinfalls	7	/	5	1	5	2	7	0	7	1	1	/		X	0	4	3	5	5	2
+Score		15		21		28		35		43		63		77		81		89		96
+y77CzAyv6Hs9ILBc
+Pinfalls	8	/	8	/	0	1	0	7	F	9	7	1	1	3	8	0	7	1	X	5	0
+Score		18		28		29		36		45		53		57		65		73		88
+XiEKPr1jgurTJ3YO
+Pinfalls	1	2	F	4	F	/	2	3	5	0	3	F		X	3	4	2	2	8	2	1
+Score		3		7		19		24		29		32		49		56		60		71
+EowEoU3dt3kQHxi1
+Pinfalls	1	/	8	F	5	2	0	8	F	9	4	4	8	1	6	1	7	/	F	F
+Score		18		26		33		41		50		58		67		74		84		84
+0EcRbhw0SXG6ul5P
+Pinfalls	9	0	6	2	5	1	4	4	0	/	0	/	0	9	1	0	3	/	7	2
+Score		9		17		23		31		41		51		60		61		78		87
+BmnRCHp3RZnsxvo0
+Pinfalls	4	F	3	4	5	F	6	/	4	3	6	/	2	2	7	0	5	2	6	1
+Score		4		11		16		30		37		49		53		60		67		74
+fmlhHTYbivagmq5v
+Pinfalls	1	6	0	8	6	2	8	/	6	0	5	2	1	8	7	0		X	3	5
+Score		7		15		23		39		45		52		61		68		86		94
+jApZE2BC5jkaSfuf
+Pinfalls	1	6		X	3	2	2	F	0	2	7	F	9	F	3	2	3	6	8	0
+Score		7		22		27		29		31		38		47		52		61		69
+XB4bNvbua9eNumvp
+Pinfalls	0	/	5	F	7	/		X	4	5		X	9	F		X	0	5	4	2
+Score		15		20		40		59		68		87		96		111		116		122
+Lty6njRLAEx9Di12
+Pinfalls	2	F	6	3	4	1	7	0	9	F	F	4	9	0	3	4	0	/	8	0
+Score		2		11		16		23		32		36		45		52		70		78
+wUYgym8sHVPMuDiR
+Pinfalls	4	/	7	2	4	1		X	9	0	7	F		X	4	F	8	1	1	3
+Score		17		26		31		50		59		66		80		84		93		97
+H084EtYgOSaakxsm
+Pinfalls	F	9	9	/	3	5	1	1		X	8	/	3	4	1	4	8	0	0	3
+Score		9		22		30		32		52		65		72		77		85		88
+RWf7E9R2ydzHIxgZ
+Pinfalls	1	0	0	1	6	3	5	F	2	6	6	1		X	2	6	1	4	0	4
+Score		1		2		11		16		24		31		49		57		62		66
+B6I6DNJcI80Bh0U2
+Pinfalls	7	/	1	/	0	9	4	/	6	3	0	8	6	/	7	2	0	5	4	2
+Score		11		21		30		46		55		63		80		89		94		100
+yOf3VmfI8aROsJs0
+Pinfalls	4	2	5	0	0	0	4	F	8	/	5	2	1	0	8	/		X	9	F
+Score		6		11		11		15		30		37		38		58		77		86
+x69ocw0EPqBSTw6p
+Pinfalls	0	F	F	3	4	F	7	F	7	0	1	F	2	0	3	6	1	8	7	2
+Score		0		3		7		14		21		22		24		33		42		51
+KiIJ2MtnybKS3CLL
+Pinfalls	9	F	6	0	1	F	5	0	3	3	7	1	F	5	4	2	4	4	X	X	9
+Score		9		15		16		21		27		35		40		46		54		83
+qYU9iOtmucQlSOG1
+Pinfalls	5	4	9	0	4	5	4	2	7	/	3	6	2	1	F	F	4	2	F	5
+Score		9		18		27		33		46		55		58		58		64		69
+yKsG3Xy8npi8hWUI
+Pinfalls	5	3	7	/	6	3	2	2	0	1	3	4	F	0	9	F	4	/	X	5	1
+Score		8		24		33		37		38		45		45		54		74		90
+K8h0vPrh3UYG6rAi
+Pinfalls		X	4	5	6	0	2	0	F	F	3	5	1	0	7	2	7	1	4	3
+Score		19		28		34		36		36		44		45		54		62		69
+n9VU09Dm204at6TN
+Pinfalls	6	3	7	F	1	/	8	1	8	F		X	4	F	7	1	6	/	8	2	6
+Score		9		16		34		43		51		65		69		77		95		111
+OOGf3iuI1tbBLFSj
+Pinfalls	F	7	3	3	9	/	4	0	8	/	1	/	4	4	0	7		X	6	4	F
+Score		7		13		27		31		42		56		64		71		91		101
+1leTu8HFw8sejpxv
+Pinfalls	7	2	2	3		X	F	6	2	2	7	/	1	2	F	/	3	3	5	3
+Score		9		14		30		36		40		51		54		67		73		81
+4cfIcibShTLLACGz
+Pinfalls	9	0	6	1	4	/	9	/	3	F	2	4	6	/	2	/	6	0	7	0
+Score		9		16		35		48		51		57		69		85		91		98
+tjR3lBP2paiYXhLw
+Pinfalls	9	/	0	F	8	F	1	F	6	3	F	6	0	7	5	2	1	8	5	2
+Score		10		10		18		19		28		34		41		48		57		64
+TlWeUwGCEVWZ0ccU
+Pinfalls	6	F	1	F		X	4	2	2	3	0	4	3	5	1	F	9	0	3	2
+Score		6		7		23		29		34		38		46		47		56		61
+ibUcYGkB7Kfxj2jF
+Pinfalls	8	F	5	1	F	1		X	F	/	6	1	8	/	1	/	F	4	5	0
+Score		8		14		15		35		51		58		69		79		83		88
+upgt4DuZcvwzKFFi
+Pinfalls		X	4	0	9	F	4	1	F	0	2	3	4	4	7	0	2	0	3	F
+Score		14		18		27		32		32		37		45		52		54		57
+A98uXnAqj6VbzNTr
+Pinfalls	8	/	3	2		X	1	5	7	F	F	F	6	0	7	0		X	2	5
+Score		13		18		34		40		47		47		53		60		77		84
+JVIp53uyF93i9im8
+Pinfalls	7	2	3	3		X	6	2	F	7	7	F	3	0	F	3	7	F	8	F
+Score		9		15		33		41		48		55		58		61		68		76
+gVwaG28ov64Iq9kz
+Pinfalls	2	4	F	F	6	0	9	F	5	2	F	2	6	1	6	1	1	6	4	5
+Score		6		6		12		21		28		30		37		44		51		60
+rUT6Isk33xZhoteD
+Pinfalls	0	4	7	F	0	/	2	3	3	5	8	F	4	F	7	2	9	F	8	1
+Score		4		11		23		28		36		44		48		57		66		75
+BC6T0lQgX6qqTfa4
+Pinfalls	6	/		X	3	5	4	5	1	0	5	0	3	3	5	1	3	2	8	0
+Score		20		38		46		55		56		61		67		73		78		86
+uy56FK2SqrTAfXNY
+Pinfalls	4	3	1	4	3	/	9	0	8	/	8	0	9	/	9	0	F	6	6	1
+Score		7		12		31		40		58		66		85		94		100		107
+TMuB09wAA9AsyTUp
+Pinfalls	7	/	1	8	F	8	5	/	0	5	0	9	0	2	6	2	7	F	8	1
+Score		11		20		28		38		43		52		54		62		69		78
+2ynRFBS47AhWBzej
+Pinfalls	1	6	0	F	0	5	8	0	1	/	F	9	1	6	4	1	4	4	X	6	F
+Score		7		7		12		20		30		39		46		51		59		75
+xgOkubmaBzOuOzG3
+Pinfalls		X	8	0	0	F	4	1	6	2	3	5	3	2	9	0		X	6	0
+Score		18		26		26		31		39		47		52		61		77		83
+tLyzX9qy96rD2ZHM
+Pinfalls	3	0	4	F	F	/	7	F	9	F	4	F	1	8	7	2	1	0	7	1
+Score		3		7		24		31		40		44		53		62		63		71
+0Mak3f93EI5OHqy5
+Pinfalls		X	3	4	2	5	5	0	2	1		X	8	/	0	3	6	/	8	2	6
+Score		17		24		31		36		39		59		69		72		90		106
+4RhKshLVKuuZAxGa
+Pinfalls	0	9	F	/	2	1	0	0	F	2	1	2	4	1	8	0	2	F	F	F
+Score		9		21		24		24		26		29		34		42		44		44
+6rqJJaUJ3SgNu74J
+Pinfalls	7	F	4	0	7	/	2	4	8	F		X		X	0	7	8	0	1	9	F
+Score		7		11		23		29		37		64		81		88		96		106
+lkFVXo1G5O9ZC0m8
+Pinfalls	2	6	2	3	9	F	5	3	6	0	5	3	0	4	0	F	2	5	6	2
+Score		8		13		22		30		36		44		48		48		55		63
+hf1nXTgCVHnBZCMa
+Pinfalls		X	0	4	8	0	7	F	2	/	0	1	5	F	3	1	4	0	1	4
+Score		14		18		26		33		43		44		49		53		57		62
+lQHh4nxoa4WZGDbW
+Pinfalls		X	2	7	2	2	6	3	5	4	6	0	5	3	0	0	7	2	1	7
+Score		19		28		32		41		50		56		64		64		73		81
+L9ia1KaK6uFjQAgm
+Pinfalls	1	5	1	8	2	7	2	0	1	0	6	1	6	0		X	1	5	7	2
+Score		6		15		24		26		27		34		40		56		62		71
+DR4QDNrvxU4YbRWK
+Pinfalls	F	2	4	3	9	0	8	0	6	F	4	/	6	3	3	2	5	2	2	3
+Score		2		9		18		26		32		48		57		62		69		74
+2jMniLpK5z0J4oak
+Pinfalls	2	3		X	1	6	1	2	0	0	6	F	9	0	3	4	5	1	6	3
+Score		5		22		29		32		32		38		47		54		60		69
+hodePYyWkeOBuKiP
+Pinfalls	1	4	5	2	5	3	1	1	3	/	F	F	9	/	0	2	5	0	9	1	9
+Score		5		12		20		22		32		32		42		44		49		68
+yOGw4dotnlG5NmEI
+Pinfalls	4	5	3	3	7	0	2	/	1	/	0	3		X		X		X	1	0
+Score		9		15		22		33		43		46		76		97		108		109
+hlAEHVgvVb0HIhkf
+Pinfalls	9	0	7	/		X	9	0	8	/	4	F	4	0	F	2	2	4	0	4
+Score		9		29		48		57		71		75		79		81		87		91
+6EIoWqhB5HFa5E63
+Pinfalls		X	1	4	1	F	6	1		X	1	4	0	5	F	6	8	0	9	1	2
+Score		15		20		21		28		43		48		53		59		67		79
+GWyVEdCnxxPAjQA5
+Pinfalls	F	6	3	4	4	1	8	0	0	2	6	F	9	0	7	F	8	0	7	0
+Score		6		13		18		26		28		34		43		50		58		65
+v929WIMRrfsDKqd3
+Pinfalls	7	0	2	2	5	4	0	7	6	F	2	7	0	2	2	7	2	2	3	2
+Score		7		11		20		27		33		42		44		53		57		62
+rt65NDiQe5asMt4M
+Pinfalls	4	0	4	2	2	2	9	0	8	0	7	1	6	3	4	/	9	/	2	6
+Score		4		10		14		23		31		39		48		67		79		87
+Y6Cl9YnouM8J6b0j
+Pinfalls	5	4	F	8	8	/	4	4	9	F	2	/	6	/	5	/	2	/	5	0
+Score		9		17		31		39		48		64		79		91		106		111
+3tKCF0qWI51u9iW4
+Pinfalls	6	/	8	F	F	3	9	F	F	2	1	5	8	F	5	0	3	5	6	F
+Score		18		26		29		38		40		46		54		59		67		73
+CJbX6z9UDoujgYOH
+Pinfalls	8	/	2	5	8	/	3	0	7	2	4	3	4	0	2	/		X	F	6
+Score		12		19		32		35		44		51		55		75		91		97
+IOZRaZYPrFN2b1fh
+Pinfalls	7	0	1	5	8	1	8	1	2	6	1	0	9	0	7	1	5	1	7	0
+Score		7		13		22		31		39		40		49		57		63		70
+RqnhmHlrfvIk7wJO
+Pinfalls	4	2	8	1	8	/		X	3	/	0	8	8	/	7	0	3	5	7	0
+Score		6		15		35		55		65		73		90		97		105		112
+MfVT2e3HUb08Zl2d
+Pinfalls	0	6	9	/	1	6		X	8	1	7	2		X	8	1	3	4	5	1
+Score		6		17		24		43		52		61		80		89		96		102
+Z4XprAMn6ZmI2ewW
+Pinfalls	8	0	6	F	3	1		X	8	/	6	2	8	0	7	/	8	/	F	6
+Score		8		14		18		38		54		62		70		88		98		104
+zuDSKZIoZI96t76B
+Pinfalls	2	/	5	4	3	4	7	0	4	2		X	9	/		X	8	F	5	2
+Score		15		24		31		38		44		64		84		102		110		117
+0RPuCKeeLayy1lEE
+Pinfalls	0	4	0	8	F	F	5	2	4	5	F	9	0	F	F	7	5	2	5	5	2
+Score		4		12		12		19		28		37		37		44		51		63
+GkyBB80A1Miqqwe3
+Pinfalls	3	F	5	1	7	F	6	0	1	2	1	2	1	1	3	/	F	3	3	F
+Score		3		9		16		22		25		28		30		40		43		46
+zYTNZnTatyegZJ5R
+Pinfalls	6	0	4	0	1	/	F	F	6	2	7	/	6	1	1	3	4	/	8	0
+Score		6		10		20		20		28		44		51		55		73		81
+NA4UKCaQNTlonIbj
+Pinfalls	9	/	8	1		X	4	1	3	F	3	/	2	2	5	/	8	F	8	2	2
+Score		18		27		42		47		50		62		66		84		92		104
+iuWDpUTV2DXHBa3g
+Pinfalls	7	F	7	2	6	3	6	F	7	2	8	0	8	/	8	0	F	2	8	0
+Score		7		16		25		31		40		48		66		74		76		84
+xEBGmLkVy9f8uYG1
+Pinfalls	3	0	9	F	5	F	3	0	2	/		X	3	6	F	F	1	3	X	8	1
+Score		3		12		17		20		40		59		68		68		72		91
+NYgEIYJrKaHl9HIp
+Pinfalls	4	0	3	/	4	F		X	4	1	9	/	3	F		X	F	9	X	1	2
+Score		4		18		22		37		42		55		58		77		86		99
+c4XyrRoPrHf2Tip4
+Pinfalls	F	9	2	4	7	F	F	9	1	7	1	2	8	0	5	/	F	F	1	7
+Score		9		15		22		31		39		42		50		60		60		68
+UWnlrtjmwcr9Cwib
+Pinfalls	1	5	F	6	0	5	2	3	3	1		X	3	0	9	0	4	4	5	1
+Score		6		12		17		22		26		39		42		51		59		65
+tUkBG9HyrFThwe3J
+Pinfalls	7	/	8	1	1	7	2	/	F	1		X	5	1	0	0	4	0	9	1	3
+Score		18		27		35		45		46		62		68		68		72		85
+l5igS8AQeWOjXJPn
+Pinfalls	9	/	7	2	0	2		X	3	3	F	7	0	4	0	5	5	1	5	0
+Score		17		26		28		44		50		57		61		66		72		77
+8S1F5rxiLmX3L3PK
+Pinfalls	0	1	0	F	6	1	0	/	9	F	F	1	3	F	4	0	1	6	6	4	2
+Score		1		1		8		27		36		37		40		44		51		63
+hd0icbsjc6J0w0kp
+Pinfalls	8	F		X	5	1	4	2	7	1	8	1	4	4		X	9	F	8	2	2
+Score		8		24		30		36		44		53		61		80		89		101
+5ZxYIcw4gs5qfDGF
+Pinfalls	4	5	5	0	1	5	5	4		X	3	/	5	1	0	1	2	4	8	F
+Score		9		14		20		29		49		64		70		71		77		85
+MTBt1XIljEUU2JAx
+Pinfalls	6	2	2	3	5	1	7	1	6	0	6	/	3	5	5	0	0	/	X	X	9
+Score		8		13		19		27		33		46		54		59		79		108
+MoVF3i3Umu2FUBJd
+Pinfalls	1	/	8	F		X	F	2	4	2	3	6	0	0	F	8	0	7	1	7
+Score		18		26		38		40		46		55		55		63		70		78
+qKCAC9TDS7PTzMJl
+Pinfalls	6	0	8	F	5	2	2	5	1	7	7	0	F	7	6	F	8	F	X	8	2
+Score		6		14		21		28		36		43		50		56		64		84
+oGxdpG2OL8TQMi2T
+Pinfalls	2	5	8	/	0	1	6	3	7	F	1	1	0	0	9	/	F	9	2	3
+Score		7		17		18		27		34		36		36		46		55		60
+JdmCa4NJzzg8Wn1e
+Pinfalls	5	1	8	/	7	F	F	4	7	/	9	F	5	3	7	0	6	/	0	7
+Score		6		23		30		34		53		62		70		77		87		94
+Y3d26QrcAem3S8nJ
+Pinfalls	2	F	2	/	3	1	3	4	3	6		X	3	4	2	0	4	F	5	4
+Score		2		15		19		26		35		52		59		61		65		74
+ie32r8hbPbT48f5o
+Pinfalls	9	0	2	2	7	/	0	4	9	0	6	2	5	1	4	4	7	1	7	2
+Score		9		13		23		27		36		44		50		58		66		75
+izYkmZPaz8zWJfMD
+Pinfalls	4	1	2	F	9	F		X		X	F	F	6	/	2	3		X	4	3
+Score		5		7		16		36		46		46		58		63		80		87
+EbIk1bUYRSsmjywq
+Pinfalls	2	1	0	6	4	2	6	2	F	3	9	F	9	/	8	/	0	8	4	2
+Score		3		9		15		23		26		35		53		63		71		77
+XrFwjCcQY6NPyfP7
+Pinfalls	9	F	8	F	9	0	6	1	2	/	5	/	F	5	9	0	F	3	1	7
+Score		9		17		26		33		48		58		63		72		75		83
+JTHZIIrjVtSKtOzD
+Pinfalls	0	7	9	0	0	4	7	1	9	0	4	F	9	F	2	7	9	F	0	4
+Score		7		16		20		28		37		41		50		59		68		72
+g8GNQDsLMJiwm5vF
+Pinfalls	3	2	F	5	7	F	3	/	6	F	7	/	F	0	9	F	2	1	5	4
+Score		5		10		17		33		39		49		49		58		61		70
+wAiWLcYu1ADswIos
+Pinfalls	3	2	7	2	5	/	8	1	3	6	5	F	1	1	4	1	4	0	X	5	0
+Score		5		14		32		41		50		55		57		62		66		81
+H9NoZdf06oYs1Nd7
+Pinfalls	0	5	2	4	6	1	F	6	8	F	9	0		X	7	/	1	1	5	5	4
+Score		5		11		18		24		32		41		61		72		74		88
+gbTWIMcT37FUlg4B
+Pinfalls	3	4	5	1	6	3	1	1	3	6	6	/	8	1		X		X	7	0
+Score		7		13		22		24		33		51		60		87		104		111
+sB0EIiPRpEJ7gnQg
+Pinfalls	8	/	1	5	1	7	4	2	8	0	5	2	9	F	4	2	8	F	5	5	3
+Score		11		17		25		31		39		46		55		61		69		82
+iatO0WHP4tmMzR7a
+Pinfalls	9	0		X	9	/	2	5	1	8	4	F	5	4		X	7	/	1	8
+Score		9		29		41		48		57		61		70		90		101		110
+LcceH5lru7kQ0wbc
+Pinfalls		X	6	1		X	7	/	3	1	3	2	8	F	3	5	1	F	1	3
+Score		17		24		44		57		61		66		74		82		83		87
+htFzIO2g31mv2E70
+Pinfalls	4	F	5	3	1	7	5	4	7	F	1	4	4	2	2	/	7	/	7	2
+Score		4		12		20		29		36		41		47		64		81		90
+5biJ4YnI9hj1gnBe
+Pinfalls	9	0	5	2	0	9	8	F		X	5	3	7	F	1	4	F	0	X	6	F
+Score		9		16		25		33		51		59		66		71		71		87
+dgK9RgO5etoIyHjO
+Pinfalls	5	1		X	3	F	0	7	9	/	0	F	3	1	7	F	6	F	2	1
+Score		6		19		22		29		39		39		43		50		56		59
+dNTOrruVLt8J6JFS
+Pinfalls	6	1	F	1	5	F	1	F	5	4	0	5	1	0	7	/	5	2	6	2
+Score		7		8		13		14		23		28		29		44		51		59
+MKI5Q9t9ODIo2HcI
+Pinfalls	0	/	5	4	4	4	8	F	4	1	5	F	3	2	4	3	6	0	X	2	7
+Score		15		24		32		40		45		50		55		62		68		87
+Tpz3TzjcdXsVH9fE
+Pinfalls	5	F	3	1	4	F	4	1	9	0	0	8	9	/	7	2	8	1	8	1
+Score		5		9		13		18		27		35		52		61		70		79
+kDL5dUzBIpeBx4G7
+Pinfalls	5	4	3	5	7	0	6	2	6	/	1	8	4	F	F	3	8	F	2	6
+Score		9		17		24		32		43		52		56		59		67		75
+B7EKFt3dAyUA2Cif
+Pinfalls	7	F	9	0		X	0	9	3	4	0	2	2	1	0	4	F	5	7	1
+Score		7		16		35		44		51		53		56		60		65		73
+bu8laZKU9McoB7GI
+Pinfalls	3	3	6	F	0	8	2	5	1	2	2	3	8	0	5	3	4	3	5	3
+Score		6		12		20		27		30		35		43		51		58		66
+mUFRlmUlfyngwNnQ
+Pinfalls	1	1	1	0	3	0	F	6	4	0	7	1	6	3		X	9	0	6	4	2
+Score		2		3		6		12		16		24		33		52		61		73
+DwwKw1o4iijzPV2I
+Pinfalls	7	0	4	1	7	/	5	/	0	8	9	0		X	5	4	2	6	9	F
+Score		7		12		27		37		45		54		73		82		90		99
+5zIhrCxTYJSpjrjV
+Pinfalls	2	1	9	F	2	5	4	3	2	7	5	2	5	F	9	F	4	4	5	F
+Score		3		12		19		26		35		42		47		56		64		69
+vrbOzYbPAvgjckiJ
+Pinfalls	5	2	8	/		X	F	F	1	/	0	6	2	7	0	1	7	0	6	0
+Score		7		27		37		37		47		53		62		63		70		76
+i4lETr5ktB14tYTE
+Pinfalls	0	3	F	/	7	2	3	4	F	8	1	4	9	F	F	8	1	6	0	7
+Score		3		20		29		36		44		49		58		66		73		80
+ZEZr0iZTdZcR7aAT
+Pinfalls		X	2	F	1	7		X	F	7	7	0		X	8	F	9	0	5	F
+Score		12		14		22		39		46		53		71		79		88		93
+feKXC5wr3meHAFrE
+Pinfalls	8	1	3	3	F	1	0	6	1	7	8	F	4	2	2	2	1	0	7	2
+Score		9		15		16		22		30		38		44		48		49		58
+i2fvr91PyR2uKKnx
+Pinfalls	F	/	2	F	1	F	6	3	8	1	9	0	3	/		X	4	3	9	0
+Score		12		14		15		24		33		42		62		79		86		95
+xsQuegnl9ERw66KX
+Pinfalls	5	3	5	F	F	0	7	2	7	F	5	F	1	F	0	5	8	/	8	1
+Score		8		13		13		22		29		34		35		40		58		67
+1U9mgR06K375ROyW
+Pinfalls	F	/	5	3	9	/		X	9	0	1	F	4	2	F	3	1	/	3	F
+Score		15		23		43		62		71		72		78		81		94		97
