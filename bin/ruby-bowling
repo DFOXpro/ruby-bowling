@@ -1,3 +1,4 @@
-#!/bin/sh
-cd ../src
-./main.rb $@
+#!/usr/bin/env ruby
+# @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
+require File.expand_path '../src/main.rb', __dir__
+
