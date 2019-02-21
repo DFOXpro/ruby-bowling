@@ -19,7 +19,7 @@ class BowlingController
 		PlayerScore.digest_input_line raw_data.shift while(raw_data.size > 0)
 		
 		if PlayerScore.player_list.keys.size > 0
-			OutputFileController.print BowlingView.print_scores PlayerScore.player_list
+			OutputFileController.write BowlingView.print_scores PlayerScore.player_list
 		end
 	end
 end
