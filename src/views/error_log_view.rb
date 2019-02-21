@@ -1,5 +1,5 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require_relative '../localization.rb'
+require File.join File.dirname(__FILE__), '../localization.rb'
 
 # This class will print errors in STDERR
 class ErrorLogView < Localization

@@ -1,6 +1,6 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require_relative './_alias.rb'
-Dir["./controllers/*_controller.rb"].each do |controller_file|
+require File.join File.dirname(__FILE__), './_alias.rb'
+Dir[File.join(File.dirname(__FILE__), "./controllers/*_controller.rb")].each do |controller_file|
 	require_relative controller_file
 end
 
@@ -39,6 +39,12 @@ class Router
 				long_param: 'generate',
 				digester_controller: GenerateController,
 				digester_method: 'set_input_file',
+				digester_args: true
+			},
+			j: {
+				long_param: 'generate-no-process',
+				digester_controller: GenerateController,
+				digester_method: 'set_input_file_no_process',
 				digester_args: true
 			},
 			p: {
@@ -100,6 +106,7 @@ class Router
 		def _digest_arguments(args)
 			if(
 				args.size == 1 and
+				not args[0][0] == '-' and
 				not (args[0].chars.all? { |c|
 					@@arguments_definition.keys.include?(c.swapcase.to_sym)
 				})
@@ -114,6 +121,15 @@ class Router
 				if @ignore_next_argument
 					@ignore_next_argument = false
 				elsif(
+					arg[0, 2] == '--'
+				) # it's long arg
+					if(arg.size == 0)
+						Error.print :invalid_argument_blank, arg
+					else
+						posible_arg = @@arguments_definition[arg]
+						digest_posible_arg(posible_arg, next_arg, arg)
+					end
+				elsif(
 					arg[0] == '-'
 				) # it's short arg
 					if(arg.size > 2)
@@ -122,15 +138,6 @@ class Router
 						Error.print :error_invalid_argument_blank, arg
 					else
 						posible_arg = @@arguments_definition[arg[1].to_sym]
-						digest_posible_arg(posible_arg, next_arg, arg)
-					end
-				elsif(
-					arg[0, 2] == '--'
-				) # it's long arg
-					if(arg.size == 0)
-						Error.print :invalid_argument_blank, arg
-					else
-						posible_arg = @@arguments_definition[arg]
 						digest_posible_arg(posible_arg, next_arg, arg)
 					end
 				elsif(

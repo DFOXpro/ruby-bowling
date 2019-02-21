@@ -1,0 +1,43 @@
+# @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
+---
+version_txt: |
+  %{program_name}: %{version}
+  autor: %{author}
+  licencia: %{licence}
+help_txt: |
+  Uso: ./%{program_name} [ <archivo> | opciones ... ]
+
+    %{program_name} opciones include:
+    H or -h or --help                   Muestra esta ayuda y sale[*]
+    V or -v or --version                Muestra la versión de %{program_name} y sale[*]
+    D or -d or --debug                  Activa el modo de depuración en la consola
+    G or -g or --generate <archivo>     Crea un archivo de entrada y lo usa, si no da el archivo escribirá <%{default_input_file}>
+    J or -j or --generate-no-process    Genera datos y los procesa, no se escribe archivo de entrada
+    P or -p or --generate-players #     Si usa la opción G o J definira cuantos jugadores aleatorios tendrá
+    I or -i or --input-file <archivo>   Define un archivo de entrada personalizado, por defecto es <%{default_input_file}>
+    <archivo>                           Igual a: I <archivo> , pero no acepta otro parametro
+    O or -o or --output-file <archivo>  Define un archivo de salida personalizado, por defecto imprime en la consola
+
+    [*] Si esta opcion está primero, las otras opciones serán ignoradas
+    ** Puede agrupar opciones en mayuscula, para - y -- debe separarlas por espacios
+
+  Ejemplos:
+    ./%{program_name}                    Procesa <%{default_input_file}> en la consola, si no encuentra el archivo alerta y termina
+    ./%{program_name} custom\ input.txt  Procesa <custom input.txt> en la consola
+    ./%{program_name} I ir.txt O pr.txt  Procesa <ir.txt> en <pr.txt>
+    ./%{program_name} --debug O r.txt    Procesa <%{default_input_file}> en <r.txt> con modo de depuración
+    ./%{program_name} JO r.txt -p 3      Procesa genera datos con 3 jugadores aleatorios en <r.txt> (no crea archivo de entrada generado)
+    ./%{program_name} VHDGIO r.txt       Muestra la versión e ignora los otros parametros
+
+error_invalid_argument: "Advertencia: la opción %s no es válida."
+error_invalid_argument_concat: "Advertencia: no puede agrupar opciones - en su lugar use -d -g o DG, ignorando %s."
+error_invalid_argument_blank: "Advertencia: capturada una opción - o -- en blanco."
+
+warning_input_not_found: "Advertencia: (%s) no se encuentra, si configuró la opción G o J, funcionará bien."
+error_input_not_found: "Error: (%s) no se encontró."
+warning_generate_found: "Advertencia: (%s) se va a reescribir con los datos generados."
+warning_output_file_found: "Advertencia: (%s) se va a reescribir con los resultados."
+
+warning_input_line_invalid: "Advertencia: línea de entrada no válida (%s), se ignorará."
+warning_overflow_pins: "Advertencia: trampa detectada %s , demasiados bolos, se ignorará."
+warning_missin_shot: "Advertencia: %s se saltó un tiro."

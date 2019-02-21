@@ -1,5 +1,5 @@
-require_relative '../src/_alias.rb'
-Dir.chdir('../src')
+require File.expand_path '../src/_alias.rb', __dir__
+
 Debug.enable_testing()
 # RSpec.configure do |config|
 #   config.before(:suite) do

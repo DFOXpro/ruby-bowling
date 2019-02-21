@@ -4,7 +4,7 @@
 PROGRAM_NAME = 'Ruby-bowling'
 
 # version
-VERSION = '0.0.1'
+VERSION = '1.0.0'
 
 # author
 AUTHOR = 'Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co'

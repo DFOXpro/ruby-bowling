@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.3)
+    parallel (1.13.0)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
@@ -15,16 +16,15 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
     rspec-support (3.8.0)
-    rubyscript2exe (0.5.3)
     yard (0.9.18)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  parallel (~> 1.13)
   rspec (~> 3.8)
-  rubyscript2exe (~> 0.5.3)
   yard (~> 0.9.18)
 
 BUNDLED WITH
-   1.17.1
+   1.17.3

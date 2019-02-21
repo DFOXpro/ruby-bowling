@@ -1,10 +1,10 @@
-require_relative './before_specs.rb'
-require_relative '../src/controllers/input_file_controller.rb'
-require_relative '../src/models/player_score.rb'
-require_relative '../src/views/bowling_view.rb'
+require File.expand_path './before_specs.rb', __dir__
+require File.expand_path '../src/controllers/input_file_controller.rb', __dir__
+require File.expand_path '../src/models/player_score.rb', __dir__
+require File.expand_path '../src/views/bowling_view.rb', __dir__
 
 def _process_data(input_file)
-	InputFileController.set_input_file input_file
+	InputFileController.set_input_file File.expand_path input_file, __dir__
 	raw_data = InputFileController.get_raw_data
 	raw_data.each {|input_line| PlayerScore.digest_input_line input_line}
 	return BowlingView.print_scores PlayerScore.player_list

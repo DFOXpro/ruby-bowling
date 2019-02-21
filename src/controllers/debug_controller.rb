@@ -1,5 +1,5 @@
 # @author Daniel Zorro (DFOXpro) drzorrof+ruby-bowling at unal dot edu dot co
-require_relative './error_log_controller'
+require File.join File.dirname(__FILE__), './error_log_controller'
 
 # This class if enable will print debug info, intended for testing
 class DebugController
@@ -9,6 +9,9 @@ class DebugController
 
 	# The output used to show the errors can be STDOUT or DebugOutputAttribute object
 	@@debug_output = STDOUT
+
+	# Times of start_benchmark
+	@@benchmark_times = {}
 
 	# Enable show debug messages
 	def self.enable_debug
@@ -21,6 +24,25 @@ class DebugController
 	def self.print(*args)
 		@@debug_output.puts "_DBG: #{args.join('·')}" if @@enable_debug
 		return nil
+	end
+
+	# Start a benchmark timer
+	# @param key [Symbol] to use later with .stop_benchmark
+	# @param text [String] to display in the debug log
+	def self.start_benchmark(key, text)
+		@@benchmark_times[key] = {
+			time: Time.now,
+			text: text
+		}
+		Debug.print "bmStart: #{text}"
+	end
+	
+	# Stop a benchmark timer, and display info in the log
+	# @param key [Symbol] set in .star_benchmark
+	def self.stop_benchmark(key)
+		Debug.print "bmStop: #{@@benchmark_times[key][:text]} (#{Time.now - @@benchmark_times[key][:time]})"
+		# @@benchmark_times.reject! key
+		
 	end
 
 	# @private

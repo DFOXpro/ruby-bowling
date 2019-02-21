@@ -25,13 +25,15 @@ class Localization
 
 	DEFAULT_LANGUAGES = :en
 	VALID_LANGUAGES = [
-		:en # , :fr, :es
+		:en, :fr, :es
 	]
 
 	def self.current_language_locale
 		ENV['LANGUAGE'].split(':').each do |posible_lang|
 			posible_lang = posible_lang[0...2].to_sym
-			@@locales = YAML.load_file("./locales/#{posible_lang}.yml") if(
+			@@locales = YAML.load_file(
+				File.join File.dirname(__FILE__), "locales/#{posible_lang}.yml"
+			) if(
 				@@locales.nil? and
 				VALID_LANGUAGES.include? posible_lang
 			)
