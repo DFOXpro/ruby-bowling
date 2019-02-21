@@ -8,33 +8,35 @@ help_txt: |
   Usage: ./%{program_name} [ <file> | options ... ]
 
     %{program_name} options include:
-    H or -h or --help               Print this help and exit[*]
-    V or -v or --version            Print %{program_name} version and exit[*]
-    D or -d or --debug              Enable debug console log
-    G or -g or --generate <file>    Create a inputFile and uses this, if no file is given will write <%{default_input_file}>
-    P or -p or --generate-players # If G option is enable Define total of random players
-    I or -i or --input-file <file>  Define a custom input file, default is <%{default_input_file}>
-    <file>                          Same as I <file> , but does not accept any other param
-    O or -o or --output-file <file> Define a custom output file default is console log
+    H or -h or --help                Print this help and exit[*]
+    V or -v or --version             Print %{program_name} version and exit[*]
+    D or -d or --debug               Enable debug console log
+    G or -g or --generate <file>     Create a inputFile and uses this, if no file is given will write <%{default_input_file}>
+    J or -j or --generate-no-process Generate data and process, no file is write
+    P or -p or --generate-players #  If G or J option is enable Define total of random players
+    I or -i or --input-file <file>   Define a custom input file, default is <%{default_input_file}>
+    <file>                           Same as I <file> , but does not accept any other param
+    O or -o or --output-file <file>  Define a custom output file default is console log
 
     [*] If this options is first, will ignore all other options
     ** You can concatenate upercase options, for - and -- should be space tokenized
 
   Examples:
-    ./%{program_name}                    Process <%{default_input_file}> into console log, if file not found will generate a custom input
+    ./%{program_name}                    Process <%{default_input_file}> into console log, if file not found will alert and exit
     ./%{program_name} custom\ input.txt  Process <custom input.txt> into console log
     ./%{program_name} I ir.txt O pr.txt  Process <ir.txt> into <pr.txt>
-    ./%{program_name} IO r.txt --debug   Process <r.txt> and override results into itself with debug mode
-    ./%{program_name} GO r.txt -p 3      Process generated input with 3 random players into <r.txt> (override generated input)
+    ./%{program_name} --debug O r.txt    Process <%{default_input_file}> into <r.txt> with debug mode
+    ./%{program_name} JO r.txt -p 3      Process generated input with 3 random players into <r.txt> (no generated input file is created)
     ./%{program_name} VHDGIO r.txt       Print version and ignore other params
+
 error_invalid_argument: "Warning: the option %s is invalid."
 error_invalid_argument_concat: "Warning: you can't concat -options use instead -d -g or DG, ignoring %s."
 error_invalid_argument_blank: "Warning: catch a blank -  or -- option."
 
-warning_input_not_found: "Warning: (%s) not found, if you set G option with the same route will works fine."
+warning_input_not_found: "Warning: (%s) not found, if you set G or J option will works fine."
 error_input_not_found: "Error: (%s) input not found."
 warning_generate_found: "Warning: (%s) is goin to be override with generated data."
-warning_output_file_found: "Warning: ($s) is goin to be override with score card ."
+warning_output_file_found: "Warning: (%s) is goin to be override with score card ."
 
 warning_input_line_invalid: "Warning: invalid input line (%s), will be ignored."
 warning_overflow_pins: "Warning: cheat detected %s , too many pins, shot will be ignored."

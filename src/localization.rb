@@ -25,7 +25,7 @@ class Localization
 
 	DEFAULT_LANGUAGES = :en
 	VALID_LANGUAGES = [
-		:en # , :fr, :es
+		:en, :fr, :es
 	]
 
 	def self.current_language_locale
