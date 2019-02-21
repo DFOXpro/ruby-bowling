@@ -13,7 +13,7 @@ Example:
 cd bin
 ./ruby-bowling
 ```
-This will read the `game.txt` file in the `src` folder
+This will read the `game.txt` file in the `bin` folder
 
 ### Advance use
 
@@ -33,14 +33,14 @@ cd bin
 cd bin
 ./test_me.sh
 ```
-* Any other extra option see the help
+* Any other extra option (like generate data or output to file) see the help
 ```
 ./ruby-bowling --help
 ```
 
 ## Known issues
 
-* all given routes are relative to `src` folder
+* ~~all given routes are relative to `src` folder~~
 
 ## Licence
 MPL v2.0
