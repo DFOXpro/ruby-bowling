@@ -23,7 +23,6 @@ RSpec.describe PlayerScore, '.digest_input_line' do
 		raw_data = InputFileController.get_raw_data
 		raw_data.each {|input_line| PlayerScore.digest_input_line input_line}
 		log = Debug.log
-		puts log
   end
 	context 'With a "valid" input' do
 		it 'Players should be created just one time' do
