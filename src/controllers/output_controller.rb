@@ -2,6 +2,7 @@
 
 # This class handle the output file
 class OutputFileController
+	@@output_file_route = :NO_FILE_OUTPUT
 
 	# Set the file route of the output
 	# will check and alert if the file is found
